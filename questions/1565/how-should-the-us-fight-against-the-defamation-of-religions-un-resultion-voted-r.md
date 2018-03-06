@@ -30,9 +30,8 @@ Reference article [here][1]. Without getting into a loop about tolerance, I was 
 - posted by: [Seti](https://stackexchange.com/users/-1/247-seti) on 2010-12-28
 - score: 2
 
-<p>It's nothing to do with cultural sensitivity. Human rights are for people, not ideas. Ideas should not be protected by censorship, unless they explicitly promote violence. That may mean that certain ideas you don't like have to be tolerated, but the best way to defeat them is by rational arguement, or by ignoring them. 
-Any attempt to pass a ruling which says that we can't argue that stoning women to death for "adultery" is unacceptable automatically shows itself for what it is, and should be strongly resisted.</p>
-
+It's nothing to do with cultural sensitivity. Human rights are for people, not ideas. Ideas should not be protected by censorship, unless they explicitly promote violence. That may mean that certain ideas you don't like have to be tolerated, but the best way to defeat them is by rational arguement, or by ignoring them. 
+Any attempt to pass a ruling which says that we can't argue that stoning women to death for "adultery" is unacceptable automatically shows itself for what it is, and should be strongly resisted.
 
 
 ## Answer 1669
@@ -40,8 +39,7 @@ Any attempt to pass a ruling which says that we can't argue that stoning women t
 - posted by: [DanDare](https://stackexchange.com/users/-1/607-dandare) on 2010-12-29
 - score: 0
 
-<p>The best thing you can do is reach out to as many as possible in the countries that voted for this resolution and don't accept that "cultural sensitivity" trumps human rights. Show them that free speech means protection, especially, of criticism.</p>
-
+The best thing you can do is reach out to as many as possible in the countries that voted for this resolution and don't accept that "cultural sensitivity" trumps human rights. Show them that free speech means protection, especially, of criticism.
 
 
 ## Answer 1819
@@ -49,19 +47,20 @@ Any attempt to pass a ruling which says that we can't argue that stoning women t
 - posted by: [Dajjal](https://stackexchange.com/users/-1/656-dajjal) on 2010-12-31
 - score: 0
 
-<p>The question has no positive answer because it is: 
+The question has no positive answer because it is: 
 1. an exemplar of cognitive dissonance
 2. founded on two false premises.
-Obamination's assertion of opposition to 'defamation of religions' as a legal concept is false, malicious and malignant. It is a beard for Obamination's domestic and foreign policy of censorship. Witness their co-sponsorship with Egypt of the "Freedom of Belief and Expression" resolution which substituted 'negative stereotyping' for 'defamation' .  Examine Cass Sunstrom's "The future of Free Speech" and the earlier paper by one of Obamination's FCC appointees on 'market imbalance' in talk radio.  [Search for my blog posts tagged or titled Unfairness Doctrine.]</p>
+Obamination's assertion of opposition to 'defamation of religions' as a legal concept is false, malicious and malignant. It is a beard for Obamination's domestic and foreign policy of censorship. Witness their co-sponsorship with Egypt of the "Freedom of Belief and Expression" resolution which substituted 'negative stereotyping' for 'defamation' .  Examine Cass Sunstrom's "The future of Free Speech" and the earlier paper by one of Obamination's FCC appointees on 'market imbalance' in talk radio.  [Search for my blog posts tagged or titled Unfairness Doctrine.]
 
-<p>The cultural norm of the OIC membership is Islam. Islam is not a religion, it is a Deen: way of life.  Their way is intra-species predation. The religious component of Islam, which serves as a troop motivator and camouflage, is protected by its legal component, which prescribes the death penalty for any criticism of Allah, Moe, the Qur'an or Islam. Doubters and dissenters should open Reliance of the Traveller to Book O, Chapter 8 &amp; Chapter 9 and discover the truth for themselves. </p>
+The cultural norm of the OIC membership is Islam. Islam is not a religion, it is a Deen: way of life.  Their way is intra-species predation. The religious component of Islam, which serves as a troop motivator and camouflage, is protected by its legal component, which prescribes the death penalty for any criticism of Allah, Moe, the Qur'an or Islam. Doubters and dissenters should open Reliance of the Traveller to Book O, Chapter 8 & Chapter 9 and discover the truth for themselves. 
 
-<p>'Defamation', 'negative stereotyping' &amp; 'vilification' [substituted in the latest edition of the resolution] carry the same meanings. Islam can not be defamed because its intrinsic evil is open on the face of its canon of scripture, tradition, exegesis, jurisprudence &amp; biography.  </p>
+'Defamation', 'negative stereotyping' & 'vilification' [substituted in the latest edition of the resolution] carry the same meanings. Islam can not be defamed because its intrinsic evil is open on the face of its canon of scripture, tradition, exegesis, jurisprudence & biography.  
 
-<p>The infamous resolution is a beard for a parallel process running below the radar in the name of an ad hoc cmte. of the HRC. The cmte.'s mission  is to code the resolution's provisions into a binding protocol to ICERD which can be enforced in the World Court. Few people know about that parallel track, Fewer will tell you about it and none will do anything to stop it.  Those who are interested in the details can learn more from my compiled blog posts on the subject, linked on my web site. </p>
+The infamous resolution is a beard for a parallel process running below the radar in the name of an ad hoc cmte. of the HRC. The cmte.'s mission  is to code the resolution's provisions into a binding protocol to ICERD which can be enforced in the World Court. Few people know about that parallel track, Fewer will tell you about it and none will do anything to stop it.  Those who are interested in the details can learn more from my compiled blog posts on the subject, linked on my web site. 
 
-<p>If you would promote democracy, liberty and free speech, you must first eliminate Islam from the world by emancipating Allah's slaves. 'Nation Building' in which the new constitutions have the Qur'an as the basis of their law is part of the problem, not part of the solution.</p>
+If you would promote democracy, liberty and free speech, you must first eliminate Islam from the world by emancipating Allah's slaves. 'Nation Building' in which the new constitutions have the Qur'an as the basis of their law is part of the problem, not part of the solution.
 
+ 
 
 
 

@@ -25,13 +25,13 @@ If so, then we must remain at best agnostic and skeptical, as ANY *metaphysical*
 - posted by: [Denis Robert](https://stackexchange.com/users/-1/122-denis-robert) on 2011-02-10
 - score: 2
 
-<p>The claim that "God does not exist" itself, absent any other characteristics, is indefensible. But that claim is never what is intended by Atheists in reality. It is impossible to disprove the claim that a God (however defined) which exists outside of Nature and exerts no influence on it whatsoever is possible. But that is at best Deism, not Theism.</p>
+The claim that "God does not exist" itself, absent any other characteristics, is indefensible. But that claim is never what is intended by Atheists in reality. It is impossible to disprove the claim that a God (however defined) which exists outside of Nature and exerts no influence on it whatsoever is possible. But that is at best Deism, not Theism.
 
-<p>Atheism is not aDeism. Theism makes a number of claims which can be disproved empirically, to at least as much of a degree of certainty as any other claim. Chief of this is the fact that the theistic Deity acts in the world. One has the right, then, to ask: where is the evidence of action of a theistic Deity in the world. If such a Deity existed, and acted in the world, there <em>should</em> be some evidence of that action. The fact that no such evidence has ever been unearthed confers a high degree of probability to the statement that such a God does not in fact exist.</p>
+Atheism is not aDeism. Theism makes a number of claims which can be disproved empirically, to at least as much of a degree of certainty as any other claim. Chief of this is the fact that the theistic Deity acts in the world. One has the right, then, to ask: where is the evidence of action of a theistic Deity in the world. If such a Deity existed, and acted in the world, there *should* be some evidence of that action. The fact that no such evidence has ever been unearthed confers a high degree of probability to the statement that such a God does not in fact exist.
 
-<p>There is no way of "proving" a negative. Absence of evidence is never <em>proof</em> of absence. But it is, where it can be shown that the evidence <em>should</em> exist, <em>evidence</em> of absence. The confusion on this point usually rests in confusing evidence and proof.</p>
+There is no way of "proving" a negative. Absence of evidence is never *proof* of absence. But it is, where it can be shown that the evidence *should* exist, *evidence* of absence. The confusion on this point usually rests in confusing evidence and proof.
 
-<p>All human knowledge is contingent knowledge. Even Descartes' "I think therefore I am" is subject to probability (it's only true if there's such a thing as consciousness, which can be questioned). So one is as justified in saying that God does not exist, based on the absence of evidence which should reasonably be expected to exist were God to exist, than to say anything else about the world.</p>
+All human knowledge is contingent knowledge. Even Descartes' "I think therefore I am" is subject to probability (it's only true if there's such a thing as consciousness, which can be questioned). So one is as justified in saying that God does not exist, based on the absence of evidence which should reasonably be expected to exist were God to exist, than to say anything else about the world.
 
 
 
@@ -40,10 +40,9 @@ If so, then we must remain at best agnostic and skeptical, as ANY *metaphysical*
 - posted by: [Community](https://stackexchange.com/users/-1/-1-community) on 2011-02-10
 - score: 1
 
-<p><i>It is true. I can't logically prove that it's impossible to float. Really, I never said it was impossible to begin with. It's just that based on what I know of how the world works, it simply is not so. If you jump off a bridge, you will fall. I say this with absolute certainty though of course I must always admit that it is a logically indefensible position. I've always considered that a rather pedantic point though. </i></p>
+<i>It is true. I can't logically prove that it's impossible to float. Really, I never said it was impossible to begin with. It's just that based on what I know of how the world works, it simply is not so. If you jump off a bridge, you will fall. I say this with absolute certainty though of course I must always admit that it is a logically indefensible position. I've always considered that a rather pedantic point though. </i>
 
-<p><a href="http://crazyeddiesbrain.blogspot.com/2010/07/just-my-opinion.html" rel="nofollow">http://crazyeddiesbrain.blogspot.com/2010/07/just-my-opinion.html</a></p>
-
+http://crazyeddiesbrain.blogspot.com/2010/07/just-my-opinion.html
 
 
 ## Answer 2816
@@ -51,10 +50,9 @@ If so, then we must remain at best agnostic and skeptical, as ANY *metaphysical*
 - posted by: [Lausten](https://stackexchange.com/users/-1/584-lausten) on 2011-02-16
 - score: 1
 
-<p>Dawkins handles this with his scale of belief, where 0 is full believer and 7 is completely positive there are no gods of any kind ever. He puts himself at 6.9 since he believes it is part of science that there is always something unknown, something we can't disprove, something we just don't have data on yet. </p>
+Dawkins handles this with his scale of belief, where 0 is full believer and 7 is completely positive there are no gods of any kind ever. He puts himself at 6.9 since he believes it is part of science that there is always something unknown, something we can't disprove, something we just don't have data on yet. 
 
-<p>He also points out that as an argument for a particular god, this is terribly weak. All you have done is stated that anything can be true. So now, there is an infinitesmal possibility that the god of the Bible is true. Unfortunately, that makes the same case for the god of the Quran. In the case of this question, I don't think it is the proper use of the term "metaphysical". Either way, it just doesn't say much of anything at all. </p>
-
+He also points out that as an argument for a particular god, this is terribly weak. All you have done is stated that anything can be true. So now, there is an infinitesmal possibility that the god of the Bible is true. Unfortunately, that makes the same case for the god of the Quran. In the case of this question, I don't think it is the proper use of the term "metaphysical". Either way, it just doesn't say much of anything at all. 
 
 
 ## Answer 2850
@@ -62,8 +60,7 @@ If so, then we must remain at best agnostic and skeptical, as ANY *metaphysical*
 - posted by: [jaskey13](https://stackexchange.com/users/-1/1107-jaskey13) on 2011-02-20
 - score: 0
 
-<p>According to Hume knowledge derives from our experiences. Even science is seen to be contingent upon "the sensations of man." If we are to search for things that are absolutely true or absolutely false then that search will bring us outside of our experience. Furthermore it seems that if we are to ask such questions they immediately lie outside our understanding. For what we understand are beliefs- that validity of them being in our own personal experience. So if we are honest then we must put atheism and theism on equal grounds. These are beliefs that are held by human beings where proof of disproof is solely a matter of how we choose to understand the world. A man's "spiritual awakening" can have no more or less validity than another man's assemblage of logical evidence disproving the existence of God. Boo if you will- but for me atheism is about honesty- and we cannot inflate ourselves into the very deities that we so passionately deny.</p>
-
+According to Hume knowledge derives from our experiences. Even science is seen to be contingent upon "the sensations of man." If we are to search for things that are absolutely true or absolutely false then that search will bring us outside of our experience. Furthermore it seems that if we are to ask such questions they immediately lie outside our understanding. For what we understand are beliefs- that validity of them being in our own personal experience. So if we are honest then we must put atheism and theism on equal grounds. These are beliefs that are held by human beings where proof of disproof is solely a matter of how we choose to understand the world. A man's "spiritual awakening" can have no more or less validity than another man's assemblage of logical evidence disproving the existence of God. Boo if you will- but for me atheism is about honesty- and we cannot inflate ourselves into the very deities that we so passionately deny.
 
 
 

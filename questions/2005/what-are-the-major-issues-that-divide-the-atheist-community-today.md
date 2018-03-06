@@ -26,14 +26,13 @@ P.S. Please don't leave responses defending either position as being caricature 
 - posted by: [Ustice](https://stackexchange.com/users/-1/541-ustice) on 2011-01-06
 - score: 1
 
-<p>The two largest divides in the atheist community are based around defining atheism and how we should engage theists. I think that the former debate on defining atheism has cooled down to just realizing that everyone has a different level of skepticism, and that trying to say that something is true for all atheists is silly. </p>
+The two largest divides in the atheist community are based around defining atheism and how we should engage theists. I think that the former debate on defining atheism has cooled down to just realizing that everyone has a different level of skepticism, and that trying to say that something is true for all atheists is silly. 
 
-<p>How we engage theists on the other hand is very hotly debated. There are vocal people on the side that wants to accept religious moderates and work together with them, and there are just as many that want to stick to strong ideals in fighting religion in all it's forms. </p>
+How we engage theists on the other hand is very hotly debated. There are vocal people on the side that wants to accept religious moderates and work together with them, and there are just as many that want to stick to strong ideals in fighting religion in all it's forms. 
 
-<p>This has a lot to do with what Eliezer Yudkowsky pointed out as <a href="http://lesswrong.com/lw/11m/atheism_untheism_antitheism/" rel="nofollow">untheism and antitheism</a>. The untheist simply has no exposure to the concept of God, and the antitheist rejects the god hypothesis. I think that this can be further be expanded to be seen as personal belief vs. belief for the world.</p>
+This has a lot to do with what Eliezer Yudkowsky pointed out as <a href="http://lesswrong.com/lw/11m/atheism_untheism_antitheism/">untheism and antitheism</a>. The untheist simply has no exposure to the concept of God, and the antitheist rejects the god hypothesis. I think that this can be further be expanded to be seen as personal belief vs. belief for the world.
 
-<p>Both are important, I think. We need those that will engage theists as partners in improving scientific understanding, and compassion for the human condition, and we need the rabble rousers that will fight the rights of atheists and help to mitigate the influence of theist groups, and everything in between.</p>
-
+Both are important, I think. We need those that will engage theists as partners in improving scientific understanding, and compassion for the human condition, and we need the rabble rousers that will fight the rights of atheists and help to mitigate the influence of theist groups, and everything in between.
 
 
 

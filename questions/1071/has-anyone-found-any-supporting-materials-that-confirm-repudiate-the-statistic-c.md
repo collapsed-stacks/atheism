@@ -23,24 +23,19 @@ Note: The note itself, from this 1997 blog post, appears also to have no support
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-21
 - score: 7
 
-<p>The 0.2% statistic comes from the <a href="http://www.homeoffice.gov.uk" rel="nofollow">The Home Office in the UK</a>, not the US.</p>
+The 0.2% statistic comes from the [The Home Office in the UK](http://www.homeoffice.gov.uk), not the US.
 
-<ul>
-<li><a href="http://www.homeoffice.gov.uk/rds/pdfs/hosb1501.pdf" rel="nofollow">Religion in Prisons 1999 and 2000</a></li>
-</ul>
+* [Religion in Prisons 1999 and 2000](http://www.homeoffice.gov.uk/rds/pdfs/hosb1501.pdf)
 
-<p>I found it on <a href="http://thoughtfulfaith.wordpress.com/2010/03/12/atheists-in-prison/" rel="nofollow">thoughtfulfaith.wordpress.com</a>, which claims to debunk this claim and has a good use of internal citations.</p>
+I found it on [thoughtfulfaith.wordpress.com](http://thoughtfulfaith.wordpress.com/2010/03/12/atheists-in-prison/), which claims to debunk this claim and has a good use of internal citations.
 
-<p>(For archival purposes)</p>
+(For archival purposes)
 
-<blockquote>
-  <p>"[...] 31.9% of inmates claimed to have “no religion”, of whom 0.2% who specifically answered that they were “atheists” and 0.1% who answered that they were “agnostic”."</p>
-  
-  <p><a href="http://thoughtfulfaith.wordpress.com/2010/03/12/atheists-in-prison/" rel="nofollow"><em>Thoughtful Faith</em></a></p>
-</blockquote>
+> "[...] 31.9% of inmates claimed to have “no religion”, of whom 0.2% who specifically answered that they were “atheists” and 0.1% who answered that they were “agnostic”."
+>
+> [*Thoughtful Faith*](http://thoughtfulfaith.wordpress.com/2010/03/12/atheists-in-prison/)
 
-<p>The blog is indeed true, as sad as it is. I checked the report and verified.</p>
-
+The blog is indeed true, as sad as it is. I checked the report and verified.
 
 
 ## Answer 1993
@@ -48,15 +43,15 @@ Note: The note itself, from this 1997 blog post, appears also to have no support
 - posted by: [Rodger Cooley](https://stackexchange.com/users/-1/58-rodger-cooley) on 2011-01-05
 - score: 4
 
-<p>This is not yet a complete answer, but I went to the Bureau of Prison's web site <a href="http://www.bop.gov" rel="nofollow">http://www.bop.gov</a> and did some simple, brief searches for any type of inmate religion reports... came up empty.  They have a library resource supposedly here <a href="http://www.bop.gov/foia/reading.jsp" rel="nofollow">http://www.bop.gov/foia/reading.jsp</a>.  Maybe you can find something I missed.</p>
+This is not yet a complete answer, but I went to the Bureau of Prison's web site http://www.bop.gov and did some simple, brief searches for any type of inmate religion reports... came up empty.  They have a library resource supposedly here http://www.bop.gov/foia/reading.jsp.  Maybe you can find something I missed.
 
-<p>I filed a FOIA request for an inmate religious affiliation report today, but who knows if/when that will be answered.</p>
+I filed a FOIA request for an inmate religious affiliation report today, but who knows if/when that will be answered.
 
-<p>I'll keep this thread updated if I receive any further news.</p>
+I'll keep this thread updated if I receive any further news.
 
-<p>Somewhat off topic, I found this paper published in April 2006 titled "An Exploration into Participation in a Faith-Based Prison Program" <a href="http://www.bop.gov/news/research_projects/published_reports/gen_program_eval/volunteer_cpp.pdf" rel="nofollow">http://www.bop.gov/news/research_projects/published_reports/gen_program_eval/volunteer_cpp.pdf</a>
-Some of the stats are interesting, but not directly relevant.</p>
 
+Somewhat off topic, I found this paper published in April 2006 titled "An Exploration into Participation in a Faith-Based Prison Program" http://www.bop.gov/news/research_projects/published_reports/gen_program_eval/volunteer_cpp.pdf
+Some of the stats are interesting, but not directly relevant.
 
 
 ## Answer 1076
@@ -64,16 +59,15 @@ Some of the stats are interesting, but not directly relevant.</p>
 - posted by: [Winawer](https://stackexchange.com/users/-1/281-winawer) on 2010-12-20
 - score: 1
 
-<p>I couldn't find anything from the US, but up here in Canada the Correctional Services people have some data on this.  Look at the charts at the end of this report:</p>
+I couldn't find anything from the US, but up here in Canada the Correctional Services people have some data on this.  Look at the charts at the end of this report:
 
-<p><a href="http://www.csc-scc.gc.ca/text/pa/ev-ncepc-394-2-026/pastoral_care_report_e.pdf" rel="nofollow">http://www.csc-scc.gc.ca/text/pa/ev-ncepc-394-2-026/pastoral_care_report_e.pdf</a></p>
+http://www.csc-scc.gc.ca/text/pa/ev-ncepc-394-2-026/pastoral_care_report_e.pdf
 
-<p>and a quick numerical summary is here:</p>
+and a quick numerical summary is here:
 
-<p><a href="http://www.csc-scc.gc.ca/text/prgrm/chap/rsa/doc-eng.shtml" rel="nofollow">http://www.csc-scc.gc.ca/text/prgrm/chap/rsa/doc-eng.shtml</a></p>
+http://www.csc-scc.gc.ca/text/prgrm/chap/rsa/doc-eng.shtml
 
-<p>Unfortunately, they're sloppy with their criteria.  It's not entirely clear if "non-religious" means atheist or is a catch-all for "no religion / I don't want to talk about it".  And they have a separate category for "Other", which they say includes atheist and agnostic.  In any case, though, outside of Québec, it seems unlikely that the number of atheists in Canadian prisons is as low as .21%.  It could range, depending on the region, anywhere from ~1% to as much as 20-40%.</p>
-
+Unfortunately, they're sloppy with their criteria.  It's not entirely clear if "non-religious" means atheist or is a catch-all for "no religion / I don't want to talk about it".  And they have a separate category for "Other", which they say includes atheist and agnostic.  In any case, though, outside of Québec, it seems unlikely that the number of atheists in Canadian prisons is as low as .21%.  It could range, depending on the region, anywhere from ~1% to as much as 20-40%.
 
 
 ## Answer 1072
@@ -81,12 +75,11 @@ Some of the stats are interesting, but not directly relevant.</p>
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2010-12-20
 - score: 0
 
-<p>Are either of these useful?</p>
+Are either of these useful?
 
-<p><a href="http://en.wikipedia.org/wiki/Demographics_of_atheism#North_America" rel="nofollow">http://en.wikipedia.org/wiki/Demographics_of_atheism#North_America</a></p>
+http://en.wikipedia.org/wiki/Demographics_of_atheism#North_America
 
-<p><a href="http://www.americanreligionsurvey-aris.org/2009/09/american_nones_the_profile_of_the_no_religion_population.html" rel="nofollow">http://www.americanreligionsurvey-aris.org/2009/09/american_nones_the_profile_of_the_no_religion_population.html</a></p>
-
+http://www.americanreligionsurvey-aris.org/2009/09/american_nones_the_profile_of_the_no_religion_population.html
 
 
 

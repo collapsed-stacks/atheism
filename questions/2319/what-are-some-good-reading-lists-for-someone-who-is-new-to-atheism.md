@@ -13,8 +13,15 @@ For someone who has recently discovered that the concept of Atheism exists, what
 - posted by: [ElendilTheTall](https://stackexchange.com/users/-1/769-elendilthetall) on 2011-01-18
 - score: 7
 
-For someone who has recently discovered that the concept of Atheism exists, what would you recommend as good books and/or reading lists?
+*Why I Am Not A Christian*, Bertrand Russell (available to read online at http://www.positiveatheism.org/hist/russell0.htm)
 
+*The God Delusion*, Richard Dawkins
+
+*God Is Not Great*, Christopher Hitchens
+
+*The End of Faith* and *Letter to a Christian Nation*, Sam Harris
+
+Oh, and enter 'Hitchslap' into Youtube. Hitchens is the master of the pithy remark.
 
 
 ## Answer 2321
@@ -22,7 +29,7 @@ For someone who has recently discovered that the concept of Atheism exists, what
 - posted by: [Ed Courtenay](https://stackexchange.com/users/-1/81-ed-courtenay) on 2011-01-18
 - score: 3
 
-For someone who has recently discovered that the concept of Atheism exists, what would you recommend as good books and/or reading lists?
+<p>PZ Myers' <a href="http://scienceblogs.com/pharyngula/" rel="nofollow">Pharyngula</a> blog is well worth subscribing to, along with the reading list provided by ElendiTheTall</p>
 
 
 
@@ -31,7 +38,8 @@ For someone who has recently discovered that the concept of Atheism exists, what
 - posted by: [rerun](https://stackexchange.com/users/-1/154-rerun) on 2011-01-18
 - score: 1
 
-For someone who has recently discovered that the concept of Atheism exists, what would you recommend as good books and/or reading lists?
+<p>I would suggest  The <a href="http://classics.mit.edu/Antoninus/meditations.html" rel="nofollow">Meditations</a> by Marcus Aurelius.
+And sam harris letter to a Christian nation.</p>
 
 
 
@@ -40,8 +48,7 @@ For someone who has recently discovered that the concept of Atheism exists, what
 - posted by: [Anna](https://stackexchange.com/users/-1/880-anna) on 2011-01-19
 - score: 0
 
-For someone who has recently discovered that the concept of Atheism exists, what would you recommend as good books and/or reading lists?
-
+"The Salmon of Doubt" by Douglas Adams. It sounds strange, but Adams talks quite a bit about his reasons for becoming an atheist. 
 
 
 ## Answer 2325
@@ -49,8 +56,13 @@ For someone who has recently discovered that the concept of Atheism exists, what
 - posted by: [Mudak](https://stackexchange.com/users/-1/205-mudak) on 2011-01-19
 - score: 0
 
-For someone who has recently discovered that the concept of Atheism exists, what would you recommend as good books and/or reading lists?
+The Future of an Illusion by Sigmund Freud
 
+On Reason by Tom Paine
+
+The Jefferson Bible (Thomas Jefferson took the bible and edited out the unreasonable sections)
+
+For fiction, I'd also recommend Douglas Adams' Hitchhiker's Guide to the Galaxy and the His Dark Materials trilogy by Philip Pullman
 
 
 

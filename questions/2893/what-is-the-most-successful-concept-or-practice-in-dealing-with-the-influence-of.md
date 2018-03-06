@@ -51,11 +51,10 @@ institutions</li>
 - posted by: [jaskey13](https://stackexchange.com/users/-1/1107-jaskey13) on 2011-02-25
 - score: 0
 
-<p>In the U.S. we see certain protections in the Constitution which seems to have been obscured by interpretation/implementation. However- success in the court systems concerning the teaching of natural selection in public schools is heartening. Perhaps here, in the US, this is the best way to move- that is direct legal challenges to policy that caters to the religious right. That being said though, litigants face financial and timeliness challenges when oppositions are presented in our court hierarchy. </p>
+In the U.S. we see certain protections in the Constitution which seems to have been obscured by interpretation/implementation. However- success in the court systems concerning the teaching of natural selection in public schools is heartening. Perhaps here, in the US, this is the best way to move- that is direct legal challenges to policy that caters to the religious right. That being said though, litigants face financial and timeliness challenges when oppositions are presented in our court hierarchy. 
 
-<p>And sad to say- that is all I think I can say about my country at this point in time.
-Though I'd love to see someone with better news/information.</p>
-
+And sad to say- that is all I think I can say about my country at this point in time.
+Though I'd love to see someone with better news/information.
 
 
 

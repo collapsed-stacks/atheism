@@ -29,8 +29,7 @@ In the UK we have the [Humanism Association][1] and I was thinking about joining
 - posted by: [Seti](https://stackexchange.com/users/-1/247-seti) on 2010-12-28
 - score: 2
 
-<p>The value of joining such organisations is that if they can point to a substantial membership they can assert greater influence on policy. Also, an organised response is usually better than a peicemeal one, especially when fighting the highly-organised power of the churches, and these campaigns also cost money. </p>
-
+The value of joining such organisations is that if they can point to a substantial membership they can assert greater influence on policy. Also, an organised response is usually better than a peicemeal one, especially when fighting the highly-organised power of the churches, and these campaigns also cost money. 
 
 
 ## Answer 807
@@ -38,8 +37,7 @@ In the UK we have the [Humanism Association][1] and I was thinking about joining
 - posted by: [Denis Robert](https://stackexchange.com/users/-1/122-denis-robert) on 2010-12-16
 - score: 1
 
-<p>This is not really a question for this forum, but I am a member of CFI Canada.</p>
-
+This is not really a question for this forum, but I am a member of CFI Canada.
 
 
 ## Answer 818
@@ -47,8 +45,7 @@ In the UK we have the [Humanism Association][1] and I was thinking about joining
 - posted by: [Mudak](https://stackexchange.com/users/-1/205-mudak) on 2010-12-16
 - score: 1
 
-<p>I'm a member of the Freedom From Religion Foundation.</p>
-
+I'm a member of the Freedom From Religion Foundation.
 
 
 ## Answer 840
@@ -56,8 +53,7 @@ In the UK we have the [Humanism Association][1] and I was thinking about joining
 - posted by: [CesarGon](https://stackexchange.com/users/-1/80-cesargon) on 2010-12-17
 - score: 1
 
-<p>I'm a <a href="http://www.the-brights.net/" rel="nofollow">Bright</a>.</p>
-
+I'm a <a href="http://www.the-brights.net/">Bright</a>.
 
 
 ## Answer 1309
@@ -76,8 +72,7 @@ In the UK we have the [Humanism Association][1] and I was thinking about joining
 - posted by: [curt](https://stackexchange.com/users/-1/62-curt) on 2010-12-23
 - score: 1
 
-<p>I'm also a member of Bright although I'm not crazy about the name.</p>
-
+I'm also a member of Bright although I'm not crazy about the name.
 
 
 

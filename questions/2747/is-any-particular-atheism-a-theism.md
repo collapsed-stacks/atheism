@@ -52,18 +52,17 @@ Please note: in order to clarify my intent I've ended up modifying the question 
 - posted by: [Brett](https://stackexchange.com/users/-1/811-brett) on 2011-02-15
 - score: 3
 
-<p>Atheism, by definition is the rejection of theism.</p>
+Atheism, by definition is the rejection of theism.
 
-<p>However, I think there are some situations where groups and individual atheists use authoritarian tactics and magical thinking to advance a power structure.</p>
+However, I think there are some situations where groups and individual atheists use authoritarian tactics and magical thinking to advance a power structure.
 
-<p>Examples:</p>
+Examples:
 
-<ol>
-<li><p>Marxism/Leninism/Stalinism is atheistic in principle, but depends on a hefty dose of magical thinking in politics, psychology and economics. The best example of this is the 'triumph' of Lamarkian Evolution in Soviet Biology.</p></li>
-<li><p>Ayn Rand &amp; Nathaniel Branden turned the Nathaniel Branden Institute into a cult of excessive reverence for Rand's interpretive position on what 'reason' constituted.</p></li>
-</ol>
+1. Marxism/Leninism/Stalinism is atheistic in principle, but depends on a hefty dose of magical thinking in politics, psychology and economics. The best example of this is the 'triumph' of Lamarkian Evolution in Soviet Biology.
 
-<p>Thus, I think atheism also includes a certain level of skepticism and the rejection of magical thinking/hero-worship. If I  accept every word that falls from the mouth of Richard Dawkins as unalloyed truth, I'm a theist. I'm just using atheist language, concepts and figures to describe my theism.</p>
+2. Ayn Rand & Nathaniel Branden turned the Nathaniel Branden Institute into a cult of excessive reverence for Rand's interpretive position on what 'reason' constituted.
+
+Thus, I think atheism also includes a certain level of skepticism and the rejection of magical thinking/hero-worship. If I  accept every word that falls from the mouth of Richard Dawkins as unalloyed truth, I'm a theist. I'm just using atheist language, concepts and figures to describe my theism.
 
 
 
@@ -72,12 +71,11 @@ Please note: in order to clarify my intent I've ended up modifying the question 
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2011-02-15
 - score: 2
 
-<p>Well, there are those wacky Ra&euml;lists, who worship as-yet-undiscovered aliens but stridently reject other forms of deity-worship or supernaturalism. That's about the closest I can think of to a "theist kind of atheism." </p>
+Well, there are those wacky <a href="http://en.wikipedia.org/wiki/Ra%C3%ABlism">Ra&euml;lists, who worship as-yet-undiscovered aliens but stridently reject other forms of deity-worship or supernaturalism. That's about the closest I can think of to a "theist kind of atheism." 
 
-<p>Brett makes some good points about particular atheists co-opting magical thinking and other forms of theist control. </p>
+Brett makes some good points about particular atheists co-opting magical thinking and other forms of theist control. 
 
-<p>Beyond that, I think any belief system which reduces at any point to "there's this, like, <i>stuff,</i> and it interacts with us somehow, but we can't point to it, or prove it, or interact with it, or measure it in any meaningful or consistent way" is theist at  heart. You can call it nature, fate, karma, the music of the spheres, or a head of lettuce named Ralph, but it's a deity all the same. </p>
-
+Beyond that, I think any belief system which reduces at any point to "there's this, like, <i>stuff,</i> and it interacts with us somehow, but we can't point to it, or prove it, or interact with it, or measure it in any meaningful or consistent way" is theist at  heart. You can call it nature, fate, karma, the music of the spheres, or a head of lettuce named Ralph, but it's a deity all the same. 
 
 
 

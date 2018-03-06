@@ -30,16 +30,13 @@ Listing factors that you wouldn't take into account is also fine. For example:
 - posted by: [Mudak](https://stackexchange.com/users/-1/205-mudak) on 2011-01-19
 - score: 5
 
-<p>For me, it's really very simple.  I make accommodations assuming the request doesn't inconvenience or injure me or others, however there is one point upon which I will not compromise:  if given the choice between freedom of speech and blasphemy, I will side with free speech.  Blasphemy is a victimless crime, or, more to the point, if I say something that offends someone else's god, then let that god deal with me.  The person whose god is offended need not take matters into his own hands.</p>
+For me, it's really very simple.  I make accommodations assuming the request doesn't inconvenience or injure me or others, however there is one point upon which I will not compromise:  if given the choice between freedom of speech and blasphemy, I will side with free speech.  Blasphemy is a victimless crime, or, more to the point, if I say something that offends someone else's god, then let that god deal with me.  The person whose god is offended need not take matters into his own hands.
 
-<p>Let's face it: sometimes we make accommodations without even knowing we're doing it.  Take Exodus 34:26, which is one of the ten commandments from the replacement tablets after Moses destroyed the originals.  </p>
+Let's face it: sometimes we make accommodations without even knowing we're doing it.  Take Exodus 34:26, which is one of the ten commandments from the replacement tablets after Moses destroyed the originals.  
 
-<blockquote>
-  <p>"Bring the best of the firstfruits of your soil to the house of the LORD your God. "Do not cook a young goat in its mother's milk."</p>
-</blockquote>
+> "Bring the best of the firstfruits of your soil to the house of the LORD your God. "Do not cook a young goat in its mother's milk."
 
-<p>(NIV translation).  I concede that I have never even thought of doing this.</p>
-
+(NIV translation).  I concede that I have never even thought of doing this.
 
 
 ## Answer 2344
@@ -65,22 +62,19 @@ Accommodating ALL faith requests is impractical, so tending toward a neutral, no
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2011-01-19
 - score: 1
 
-<p>Some of my factors might be:</p>
+Some of my factors might be:
 
-<ul>
-<li>Who's asking? What's my relationship
-with that person?</li>
-<li>How much does the request
-inconvenience me?</li>
-<li>How much does the request insult me?</li>
-<li>How much does the request injure me?</li>
-<li>How much does the request
-inconvenience, insult, or injure
-others?</li>
-</ul>
+ - Who's asking? What's my relationship
+   with that person?
+ - How much does the request
+   inconvenience me?
+ - How much does the request insult me?
+ - How much does the request injure me?
+ - How much does the request
+   inconvenience, insult, or injure
+   others?
 
-<p>I might do something ridiculous for a family member or close friend, but not for a stranger. I will not tolerate anti-gay slurs from anyone. </p>
-
+I might do something ridiculous for a family member or close friend, but not for a stranger. I will not tolerate anti-gay slurs from anyone. 
 
 
 

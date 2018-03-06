@@ -32,32 +32,33 @@ I would like to know if there is some credible support (not just talking points)
 - posted by: [kzen](https://stackexchange.com/users/-1/808-kzen) on 2011-03-09
 - score: 4
 
-<p>All you need is a couple of quotes from Thomas Jefferson himself:</p>
+All you need is a couple of quotes from Thomas Jefferson himself:
 
-<blockquote>
-  <p>Christianity neither is, nor ever was
-  a part of the common law.</p>
-  
-  <p>-Thomas Jefferson, letter to Dr. Thomas Cooper, February 10, 1814</p>
-  
-  <p>Believing with you that religion is a
-  matter which lies solely between man
-  and his God, that he owes account to
-  none other for his faith or his
-  worship, that the legislative powers
-  of government reach actions only, and
-  not opinions, I contemplate with
-  sovereign reverence that act of the
-  whole American people which declared
-  that their legislature should 'make no
-  law respecting an establishment of
-  religion, or prohibiting the free
-  exercise thereof,' thus building a
-  wall of separation between church and
-  State.</p>
-  
-  <p>-Thomas Jefferson, letter to Danbury Baptist Association, CT., Jan. 1, 1802</p>
-</blockquote>
+
+> Christianity neither is, nor ever was
+> a part of the common law.
+> 
+> -Thomas Jefferson, letter to Dr. Thomas Cooper, February 10, 1814
+
+
+> Believing with you that religion is a
+> matter which lies solely between man
+> and his God, that he owes account to
+> none other for his faith or his
+> worship, that the legislative powers
+> of government reach actions only, and
+> not opinions, I contemplate with
+> sovereign reverence that act of the
+> whole American people which declared
+> that their legislature should 'make no
+> law respecting an establishment of
+> religion, or prohibiting the free
+> exercise thereof,' thus building a
+> wall of separation between church and
+> State.
+> 
+> -Thomas Jefferson, letter to Danbury Baptist Association, CT., Jan. 1, 1802
+
 
 
 
@@ -85,8 +86,7 @@ I would like to know if there is some credible support (not just talking points)
 - posted by: [user unknown](https://stackexchange.com/users/-1/992-user-unknown) on 2011-03-09
 - score: 1
 
-<p>Because they are poorly educated, they practice wishful thinking, and they put some irrelevant pieces together: Pilgrim fathers, a majority of Christians, ... Then they think that theft and murder were firstly forbidden in Christian culture. And in a rush ... - </p>
-
+Because they are poorly educated, they practice wishful thinking, and they put some irrelevant pieces together: Pilgrim fathers, a majority of Christians, ... Then they think that theft and murder were firstly forbidden in Christian culture. And in a rush ... - 
 
 
 

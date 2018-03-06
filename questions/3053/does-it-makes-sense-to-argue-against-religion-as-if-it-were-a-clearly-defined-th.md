@@ -22,10 +22,9 @@ Do you think that it makes sense to speak about religion as if it were a well de
 - posted by: [Peter](https://stackexchange.com/users/-1/168-peter) on 2011-03-07
 - score: 1
 
-<p>Is Pascal Boyer claiming he doesn't think there is no definition of religion? This is the author of a book called "Religion Explained". It seems contradictory that he makes that claim and then provides a definition in the next sentence. </p>
+Is Pascal Boyer claiming he doesn't think there is no definition of religion? This is the author of a book called "Religion Explained". It seems contradictory that he makes that claim and then provides a definition in the next sentence. 
 
-<p>Religions have enough traits in common that I'm sure anyone with a functioning brain can recognize one and make rational arguments against it. This sounds like the old theist trick of claiming that you can't argue against their particular god unless you first provide a concise definition of their god.</p>
-
+Religions have enough traits in common that I'm sure anyone with a functioning brain can recognize one and make rational arguments against it. This sounds like the old theist trick of claiming that you can't argue against their particular god unless you first provide a concise definition of their god.
 
 
 

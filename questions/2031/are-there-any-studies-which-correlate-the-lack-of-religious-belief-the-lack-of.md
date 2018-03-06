@@ -15,8 +15,7 @@ According to [Wikipedia][1], there is weak evidence for a correlation between bo
 - posted by: [Matthew Read](https://stackexchange.com/users/-1/740-matthew-read) on 2011-01-08
 - score: 5
 
-<p>An interesting and nonscientific look at reading &amp; writing skills amongst people of different beliefs (atheists score highest): <a href="http://blog.okcupid.com/index.php/the-real-stuff-white-people-like/" rel="nofollow">http://blog.okcupid.com/index.php/the-real-stuff-white-people-like/</a></p>
-
+An interesting and nonscientific look at reading & writing skills amongst people of different beliefs (atheists score highest): http://blog.okcupid.com/index.php/the-real-stuff-white-people-like/
 
 
 ## Answer 2042
@@ -56,8 +55,7 @@ According to [Wikipedia][1], there is weak evidence for a correlation between bo
 - posted by: [CesarGon](https://stackexchange.com/users/-1/80-cesargon) on 2011-01-07
 - score: 0
 
-<p>Satoshi Kanazawa has a paper titled "Why Liberals and Atheists Are More Intelligent" on Social Psychology Quarterly; I am not sure if you can find the full version online for free, but <a href="http://reason.com/blog/2010/02/24/why-liberals-and-atheists-are" rel="nofollow">here</a> is a short summary.</p>
-
+Satoshi Kanazawa has a paper titled "Why Liberals and Atheists Are More Intelligent" on Social Psychology Quarterly; I am not sure if you can find the full version online for free, but <a href="http://reason.com/blog/2010/02/24/why-liberals-and-atheists-are">here</a> is a short summary.
 
 
 ## Answer 2036
@@ -65,10 +63,9 @@ According to [Wikipedia][1], there is weak evidence for a correlation between bo
 - posted by: [edelwater](https://stackexchange.com/users/-1/562-edelwater) on 2011-01-08
 - score: 0
 
-<p>I found: "Relation of intelligence and religiosity to depressive disorders in offspring of depressed and nondepressed mothers" ( <a href="http://www.ncbi.nlm.nih.gov/pubmed/12707562" rel="nofollow">http://www.ncbi.nlm.nih.gov/pubmed/12707562</a> )</p>
+I found: "Relation of intelligence and religiosity to depressive disorders in offspring of depressed and nondepressed mothers" ( http://www.ncbi.nlm.nih.gov/pubmed/12707562 )
 
-<p>But probably with some smarter queries you can get some more by searching on pubmed</p>
-
+But probably with some smarter queries you can get some more by searching on pubmed
 
 
 ## Answer 2040
@@ -76,14 +73,13 @@ According to [Wikipedia][1], there is weak evidence for a correlation between bo
 - posted by: [Piotr Migdal](https://stackexchange.com/users/-1/375-piotr-migdal) on 2011-01-08
 - score: 0
 
-<p>While it is not a detailed study of correlation of intelligence and religiousness, you may find this article relevant:</p>
+While it is not a detailed study of correlation of intelligence and religiousness, you may find this article relevant:
 
-<ul>
-<li>Edward J. Larson, Larry Witham, <strong>Leading scientists still reject God</strong>, Nature 394, 313 (23 July 1998) <a href="http://dx.doi.org/10.1038/28478" rel="nofollow">doi:10.1038/28478</a>
-( <a href="http://www.stephenjaygould.org/ctrl/news/file002.pdf" rel="nofollow">http://www.stephenjaygould.org/ctrl/news/file002.pdf</a> )</li>
-</ul>
+* Edward J. Larson, Larry Witham, **Leading scientists still reject God**, Nature 394, 313 (23 July 1998) [doi:10.1038/28478](http://dx.doi.org/10.1038/28478)
+( http://www.stephenjaygould.org/ctrl/news/file002.pdf )
 
-<p>In US in 1998 only about 7% of scientist were believers in any form of God. Other studies show also that the more eminent are scientists, less believers are among them.</p>
+In US in 1998 only about 7% of scientist were believers in any form of God. Other studies show also that the more eminent are scientists, less believers are among them.
+
 
 
 

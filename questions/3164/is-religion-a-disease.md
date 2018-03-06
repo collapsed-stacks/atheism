@@ -24,11 +24,13 @@ My reaction aside, are there any valid studies on religion as a disease. Any tha
 - posted by: [Jimbo](https://stackexchange.com/users/-1/1258-jimbo) on 2011-03-15
 - score: 3
 
-<p>To hold a belief without proof is not a disease.</p>
+To hold a belief without proof is not a disease.
 
-<p>Many scientists are admired for believing in theories not yet proven.  :)</p>
+Many scientists are admired for believing in theories not yet proven.  :)
 
-<p>To hold a belief in the face of overwhelming proof may indicate mental issues though.</p>
+
+To hold a belief in the face of overwhelming proof may indicate mental issues though.
+
 
 
 
@@ -37,18 +39,17 @@ My reaction aside, are there any valid studies on religion as a disease. Any tha
 - posted by: [user unknown](https://stackexchange.com/users/-1/992-user-unknown) on 2011-03-16
 - score: 1
 
-<p>If we refuse a dogmatic definition of 'disease', we might recognize that the definition or classification of diseases is changing over time. </p>
+If we refuse a dogmatic definition of 'disease', we might recognize that the definition or classification of diseases is changing over time. 
 
-<p>Not 100 years ago, alcoholism wasn't called a disease. A few decades ago, homosexuality was. </p>
+Not 100 years ago, alcoholism wasn't called a disease. A few decades ago, homosexuality was. 
 
-<p>There are different interest groups, for example doctors like to get paid for healing diseases, while health insurances don't want to pay the bill. </p>
+There are different interest groups, for example doctors like to get paid for healing diseases, while health insurances don't want to pay the bill. 
 
-<p>A political, powerful majority of religious people will prevent a definition of religion as disease. But we could try to find a definition or some major decision points to judge about it. For example is there a subjective suffering of the person? Normally, it is not. You might tell me about maniacs, which, while in acute situation, don't feel suffering too. But later they often agree, that it isn't overall wellness what they experience. </p>
+A political, powerful majority of religious people will prevent a definition of religion as disease. But we could try to find a definition or some major decision points to judge about it. For example is there a subjective suffering of the person? Normally, it is not. You might tell me about maniacs, which, while in acute situation, don't feel suffering too. But later they often agree, that it isn't overall wellness what they experience. 
 
-<p>I see a lot of parallels to drug addiction, and it is reported that many alcoholics get religious, changing their object of addiction only, but often to a more healthy disease. </p>
+I see a lot of parallels to drug addiction, and it is reported that many alcoholics get religious, changing their object of addiction only, but often to a more healthy disease. 
 
-<p>Since I'm not the health insurance, I may sometimes say 'disease' - that's the conclusion. :)</p>
-
+Since I'm not the health insurance, I may sometimes say 'disease' - that's the conclusion. :)
 
 
 ## Answer 3166
@@ -56,9 +57,9 @@ My reaction aside, are there any valid studies on religion as a disease. Any tha
 - posted by: [kzen](https://stackexchange.com/users/-1/808-kzen) on 2011-03-15
 - score: 0
 
-<p>Not a psychiatrist or a psychologist but IMO, yes, it is a mental disorder born out of fear and anxiety as a result of a unique human situation in which a self-aware being is living with a knowledge of its own imminent mortality... How else one could explain completely irrational and unreasonable thoughts and behavior promoted by religion and embraced by affected individuals?</p>
+Not a psychiatrist or a psychologist but IMO, yes, it is a mental disorder born out of fear and anxiety as a result of a unique human situation in which a self-aware being is living with a knowledge of its own imminent mortality... How else one could explain completely irrational and unreasonable thoughts and behavior promoted by religion and embraced by affected individuals?
 
-<p>If an individual believed in a great green frog living on Jupiter and claimed that this frog created all life on earth, started building great green frog shrines and proselytizing belief in our god great green Jupiter frog, pretty much everyone would consider that person to be "crazy" and advise them to seek immediate psychiatric help... I cannot see what is the difference between such a belief and beliefs being currently promoted by other, established human religions which are based on facts as much as the belief in great green Jupiter frog would be...</p>
+If an individual believed in a great green frog living on Jupiter and claimed that this frog created all life on earth, started building great green frog shrines and proselytizing belief in our god great green Jupiter frog, pretty much everyone would consider that person to be "crazy" and advise them to seek immediate psychiatric help... I cannot see what is the difference between such a belief and beliefs being currently promoted by other, established human religions which are based on facts as much as the belief in great green Jupiter frog would be...
 
 
 
@@ -67,13 +68,12 @@ My reaction aside, are there any valid studies on religion as a disease. Any tha
 - posted by: [jaskey13](https://stackexchange.com/users/-1/1107-jaskey13) on 2011-03-16
 - score: 0
 
-<p>There is no scientific research to indicate religion fits the medical definition of disease. Studies are often used to link a malfunctioning of the brain to religion- but the studies do not prove any true correlation. Instead it is individuals who, through either a willful ignorance or unknowing ineptitude of the rigors of scientific evidence, assert that there is a link in order to further an agenda that places negative value on religion.</p>
+There is no scientific research to indicate religion fits the medical definition of disease. Studies are often used to link a malfunctioning of the brain to religion- but the studies do not prove any true correlation. Instead it is individuals who, through either a willful ignorance or unknowing ineptitude of the rigors of scientific evidence, assert that there is a link in order to further an agenda that places negative value on religion.
 
-<p>The refutation of TLE studies linking religion to a mental disorder is simple:
-According to neuroscience different regions of the brain control different functions of the mind/body. Increased electrical activity in any region of the brain, either induced or occurring on it's own (through epilepsy as an example), will necessarily result in a positive result for whatever function that region of the brain normally controls. This is not an indication of malfunction causing a certain reaction- rather it is evidence that physical/mental functions can be connected to unique regions in the brain.  </p>
+The refutation of TLE studies linking religion to a mental disorder is simple:
+According to neuroscience different regions of the brain control different functions of the mind/body. Increased electrical activity in any region of the brain, either induced or occurring on it's own (through epilepsy as an example), will necessarily result in a positive result for whatever function that region of the brain normally controls. This is not an indication of malfunction causing a certain reaction- rather it is evidence that physical/mental functions can be connected to unique regions in the brain.  
 
-<p>To say that TLE studies somehow correlate malfunction/religion would be equivalent to claiming that a study where electrical impulses causing the foot to twitch correlates neural misfiring and walking.</p>
-
+To say that TLE studies somehow correlate malfunction/religion would be equivalent to claiming that a study where electrical impulses causing the foot to twitch correlates neural misfiring and walking.
 
 
 

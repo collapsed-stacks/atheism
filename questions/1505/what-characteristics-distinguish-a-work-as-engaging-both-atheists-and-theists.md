@@ -19,8 +19,7 @@ What kind of a dialog, or it's phrasing, successfully engages both atheists and 
 - posted by: [Roman Zenka](https://stackexchange.com/users/-1/420-roman-zenka) on 2010-12-27
 - score: 1
 
-<p>Beauty is appealing to both theists "Look at this work of God!" and atheists "Wow, that's pretty!" Simply make beautiful art.</p>
-
+Beauty is appealing to both theists "Look at this work of God!" and atheists "Wow, that's pretty!" Simply make beautiful art.
 
 
 ## Answer 1734
@@ -28,10 +27,9 @@ What kind of a dialog, or it's phrasing, successfully engages both atheists and 
 - posted by: [DampeS8N](https://stackexchange.com/users/-1/587-dampes8n) on 2010-12-30
 - score: 0
 
-<p>I love "The Book of Eli."</p>
+I love "The Book of Eli."
 
-<p>So that. Things like that.</p>
-
+So that. Things like that.
 
 
 ## Answer 1837
@@ -39,15 +37,12 @@ What kind of a dialog, or it's phrasing, successfully engages both atheists and 
 - posted by: [Rob Schneider](https://stackexchange.com/users/-1/149-rob-schneider) on 2011-01-01
 - score: 0
 
-<blockquote>
-  <p>"What kind of a dialog, or it's
-  phrasing, successfully engages both
-  atheists and theists in works of art?
-  "</p>
-</blockquote>
+> "What kind of a dialog, or it's
+> phrasing, successfully engages both
+> atheists and theists in works of art?
+> "
 
-<p>Hmmm.... I guess we'll know when we see one.</p>
-
+Hmmm.... I guess we'll know when we see one.
 
 
 

@@ -15,10 +15,9 @@ There was recently a debate between Christopher Hitchens and Tony Blair.  It got
 - posted by: [Dreg2010](https://stackexchange.com/users/-1/72-dreg2010) on 2010-12-14
 - score: 8
 
-<p><a href="http://www.youtube.com/watch?v=PfCbjYsRbT8&amp;feature=&amp;p=75BCF9FBDA381D90&amp;index=0&amp;playnext=1" rel="nofollow">http://www.youtube.com/watch?v=PfCbjYsRbT8&amp;feature=&amp;p=75BCF9FBDA381D90&amp;index=0&amp;playnext=1</a></p>
+http://www.youtube.com/watch?v=PfCbjYsRbT8&feature=&p=75BCF9FBDA381D90&index=0&playnext=1
 
-<p>there ya go</p>
-
+there ya go
 
 
 ## Answer 634
@@ -35,9 +34,10 @@ There was recently a debate between Christopher Hitchens and Tony Blair.  It got
 - posted by: [Dave Gilbert](https://stackexchange.com/users/-1/238-dave-gilbert) on 2010-12-16
 - score: 0
 
-<p>"It can be viewed on BBC World News and the News Channel on 1 January 2011"</p>
+"It can be viewed on BBC World News and the News Channel on 1 January 2011"
 
-<p><a href="http://www.bbc.co.uk/news/world-us-canada-11843586" rel="nofollow">http://www.bbc.co.uk/news/world-us-canada-11843586</a></p>
+http://www.bbc.co.uk/news/world-us-canada-11843586
+
 
 
 

@@ -23,12 +23,11 @@ I was going to title this question, “is the universe one” but it is really, 
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2011-03-01
 - score: 4
 
-<p>As I understand it, that feeling of "oneness with the universe" <em>is</em> literally and physiologically caused by part of the brain being shut down &mdash; the part which helps you define where "you," your "self," ends, and everything else begins. You can temporarily shut that part off with certain rituals like meditation, chanting, and kinds of drumming. </p>
+As I understand it, that feeling of "oneness with the universe" *is* literally and physiologically caused by part of the brain being shut down &mdash; the part which helps you define where "you," your "self," ends, and everything else begins. You can temporarily shut that part off with certain rituals like meditation, chanting, and kinds of drumming. 
 
-<p>So I wouldn't label that dysfunctional, particularly if it helps people to behave better, but let's recognize it for what it is. It's not connecting with Jesus or hearing the music of the spheres. It's a subjective, psychological experience, brought on by changes in brain state (possibly anoxia), and what these people experienced was the brain trying to make sense of altered input. </p>
+So I wouldn't label that dysfunctional, particularly if it helps people to behave better, but let's recognize it for what it is. It's not connecting with Jesus or hearing the music of the spheres. It's a subjective, psychological experience, brought on by changes in brain state (possibly anoxia), and what these people experienced was the brain trying to make sense of altered input. 
 
-<p>No better and no worse, psychologically speaking, than an acid trip or a powerful dream. As long as we recognize it's not super-natural or outside reality, there's no harm in it.</p>
-
+No better and no worse, psychologically speaking, than an acid trip or a powerful dream. As long as we recognize it's not super-natural or outside reality, there's no harm in it.
 
 
 

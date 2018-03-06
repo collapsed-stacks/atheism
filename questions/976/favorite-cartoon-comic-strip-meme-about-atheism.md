@@ -160,8 +160,7 @@ There is also 'The Tree Lobsters' -  You can't prove they don't exist!<img src="
 - posted by: [Josiah](https://stackexchange.com/users/-1/88-josiah) on 2010-12-18
 - score: 2
 
-<p>My favorite heathen meme is probably baby-eating. What self respecting atheist doesn't love the taste of babies?</p>
-
+My favorite heathen meme is probably baby-eating. What self respecting atheist doesn't love the taste of babies?
 
 
 ## Answer 1042
@@ -178,10 +177,9 @@ There is also 'The Tree Lobsters' -  You can't prove they don't exist!<img src="
 - posted by: [Dudge](https://stackexchange.com/users/-1/172-dudge) on 2010-12-20
 - score: 2
 
-<p><a href="http://cectic.com/archive.html" rel="nofollow">http://cectic.com/archive.html</a></p>
+http://cectic.com/archive.html
 
-<p>I think this may be what you are looking for.</p>
-
+I think this may be what you are looking for.
 
 
 ## Answer 1135
@@ -189,16 +187,15 @@ There is also 'The Tree Lobsters' -  You can't prove they don't exist!<img src="
 - posted by: [F. Thalweg](https://stackexchange.com/users/-1/297-f-thalweg) on 2010-12-22
 - score: 2
 
-<p>Not hard to find. Can't believe no one has mentioned any of these, yet:</p>
+Not hard to find. Can't believe no one has mentioned any of these, yet:
 
-<p><a href="http://www.jesusandmo.net/" rel="nofollow">http://www.jesusandmo.net/</a></p>
+http://www.jesusandmo.net/
 
-<p><a href="http://www.atheistcartoons.com/" rel="nofollow">http://www.atheistcartoons.com/</a></p>
+http://www.atheistcartoons.com/
 
-<p><a href="http://www.mrwiggleslovesyou.com/" rel="nofollow">http://www.mrwiggleslovesyou.com/</a></p>
+http://www.mrwiggleslovesyou.com/
 
-<p>Loads more.</p>
-
+Loads more.
 
 
 ## Answer 2183
@@ -217,8 +214,7 @@ There is also 'The Tree Lobsters' -  You can't prove they don't exist!<img src="
 - posted by: [Seti](https://stackexchange.com/users/-1/247-seti) on 2010-12-18
 - score: 1
 
-<p>Oh boy - there are so many! Carlin, of course, and Penn &amp; Teller. There's a fabulous clip on YouTube of Ricky Gervais talking about Genesis, and also one of Dara O'Briain on homeopathy. And Richard Ince on Creationism ("A magic man did it.")</p>
-
+Oh boy - there are so many! Carlin, of course, and Penn & Teller. There's a fabulous clip on YouTube of Ricky Gervais talking about Genesis, and also one of Dara O'Briain on homeopathy. And Richard Ince on Creationism ("A magic man did it.")
 
 
 ## Answer 997
@@ -226,8 +222,7 @@ There is also 'The Tree Lobsters' -  You can't prove they don't exist!<img src="
 - posted by: [Dave Gilbert](https://stackexchange.com/users/-1/238-dave-gilbert) on 2010-12-18
 - score: 1
 
-<p>Bill Maher.  HBO's Real Time and his stand up one-man shows.  George Carlin.  Don't ask God for anything.  Ask Joe Pesci 'cos 'he looks like a guy that can get things done'.</p>
-
+Bill Maher.  HBO's Real Time and his stand up one-man shows.  George Carlin.  Don't ask God for anything.  Ask Joe Pesci 'cos 'he looks like a guy that can get things done'.
 
 
 ## Answer 1020
@@ -235,8 +230,7 @@ There is also 'The Tree Lobsters' -  You can't prove they don't exist!<img src="
 - posted by: [philip guy muir](https://stackexchange.com/users/-1/182-philip-guy-muir) on 2010-12-19
 - score: 1
 
-<p>There is only one...... Scoobie Doo. The ultimate skeptic/Atheist (he does not claim to be an Atheist but watch a few episodes and there is no God in there)</p>
-
+There is only one...... Scoobie Doo. The ultimate skeptic/Atheist (he does not claim to be an Atheist but watch a few episodes and there is no God in there)
 
 
 ## Answer 1429
@@ -244,9 +238,8 @@ There is also 'The Tree Lobsters' -  You can't prove they don't exist!<img src="
 - posted by: [Nomæd](https://stackexchange.com/users/-1/27-nom-d) on 2010-12-25
 - score: 1
 
-<p>Just saw a collection of memes:
-<a href="http://www.ranker.com/list/god-is-an-epic-troll-the-best-of-the-advice-god-meme/robert-wabash" rel="nofollow">http://www.ranker.com/list/god-is-an-epic-troll-the-best-of-the-advice-god-meme/robert-wabash</a></p>
-
+Just saw a collection of memes:
+http://www.ranker.com/list/god-is-an-epic-troll-the-best-of-the-advice-god-meme/robert-wabash
 
 
 ## Answer 1663

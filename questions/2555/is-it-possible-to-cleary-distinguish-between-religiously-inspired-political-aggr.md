@@ -19,14 +19,13 @@ Is it even possible - decades or even centuries after - to really separate the i
 - posted by: [Little Bobby Tables](https://stackexchange.com/users/-1/765-little-bobby-tables) on 2011-02-01
 - score: 4
 
-<p>Lacking a reliable time-travel machine, we can never be sure what truly happened centuries ago, and particularly why.  Time allows for retrospection, but also gives place for distortions and misconceptions.  Also, lacking a reliable mind-reading machine, we can also never be sure what were the true intentions behind a given act: Was it truly ideology, or malice perfectly disguised as ideology?</p>
+Lacking a reliable time-travel machine, we can never be sure what truly happened centuries ago, and particularly why.  Time allows for retrospection, but also gives place for distortions and misconceptions.  Also, lacking a reliable mind-reading machine, we can also never be sure what were the true intentions behind a given act: Was it truly ideology, or malice perfectly disguised as ideology?
 
-<p>In addition, ideology and expediency are often bound together.  The so-called religious wars between protestant and catholic countries in Europe were held in the name of religion, but also served for political purposes (like granting England a foothold in the mainland).  Reality is not divided to black and white; There is often no single reason for events.</p>
+In addition, ideology and expediency are often bound together.  The so-called religious wars between protestant and catholic countries in Europe were held in the name of religion, but also served for political purposes (like granting England a foothold in the mainland).  Reality is not divided to black and white; There is often no single reason for events.
 
-<p>That said, a good mark of a purely ideological act is a stupid act, one that defies common reason.  For example, it usually serves no purpose for a country to turn on one of its minorities, and nevertheless, "ideological" hatred often drove massacres of citizens.</p>
+That said, a good mark of a purely ideological act is a stupid act, one that defies common reason.  For example, it usually serves no purpose for a country to turn on one of its minorities, and nevertheless, "ideological" hatred often drove massacres of citizens.
 
-<p>Back to the subject, the problem with religion is not that it always causes violence, while no other cause ignites violent acts.  It is that giving up on reason and common sense allow for hatred, xenophobia and racism to take more place.  If one is bound to reason, he or she can understand that there is nothing objectively different between one's group and other people.  Believing in a "spiritual" (i.e., undetectable) difference allows for hating them more easily. </p>
-
+Back to the subject, the problem with religion is not that it always causes violence, while no other cause ignites violent acts.  It is that giving up on reason and common sense allow for hatred, xenophobia and racism to take more place.  If one is bound to reason, he or she can understand that there is nothing objectively different between one's group and other people.  Believing in a "spiritual" (i.e., undetectable) difference allows for hating them more easily. 
 
 
 ## Answer 2563
@@ -34,18 +33,17 @@ Is it even possible - decades or even centuries after - to really separate the i
 - posted by: [Denis Robert](https://stackexchange.com/users/-1/122-denis-robert) on 2011-02-01
 - score: 1
 
-<p>There is quite a difference between the two: in the case of religiously inspired violence, the violence has as a goal either conversion or suppression of an ideology which is seen as antithetical to one's own. In the case of politically expedient violence, the goal is the suppression of specific problematic people and/or organization. The ideology itself is not really what is at issue; what is at issue is the specific, real-world threat posed by <em>adherents</em> to the ideology.</p>
+There is quite a difference between the two: in the case of religiously inspired violence, the violence has as a goal either conversion or suppression of an ideology which is seen as antithetical to one's own. In the case of politically expedient violence, the goal is the suppression of specific problematic people and/or organization. The ideology itself is not really what is at issue; what is at issue is the specific, real-world threat posed by *adherents* to the ideology.
 
-<p>The difference is more subtle than it seems, though. But in essence it lies in the specific target of the violence. Religious violence targets the ideology, secular/political violence targets those who hold it, and the specific threat they pose.</p>
+The difference is more subtle than it seems, though. But in essence it lies in the specific target of the violence. Religious violence targets the ideology, secular/political violence targets those who hold it, and the specific threat they pose.
 
-<p>What that means is that once the ideology targeted stops being a real threat, political violence typically abates. There is no longer a concerted effort to suppress communism, for example (except in the US, more on this later). It's not that the ideology no longer exists, but that it no longer poses a real threat. So political violence is no longer seen as necessary.</p>
+What that means is that once the ideology targeted stops being a real threat, political violence typically abates. There is no longer a concerted effort to suppress communism, for example (except in the US, more on this later). It's not that the ideology no longer exists, but that it no longer poses a real threat. So political violence is no longer seen as necessary.
 
-<p>Religious violence never really ends. As long as the rival ideology is seen as a rival in any way, some religious people (pretty much anyone who is truly devout) will be ready to commit violence against it. The rival is seen as a mortal enemy, not simply as a rival. Religion is seen by the devout as a zero-sum game.</p>
+Religious violence never really ends. As long as the rival ideology is seen as a rival in any way, some religious people (pretty much anyone who is truly devout) will be ready to commit violence against it. The rival is seen as a mortal enemy, not simply as a rival. Religion is seen by the devout as a zero-sum game.
 
-<p>Where the picture becomes less clear is when politics takes on the characteristics of religion, such as what is happening currently in parts of the Middle-East or more clearly in the US, where the Conservative Movement has metastasized from a political movement to a religious one, with people like Glenn Beck as Grand Mullahs. In that case, what is nominally politically inspired violence (such as the attempted attack on the Tides Foundation) is really more akin to religious violence.</p>
+Where the picture becomes less clear is when politics takes on the characteristics of religion, such as what is happening currently in parts of the Middle-East or more clearly in the US, where the Conservative Movement has metastasized from a political movement to a religious one, with people like Glenn Beck as Grand Mullahs. In that case, what is nominally politically inspired violence (such as the attempted attack on the Tides Foundation) is really more akin to religious violence.
 
-
-
+<!-- The system wants stupid, I provide stupid (http://meta.stackoverflow.com/questions/77233/were-discouraged-from-fixing-typos-and-misspellings-on-se-sites/77257#77257)-->
 
 
 ## Answer 2642
@@ -53,20 +51,19 @@ Is it even possible - decades or even centuries after - to really separate the i
 - posted by: [user unknown](https://stackexchange.com/users/-1/992-user-unknown) on 2011-02-05
 - score: 0
 
-<p>The headline asks for religiously-inspired vs. policically expedient aggression, but the body of your text asks for religious vs. atheistic motivated (?) atrocities. </p>
+The headline asks for religiously-inspired vs. policically expedient aggression, but the body of your text asks for religious vs. atheistic motivated (?) atrocities. 
 
-<p>Do you think 'atheistic' and 'political' mean the same? </p>
+Do you think 'atheistic' and 'political' mean the same? 
 
-<p>Then you ask how to separate decades later what the motifes were. Well: 
+Then you ask how to separate decades later what the motifes were. Well: 
 a) Isn't there enough religious violence today to answer your question in the presence? 
-b) It might explicitly be a good idea to look into the past where we are not so biased, and where historians made their work, got access to archives and so on. </p>
+b) It might explicitly be a good idea to look into the past where we are not so biased, and where historians made their work, got access to archives and so on. 
 
-<p>If there is a despot, who claims to start a holy war, and later we find evidence in mails, or in a diary, that he only pretended his believs, but in reality was out for gold or oil, for land or power - well, that would clear it up, but maybe his followers believed in the holy mission? For them it <b> was </b> a religious war. </p>
+If there is a despot, who claims to start a holy war, and later we find evidence in mails, or in a diary, that he only pretended his believs, but in reality was out for gold or oil, for land or power - well, that would clear it up, but maybe his followers believed in the holy mission? For them it <b> was </b> a religious war. 
 
-<p>So yes, it's the work of historians to clarify the driving mechanisms of the past.</p>
+So yes, it's the work of historians to clarify the driving mechanisms of the past.
 
-<p>And since political and religious aren't distinct attributes, you can have both motives working at the same time. More than one person getting violent in the name of a god - that is qua definitionem a political act - isn't it? </p>
-
+And since political and religious aren't distinct attributes, you can have both motives working at the same time. More than one person getting violent in the name of a god - that is qua definitionem a political act - isn't it? 
 
 
 

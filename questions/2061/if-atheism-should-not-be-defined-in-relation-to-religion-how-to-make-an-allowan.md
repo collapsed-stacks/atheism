@@ -39,14 +39,13 @@ In order to strengthen the case for atheists that fear/experience persecution, a
 - posted by: [DampeS8N](https://stackexchange.com/users/-1/587-dampes8n) on 2011-01-10
 - score: 1
 
-<p>For me the issue isn't so much that one must prove discrimination of Atheism is religious persecution. It is better to define what religious persecution is.</p>
+For me the issue isn't so much that one must prove discrimination of Atheism is religious persecution. It is better to define what religious persecution is.
 
-<p>Religious Persecution is discrimination against a person or group for the religious beliefs they hold or do not hold.</p>
+Religious Persecution is discrimination against a person or group for the religious beliefs they hold or do not hold.
 
-<p>That is to say, if the cause of the discrimination is a bias for, or against, a particular religious belief, the discrimination is religious in nature. This covers all cases: A Jew judging a Christian; A Christian judging an Atheist; An Atheist judging a Muslim; A Buddhist judging another Buddhist; A Jew judging an Atheist for not being a Christian.</p>
+That is to say, if the cause of the discrimination is a bias for, or against, a particular religious belief, the discrimination is religious in nature. This covers all cases: A Jew judging a Christian; A Christian judging an Atheist; An Atheist judging a Muslim; A Buddhist judging another Buddhist; A Jew judging an Atheist for not being a Christian.
 
-<p>Even an Atheist that persecutes other Atheists is performing a religious persecution; because they need not hold a belief them self to judge others for not holding that belief.</p>
-
+Even an Atheist that persecutes other Atheists is performing a religious persecution; because they need not hold a belief them self to judge others for not holding that belief.
 
 
 ## Answer 2193
@@ -54,11 +53,11 @@ In order to strengthen the case for atheists that fear/experience persecution, a
 - posted by: [Denis Robert](https://stackexchange.com/users/-1/122-denis-robert) on 2011-01-14
 - score: 1
 
-<p>There is a difference between a religion, which tends to refer to a specific belief structure as well as social structures supporting those who espouse those beliefs, and a "religious group" in the demographic sense, which is any grouping of people based on religious affiliation, belief or alignment. Certainly atheism is an attitude towards religion, and as such can be used by sociologists to define a "religious group" as described above. But it is not a religion in the first sense, as the only thing atheists truly have in common is their rejection of a belief, not a belief in itself. </p>
+There is a difference between a religion, which tends to refer to a specific belief structure as well as social structures supporting those who espouse those beliefs, and a "religious group" in the demographic sense, which is any grouping of people based on religious affiliation, belief or alignment. Certainly atheism is an attitude towards religion, and as such can be used by sociologists to define a "religious group" as described above. But it is not a religion in the first sense, as the only thing atheists truly have in common is their rejection of a belief, not a belief in itself. 
 
-<p>The belief most atheists espouse is Metaphysical Materialism, which is a positive belief (i.e. I believe X) about the world, rather than a negative one (i.e. I don't believe Y). It's often said that an atheist's negative belief (I don't believe there's a god) is equivalent to a positive belief (I believe there is no god), but that's a fallacy. The opposite of "I believe there is a god" is not "I believe there is no god"; it is "I do not believe in the statement that there is a god". Saying "I believe there is no god" is a different, albeit related statement altogether. The first is Atheism, the second is closer Metaphysical Materialism. So there could be a religion of Metaphysical Materialism, if there were to develop some sort of social support structure for those who espouse it.</p>
+The belief most atheists espouse is Metaphysical Materialism, which is a positive belief (i.e. I believe X) about the world, rather than a negative one (i.e. I don't believe Y). It's often said that an atheist's negative belief (I don't believe there's a god) is equivalent to a positive belief (I believe there is no god), but that's a fallacy. The opposite of "I believe there is a god" is not "I believe there is no god"; it is "I do not believe in the statement that there is a god". Saying "I believe there is no god" is a different, albeit related statement altogether. The first is Atheism, the second is closer Metaphysical Materialism. So there could be a religion of Metaphysical Materialism, if there were to develop some sort of social support structure for those who espouse it.
 
-<p>But whether a religion or a religious group in the senses above, atheism can be targeted for religious persecution. You see, religious persecution is not about the religious attitudes of the target, but rather about the religious attitudes of the perpetrator. Persecutors do not really persecute a religious group because of that groups beliefs, but rather because of the persecutors beliefs ABOUT the religious group. And understood in that way, it matters not whether we talk of atheism or metaphysical materialism, or of whether either is a religion or not. Atheists can suffer religious persecution either way.</p>
+But whether a religion or a religious group in the senses above, atheism can be targeted for religious persecution. You see, religious persecution is not about the religious attitudes of the target, but rather about the religious attitudes of the perpetrator. Persecutors do not really persecute a religious group because of that groups beliefs, but rather because of the persecutors beliefs ABOUT the religious group. And understood in that way, it matters not whether we talk of atheism or metaphysical materialism, or of whether either is a religion or not. Atheists can suffer religious persecution either way.
 
 
 
@@ -67,10 +66,9 @@ In order to strengthen the case for atheists that fear/experience persecution, a
 - posted by: [Konrad Rudolph](https://stackexchange.com/users/-1/82-konrad-rudolph) on 2011-01-11
 - score: 0
 
-<p>I’m not sure if I understand you right but freedom of religion also means “freedom <em>from</em> religion” (sometimes this is merely implicit, sometimes this is stated outright).</p>
+I’m not sure if I understand you right but freedom of religion also means “freedom *from* religion” (sometimes this is merely implicit, sometimes this is stated outright).
 
-<p>Religious freedom is simply an explicit special case of personal freedom and freedom of speech. Prosecuting atheists would specifically violate freedom of speech, and also freedom from religion.</p>
-
+Religious freedom is simply an explicit special case of personal freedom and freedom of speech. Prosecuting atheists would specifically violate freedom of speech, and also freedom from religion.
 
 
 

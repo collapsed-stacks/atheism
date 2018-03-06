@@ -89,14 +89,13 @@ This fiery criticism details what he perceives to be much of what compels much c
 - posted by: [Kevin Jones](https://stackexchange.com/users/-1/186-kevin-jones) on 2011-03-16
 - score: 3
 
-<p>Religion is dangerous.  However, a concerted effort to eliminate religion would probably be worse.  Think of religion as roughly akin to alcohol, and a serious effort to remove it roughly akin to prohibition:  People still use/want religion regardless of whether or not it is 'permitted', and when faced with serious opposition to their faith, they become much more dangerous.  </p>
+Religion is dangerous.  However, a concerted effort to eliminate religion would probably be worse.  Think of religion as roughly akin to alcohol, and a serious effort to remove it roughly akin to prohibition:  People still use/want religion regardless of whether or not it is 'permitted', and when faced with serious opposition to their faith, they become much more dangerous.  
 
-<p>Yes, of course, we need to do everything we can to keep serious fanatics out of high office, because no one wants someone consulting jesus with their finger on the button.  But the same goes for drug use- you don't want a drunk general.  At the same time, we don't mind if our leaders have the occasional glass of wine- it's their right, it probably improves their quality of life, making them more stable and better leaders in the long run.  The same thing with mild religion- it's soothing, an indulgence that makes people happier and thus more stable.  </p>
+Yes, of course, we need to do everything we can to keep serious fanatics out of high office, because no one wants someone consulting jesus with their finger on the button.  But the same goes for drug use- you don't want a drunk general.  At the same time, we don't mind if our leaders have the occasional glass of wine- it's their right, it probably improves their quality of life, making them more stable and better leaders in the long run.  The same thing with mild religion- it's soothing, an indulgence that makes people happier and thus more stable.  
 
-<p>So yes, please go ahead and ridicule all religious ideas, but proclamations that religion has to end just give the Theocrats ammunition- the only societies that have made a go of eliminating religion were themselves in the grip of non-religious but equally toxic irrational ideologies.  </p>
+So yes, please go ahead and ridicule all religious ideas, but proclamations that religion has to end just give the Theocrats ammunition- the only societies that have made a go of eliminating religion were themselves in the grip of non-religious but equally toxic irrational ideologies.  
 
-<p>Bill Maher is not someone we should be holding up as an example, because while he is an atheist, he subscribes to some ideas that are just as wacky as any religion (anti-vax).  That's the problem- most people who truly, vehemently oppose the worst ideologies are themselves a proponent of some other equally toxic nonsense.  </p>
-
+Bill Maher is not someone we should be holding up as an example, because while he is an atheist, he subscribes to some ideas that are just as wacky as any religion (anti-vax).  That's the problem- most people who truly, vehemently oppose the worst ideologies are themselves a proponent of some other equally toxic nonsense.  
 
 
 ## Answer 3129
@@ -104,8 +103,7 @@ This fiery criticism details what he perceives to be much of what compels much c
 - posted by: [philip guy muir](https://stackexchange.com/users/-1/182-philip-guy-muir) on 2011-03-13
 - score: 2
 
-<p>It was very dangerous for the 14 year old girl who was whipped recently to death for the crime of being raped. </p>
-
+It was very dangerous for the 14 year old girl who was whipped recently to death for the crime of being raped. 
 
 
 ## Answer 3124
@@ -113,10 +111,9 @@ This fiery criticism details what he perceives to be much of what compels much c
 - posted by: [Jimbo](https://stackexchange.com/users/-1/1258-jimbo) on 2011-03-13
 - score: 1
 
-<p>Yes it can.</p>
+Yes it can.
 
-<p>Any organised system of belief can and will be exploited by the unscrupulous.</p>
-
+Any organised system of belief can and will be exploited by the unscrupulous.
 
 
 ## Answer 3174
@@ -124,8 +121,7 @@ This fiery criticism details what he perceives to be much of what compels much c
 - posted by: [Mudak](https://stackexchange.com/users/-1/205-mudak) on 2011-03-16
 - score: 1
 
-<p>One of the biggest dangers of religion stems from the fact that we are all innately curious about, well, everything.  Religion claims to have the answers to some of the things we're curious about and effectively quashes further inquiry.  At best, it removes individuality from the person and at worst, it seeks to actively stifle actual technological advancement and the betterment of people's lives.</p>
-
+One of the biggest dangers of religion stems from the fact that we are all innately curious about, well, everything.  Religion claims to have the answers to some of the things we're curious about and effectively quashes further inquiry.  At best, it removes individuality from the person and at worst, it seeks to actively stifle actual technological advancement and the betterment of people's lives.
 
 
 ## Answer 3126
@@ -133,23 +129,21 @@ This fiery criticism details what he perceives to be much of what compels much c
 - posted by: [Joseph Hobbs](https://stackexchange.com/users/-1/1260-joseph-hobbs) on 2011-03-13
 - score: 0
 
-<p>Religion MAY be dangerous. </p>
+Religion MAY be dangerous. 
 
-<ol>
-<li><p>destructive doctrines can lead to mass suicides in a cult, or exhortation to Jihad can lead to terrorism.</p></li>
-<li><p>clashing ideas; people kill each other because they think they are "right" and the others are "wrong." </p></li>
-</ol>
+1. destructive doctrines can lead to mass suicides in a cult, or exhortation to Jihad can lead to terrorism.
 
-<p>Religion MAY be beneficial.</p>
+2. clashing ideas; people kill each other because they think they are "right" and the others are "wrong." 
 
-<p>The vast majority of the 6 billion people on earth are religions. Relatively few of them are terrorists, Jihadists, or suicidal. In fact religious people (who meet regularly) have been shown to earn up to 10% more than those who are unreligious. Many cultures are based around relgions. Without the religions the cultures would cease to exist in their present form. </p>
+Religion MAY be beneficial.
 
-<p>Conclusion: religion is inherently dangerous, but so is life. </p>
+The vast majority of the 6 billion people on earth are religions. Relatively few of them are terrorists, Jihadists, or suicidal. In fact religious people (who meet regularly) have been shown to earn up to 10% more than those who are unreligious. Many cultures are based around relgions. Without the religions the cultures would cease to exist in their present form. 
 
-<p>For those who point to the Old Testament as proof that Christianity is dangerous, read Acts 15, which explains how only certain portions of the OT law still apply to Christians (preferably read more than just ch15). </p>
+Conclusion: religion is inherently dangerous, but so is life. 
 
-<p>For those who say Islam is a religion of peace - check out how the more violent passages of the Koran are toward the end, and how what was written later has more weight. </p>
+For those who point to the Old Testament as proof that Christianity is dangerous, read Acts 15, which explains how only certain portions of the OT law still apply to Christians (preferably read more than just ch15). 
 
+For those who say Islam is a religion of peace - check out how the more violent passages of the Koran are toward the end, and how what was written later has more weight. 
 
 
 ## Answer 3130
@@ -157,8 +151,7 @@ This fiery criticism details what he perceives to be much of what compels much c
 - posted by: [Ivo](https://stackexchange.com/users/-1/1263-ivo) on 2011-03-13
 - score: 0
 
-<p>I think, that Religion can be dangerous as any other groupmovement. There is a need to seperate state and church i think. Because of groupidentity and improvement of ideas in a changing society.    </p>
-
+I think, that Religion can be dangerous as any other groupmovement. There is a need to seperate state and church i think. Because of groupidentity and improvement of ideas in a changing society.    
 
 
 ## Answer 3134
@@ -166,16 +159,15 @@ This fiery criticism details what he perceives to be much of what compels much c
 - posted by: [jaskey13](https://stackexchange.com/users/-1/1107-jaskey13) on 2011-03-13
 - score: 0
 
-<p>No. Men are dangerous. A saying in the U.S. "Guns don't kill people, people do."</p>
+No. Men are dangerous. A saying in the U.S. "Guns don't kill people, people do."
 
-<p>Of the millions of people who bow their heads to Mecca each day, we can find a select few who would go out and blow up a shopping mall. Take away their religion and we still have the psychopaths- they'd just find another reason to validate their behavior.</p>
+Of the millions of people who bow their heads to Mecca each day, we can find a select few who would go out and blow up a shopping mall. Take away their religion and we still have the psychopaths- they'd just find another reason to validate their behavior.
 
-<p>We nearly blew ourselves up in the 60's because of political ideas. Men use their ideas to justify immoral courses of action. And while some religions may preach these courses- not all do. Pinning religion as dangerous is denying that some men are inherently evil, rather it is the ideas that turn them so. </p>
+We nearly blew ourselves up in the 60's because of political ideas. Men use their ideas to justify immoral courses of action. And while some religions may preach these courses- not all do. Pinning religion as dangerous is denying that some men are inherently evil, rather it is the ideas that turn them so. 
 
-<p>People have a choice as to whether they peacefully observe their beliefs or they take them out into the world and use them to beget repression and violence. But we can do that with any belief, not just religious ones. The fault lies with individuals and their choices, not a broad umbrella under which they hide.</p>
+People have a choice as to whether they peacefully observe their beliefs or they take them out into the world and use them to beget repression and violence. But we can do that with any belief, not just religious ones. The fault lies with individuals and their choices, not a broad umbrella under which they hide.
 
-<p>In response to Mr. Maher- any man who falls back to a single idea when making complex decisions that affect many people is unfit for office. But such men come in many flavors, not just religious ones. The world will destroy itself because of baser human emotions we have not yet tamed- not because of higher cognitive thinking that theorizes about the nature of reality.</p>
-
+In response to Mr. Maher- any man who falls back to a single idea when making complex decisions that affect many people is unfit for office. But such men come in many flavors, not just religious ones. The world will destroy itself because of baser human emotions we have not yet tamed- not because of higher cognitive thinking that theorizes about the nature of reality.
 
 
 

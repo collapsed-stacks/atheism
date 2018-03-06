@@ -58,14 +58,13 @@ See <a href="http://atheism.stackexchange.com/questions/322/what-is-god-in-athei
 - posted by: [Borror0](https://stackexchange.com/users/-1/484-borror0) on 2011-01-14
 - score: 3
 
-<p>The term "god" is meaningless. It is applied to supernatural beings in such an arbitrary way that it is impossible to come up with a definition of the term that isn't, itself, subjective and prone to interpretation (ie "supernatural being of a great importance").</p>
+The term "god" is meaningless. It is applied to supernatural beings in such an arbitrary way that it is impossible to come up with a definition of the term that isn't, itself, subjective and prone to interpretation (ie "supernatural being of a great importance").
 
-<p>Since the term "atheism" is dependent on a coherent definition of god to be meaningful, then, if there is no coherent definition of "god", the term "atheism" is meaningless as well. Thus, an ignostic is just an atheist who realized that atheism is a meaningless term and wants to point it out by labeling himself or herself differently.</p>
+Since the term "atheism" is dependent on a coherent definition of god to be meaningful, then, if there is no coherent definition of "god", the term "atheism" is meaningless as well. Thus, an ignostic is just an atheist who realized that atheism is a meaningless term and wants to point it out by labeling himself or herself differently.
 
-<p>The difference is mostly semantical.</p>
+The difference is mostly semantical.
 
-<p>In a practical sense, there is no difference between an atheist and an ignostic. Both lack a belief in god. Ignosticism is just another brand of atheism by all practical standards. </p>
-
+In a practical sense, there is no difference between an atheist and an ignostic. Both lack a belief in god. Ignosticism is just another brand of atheism by all practical standards. 
 
 
 ## Answer 2196
@@ -73,12 +72,11 @@ See <a href="http://atheism.stackexchange.com/questions/322/what-is-god-in-athei
 - posted by: [Raskolnikov](https://stackexchange.com/users/-1/144-raskolnikov) on 2011-01-14
 - score: 2
 
-<p>I think you have ignostic atheists and I think <a href="http://scienceblogs.com/pharyngula/2010/10/its_like_he_was_reading_my_min.php" rel="nofollow">PZ Myers, Steve Zara</a>, <a href="http://web.maths.unsw.edu.au/~jim/davidstove.html" rel="nofollow">David Stove</a> and <a href="http://www.dogma.lu/txt/JB-Science01.htm" rel="nofollow">Jean Bricmont</a> fit into that category. At least, that's what I can glean from reading them.</p>
+I think you have ignostic atheists and I think [PZ Myers, Steve Zara](http://scienceblogs.com/pharyngula/2010/10/its_like_he_was_reading_my_min.php), [David Stove](http://web.maths.unsw.edu.au/~jim/davidstove.html) and [Jean Bricmont](http://www.dogma.lu/txt/JB-Science01.htm) fit into that category. At least, that's what I can glean from reading them.
 
-<p>On the other hand, atheists like Richard Dawkins, Stephen Hawking and Jerry Coyne are clearly not ignostic. They certainly think there is a valid definition of God which can and should be assailed. So much is clear from Dawkins' own "The God Delusion" and his stance that science has something to say about god. Same for Hawking, just see his recent comments about the obsolescence of god. And where Jerry is concerned, see his exchange with PZ Myers about "<a href="http://whyevolutionistrue.wordpress.com/2010/10/17/p-z-myers-on-evidence-for-a-god/" rel="nofollow">what would convince you there is a god?</a>".</p>
+On the other hand, atheists like Richard Dawkins, Stephen Hawking and Jerry Coyne are clearly not ignostic. They certainly think there is a valid definition of God which can and should be assailed. So much is clear from Dawkins' own "The God Delusion" and his stance that science has something to say about god. Same for Hawking, just see his recent comments about the obsolescence of god. And where Jerry is concerned, see his exchange with PZ Myers about "[what would convince you there is a god?](http://whyevolutionistrue.wordpress.com/2010/10/17/p-z-myers-on-evidence-for-a-god/)".
 
-<p>Just to make a concise example, one of the central pieces of "The God Delusion" is Dawkins' anti-design argument. He shows that any creator god must be more complicated than his creation. While the argument is nice, it is very clearly a non-ignostic argument. An ignostic wouldn't even waste a word to try to refute the design argument in this way. Of course, because the argument implies that you ascribe meaning to god in some way, which is contrary to the ignostic position. In fact, Bricmont argues against Dawkins and Hawking in the text I linked above in exactly this way. </p>
-
+Just to make a concise example, one of the central pieces of "The God Delusion" is Dawkins' anti-design argument. He shows that any creator god must be more complicated than his creation. While the argument is nice, it is very clearly a non-ignostic argument. An ignostic wouldn't even waste a word to try to refute the design argument in this way. Of course, because the argument implies that you ascribe meaning to god in some way, which is contrary to the ignostic position. In fact, Bricmont argues against Dawkins and Hawking in the text I linked above in exactly this way. 
 
 
 ## Answer 2214
@@ -124,14 +122,13 @@ See <a href="http://atheism.stackexchange.com/questions/322/what-is-god-in-athei
 - posted by: [Mark Scrudder](https://stackexchange.com/users/-1/837-mark-scrudder) on 2011-01-14
 - score: 0
 
-<p>For most practical purposes, there is little difference between an atheist and an ignostic.</p>
+For most practical purposes, there is little difference between an atheist and an ignostic.
 
-<p>As a self-defined ignostic, I take the view that ignosticism takes religion as a whole, whereas atheism by definition is a lack of belief in any deity or deities.</p>
+As a self-defined ignostic, I take the view that ignosticism takes religion as a whole, whereas atheism by definition is a lack of belief in any deity or deities.
 
-<p>Although the majority of atheists seem to take a skeptical view of reincarnation, souls, ghosts, prayer, and any of a thousand other spiritual beliefs, they are not specifically applicable to the core definition.</p>
+Although the majority of atheists seem to take a skeptical view of reincarnation, souls, ghosts, prayer, and any of a thousand other spiritual beliefs, they are not specifically applicable to the core definition.
 
-<p>As an example, most Buddhists do not believe in a 'god' by their own definition, but most will espouse a belief in reincarnation, spiritual ascension, and/ or an afterlife. Buddhists could be generally defined as atheists, but not ignostic toward other ill-defined, unfalsifiable theological concepts.</p>
-
+As an example, most Buddhists do not believe in a 'god' by their own definition, but most will espouse a belief in reincarnation, spiritual ascension, and/ or an afterlife. Buddhists could be generally defined as atheists, but not ignostic toward other ill-defined, unfalsifiable theological concepts.
 
 
 ## Answer 2519

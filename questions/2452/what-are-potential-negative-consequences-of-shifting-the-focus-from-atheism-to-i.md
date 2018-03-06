@@ -27,14 +27,11 @@ The most popular response to the question ["Do atheists need to define god(s) in
 - posted by: [Borror0](https://stackexchange.com/users/-1/484-borror0) on 2011-01-27
 - score: 2
 
-<p>There are at least three negative consequences:</p>
+There are at least three negative consequences:
 
-<ol>
-<li>The term is little known. If you say you're an ignostic, you're going to have to define it practically all the time. As a result, it's not an efficient way to communicate. If you're an associate or a website, that has seriously harmful effects because other like-minded persons are less likely to discover your association or website as they won't know the term. </li>
-<li>By labeling yourself differently, you're breaking a group that often is already quite small. In places like the US where being an atheists still carries a stigma, that's also  harmful. </li>
-<li>To most people, it will look like you're just arguing semantics. </li>
-</ol>
-
+1. The term is little known. If you say you're an ignostic, you're going to have to define it practically all the time. As a result, it's not an efficient way to communicate. If you're an associate or a website, that has seriously harmful effects because other like-minded persons are less likely to discover your association or website as they won't know the term. 
+2.  By labeling yourself differently, you're breaking a group that often is already quite small. In places like the US where being an atheists still carries a stigma, that's also  harmful. 
+3. To most people, it will look like you're just arguing semantics. 
 
 
 

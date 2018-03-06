@@ -12,7 +12,8 @@ I'd like to have some atheist tracts on hand for fun. I'd prefer they be in at l
 - posted by: [Blorgbeard](https://stackexchange.com/users/-1/45-blorgbeard) on 2010-12-15
 - score: 1
 
-I'd like to have some atheist tracts on hand for fun. I'd prefer they be in at least the Jack Chick form factor. Matching his style would be a bonus. Does anyone know of any? Either digital or pre-made would be acceptable.
+<p>There's a good set of Chick parodies <a href="http://www.weirdcrap.com/chick/intro.html" rel="nofollow">here</a>, although they're more about making fun of Jack Chick than espousing atheism.</p>
+
 
 
 ## Answer 668
@@ -20,7 +21,8 @@ I'd like to have some atheist tracts on hand for fun. I'd prefer they be in at l
 - posted by: [TRiG](https://stackexchange.com/users/-1/263-trig) on 2010-12-16
 - score: 1
 
-I'd like to have some atheist tracts on hand for fun. I'd prefer they be in at least the Jack Chick form factor. Matching his style would be a bonus. Does anyone know of any? Either digital or pre-made would be acceptable.
+<p>There's a <a href="http://rubbersuitstudios.com/ptcct.htm" rel="nofollow">Chthulu Chick Tract</a>.</p>
+
 
 
 ## Answer 685
@@ -28,7 +30,7 @@ I'd like to have some atheist tracts on hand for fun. I'd prefer they be in at l
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-16
 - score: 1
 
-I'd like to have some atheist tracts on hand for fun. I'd prefer they be in at least the Jack Chick form factor. Matching his style would be a bonus. Does anyone know of any? Either digital or pre-made would be acceptable.
+Great question!! And, I think I've got just what you're looking with the [Freedom From Religion's *Nontracts*](http://www.ffrf.org/shop/nontracts/).
 
 
 ## Answer 842
@@ -36,7 +38,7 @@ I'd like to have some atheist tracts on hand for fun. I'd prefer they be in at l
 - posted by: [Denis Robert](https://stackexchange.com/users/-1/122-denis-robert) on 2010-12-17
 - score: 0
 
-I'd like to have some atheist tracts on hand for fun. I'd prefer they be in at least the Jack Chick form factor. Matching his style would be a bonus. Does anyone know of any? Either digital or pre-made would be acceptable.
+God I hope not!
 
 
 

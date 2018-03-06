@@ -47,14 +47,13 @@ Many of these things are consequences of atheists being part of an out-group, wh
 - posted by: [Borror0](https://stackexchange.com/users/-1/484-borror0) on 2011-01-19
 - score: 8
 
-<p>The answer to your question is "wait."</p>
+The answer to your question is "wait."
 
-<p>The problem isn't that atheism suffers from bad branding, per se, but that religion still plays a major role in your country. If you lived in a country where religion plays a minor role like Canada, that question would have never occurred to you. When your countrymen realize that religion is irrelevant, and they will eventually, then being an atheist will cease to be a brand (i.e. no one will care). </p>
+The problem isn't that atheism suffers from bad branding, per se, but that religion still plays a major role in your country. If you lived in a country where religion plays a minor role like Canada, that question would have never occurred to you. When your countrymen realize that religion is irrelevant, and they will eventually, then being an atheist will cease to be a brand (i.e. no one will care). 
 
-<p>Now, if you want to speed up that process, be open about your atheism and don't be a jerk. If enough atheists do that, people will eventually realize that atheists are just like everyone else.</p>
+Now, if you want to speed up that process, be open about your atheism and don't be a jerk. If enough atheists do that, people will eventually realize that atheists are just like everyone else.
 
-<p>That's really all you can do.</p>
-
+That's really all you can do.
 
 
 ## Answer 2361
@@ -62,12 +61,11 @@ Many of these things are consequences of atheists being part of an out-group, wh
 - posted by: [Satanicpuppy](https://stackexchange.com/users/-1/169-satanicpuppy) on 2011-01-19
 - score: 0
 
-<p>Lot of the phenomena you reference are most commonly associated with Existentialism. Rejection of the groupthink. Independence of thought. Add to that the whole "God is Dead" anti-theism commonly associated with Existentialism, and the comparison with mainstream atheism is pretty clear.</p>
+Lot of the phenomena you reference are most commonly associated with Existentialism. Rejection of the groupthink. Independence of thought. Add to that the whole "God is Dead" anti-theism commonly associated with Existentialism, and the comparison with mainstream atheism is pretty clear.
 
-<p>All those things being the case for most of us, it's hard to come up with a group of people who would be less likely to form a groupthink, or a more uniform group of iconoclastic assholes. The very idea of a group that purports to speak <em>for</em> me on my beliefs is abhorrent. I don't believe in god. Any other belief you think you can attribute to me based on that one belief is very likely wrong.</p>
+All those things being the case for most of us, it's hard to come up with a group of people who would be less likely to form a groupthink, or a more uniform group of iconoclastic assholes. The very idea of a group that purports to speak *for* me on my beliefs is abhorrent. I don't believe in god. Any other belief you think you can attribute to me based on that one belief is very likely wrong.
 
-<p>Seems highly unlikely that we'd ever compromise on our own opinions enough to form a group that would all pull in the same direction. Most atheist groups I've looked into have been wholly uninteresting to me.</p>
-
+Seems highly unlikely that we'd ever compromise on our own opinions enough to form a group that would all pull in the same direction. Most atheist groups I've looked into have been wholly uninteresting to me.
 
 
 

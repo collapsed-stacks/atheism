@@ -28,15 +28,14 @@ Perhaps I'm looking for an outside perspective into religion, written from a non
 - posted by: [andrewfd](https://stackexchange.com/users/-1/869-andrewfd) on 2011-01-17
 - score: 2
 
-<p>Whilst my recommendation is not directly focussed on religion, rather on philosophy, I can confidently say it has informed me about the genesis of ancient and modern religious beliefs and the political power that came from both religions and philosophies over the ages. To top it all the writing style is excellent and there is a shortish chapter on each major topic allowing you to dip in and out of this huge volume of knowledge. </p>
+Whilst my recommendation is not directly focussed on religion, rather on philosophy, I can confidently say it has informed me about the genesis of ancient and modern religious beliefs and the political power that came from both religions and philosophies over the ages. To top it all the writing style is excellent and there is a shortish chapter on each major topic allowing you to dip in and out of this huge volume of knowledge. 
 
-<p>This is pretty much a Nobel prize winning book for the author .....</p>
+This is pretty much a Nobel prize winning book for the author .....
 
-<p>History of Western Philosophy
-By Bertrand Russell</p>
+History of Western Philosophy
+By Bertrand Russell
 
-<p><a href="http://www.routledge.com/books/details/9780415325059/" rel="nofollow">http://www.routledge.com/books/details/9780415325059/</a></p>
-
+http://www.routledge.com/books/details/9780415325059/
 
 
 ## Answer 2132
@@ -44,32 +43,28 @@ By Bertrand Russell</p>
 - posted by: [ObdurateDemand](https://stackexchange.com/users/-1/524-obduratedemand) on 2011-01-12
 - score: 1
 
-<p>Joseph Campbell's 'masterwork' was a set of books about the origins, types, history, and influence of mythology.  Those books are titled "The Masks of God" from Viking Press:</p>
+Joseph Campbell's 'masterwork' was a set of books about the origins, types, history, and influence of mythology.  Those books are titled "The Masks of God" from Viking Press:
 
-<pre><code>* Volume 1, Primitive Mythology
-* Volume 2, Oriental Mythology
-* Volume 3, Occidental Mythology
-* Volume 4, Creative Mythology
-</code></pre>
+    * Volume 1, Primitive Mythology
+    * Volume 2, Oriental Mythology
+    * Volume 3, Occidental Mythology
+    * Volume 4, Creative Mythology
 
-<p>These will provide a strong basis for understanding the structure and form of 'early' religion.  I cannot recommend them highly enough for a place to start.  Following those books, I'd also recommend</p>
+These will provide a strong basis for understanding the structure and form of 'early' religion.  I cannot recommend them highly enough for a place to start.  Following those books, I'd also recommend
 
-<pre><code>* The Golden Bough - Robert Fraser
-</code></pre>
+    * The Golden Bough - Robert Fraser
 
-<p>As an extremely interesting, if convoluted, analysis of the early mystery cults.</p>
+As an extremely interesting, if convoluted, analysis of the early mystery cults.
 
-<p>For a history and survey of the impact of christianity, I'd recommend </p>
+For a history and survey of the impact of christianity, I'd recommend 
 
-<pre><code>* A History of Christianity, Volumes 1 and 2 -  Kenneth S. Latourette
-</code></pre>
+    * A History of Christianity, Volumes 1 and 2 -  Kenneth S. Latourette
 
-<p>For a history and survey of islam, try</p>
+For a history and survey of islam, try
 
-<pre><code>* History of Islam - Oxford Press
-</code></pre>
+    * History of Islam - Oxford Press
 
-<p>Oxford press also has works on the history and impact of Judaism and Hinduism as well as Buddhism.  Overall they're a good resource.</p>
+Oxford press also has works on the history and impact of Judaism and Hinduism as well as Buddhism.  Overall they're a good resource.
 
 
 
@@ -78,11 +73,10 @@ By Bertrand Russell</p>
 - posted by: [Rodger Cooley](https://stackexchange.com/users/-1/58-rodger-cooley) on 2011-01-12
 - score: 1
 
-<p>I submit Stephen Prothero's <em>Religious Literacy</em>.  I have been reading it off and on for the last couple of months.</p>
+I submit Stephen Prothero's *Religious Literacy*.  I have been reading it off and on for the last couple of months.
 
-<p>Mixed reviews.
-<a href="http://rads.stackoverflow.com/amzn/click/0060859520" rel="nofollow">http://www.amazon.com/Religious-Literacy-American-Know-Doesnt/dp/0060859520</a></p>
-
+Mixed reviews.
+http://www.amazon.com/Religious-Literacy-American-Know-Doesnt/dp/0060859520
 
 
 ## Answer 2238
@@ -116,8 +110,7 @@ By Bertrand Russell</p>
 - posted by: [oosterwal](https://stackexchange.com/users/-1/891-oosterwal) on 2011-01-19
 - score: 0
 
-<p>It's not a book, but I find this site to have an unusually unbiased approach to descriptions and histories of world religions: <a href="http://www.religioustolerance.org/" rel="nofollow">http://www.religioustolerance.org/</a></p>
-
+It's not a book, but I find this site to have an unusually unbiased approach to descriptions and histories of world religions: http://www.religioustolerance.org/
 
 
 

@@ -17,15 +17,16 @@ Not to be confused with houris in Islam, which'd be [silicone heaven][1].
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2011-02-15
 - score: 2
 
-<p>I don't know, but if I may suggest...</p>
+I don't know, but if I may suggest...
 
-<p>NeXTist</p>
+NeXTist
 
-<p>Recycler</p>
+Recycler
 
-<p>Upgradian</p>
+Upgradian
 
-<p>Rebootist</p>
+Rebootist
+
 
 
 

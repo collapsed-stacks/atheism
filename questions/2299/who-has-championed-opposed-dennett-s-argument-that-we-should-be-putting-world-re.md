@@ -51,12 +51,11 @@ Most of the responses here have referred to practical reasons why some have oppo
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2011-01-18
 - score: 0
 
-<p>I see his point, but logistically I'm not sure we could achieve his goal any time soon. The faintly hysterical climate around religion in the U.S. (more than "faintly" in the south) would erode the "history and beliefs" standard into "indoctrination" before it ever hit the classroom. (The Texas Board of Education recently removed Thomas Jefferson from the history books. So, yeah.) So many fundamentalists would lose their marbles that "our children are being taught to worship Islam!" (even when that's not remotely the case) that we could never reach a consensus of "governmental standard."</p>
+I see his point, but logistically I'm not sure we could achieve his goal any time soon. The faintly hysterical climate around religion in the U.S. (more than "faintly" in the south) would erode the "history and beliefs" standard into "indoctrination" before it ever hit the classroom. (The Texas Board of Education recently removed Thomas Jefferson from the history books. So, yeah.) So many fundamentalists would lose their marbles that "our children are being taught to worship Islam!" (even when that's not remotely the case) that we could never reach a consensus of "governmental standard."
 
-<p>I also think it might be skirting the U.S. Constitution's first amendment prohibiting the government from establishing a religion. It isn't, explicitly, but it's a bit close for comfort. </p>
+I also think it might be skirting the U.S. Constitution's first amendment prohibiting the government from establishing a religion. It isn't, explicitly, but it's a bit close for comfort. 
 
-<p>I think more education is always a fine idea, and I plan on doing pretty much what Dennett describes with my own sprogs, but in the U.S. public schools? I can't see it flying.</p>
-
+I think more education is always a fine idea, and I plan on doing pretty much what Dennett describes with my own sprogs, but in the U.S. public schools? I can't see it flying.
 
 
 ## Answer 2317
@@ -64,8 +63,7 @@ Most of the responses here have referred to practical reasons why some have oppo
 - posted by: [Lausten](https://stackexchange.com/users/-1/584-lausten) on 2011-01-18
 - score: 0
 
-<p>I have no personal experience, but Susan Blackmore, once a paranormal "scientist", now an outspoken debunker has mentioned that her children get that sort of education in England. She said she overheard them joking about the strange beliefs of various cultures and she considered it an "inoculation" against taking up a specific belief. </p>
-
+I have no personal experience, but Susan Blackmore, once a paranormal "scientist", now an outspoken debunker has mentioned that her children get that sort of education in England. She said she overheard them joking about the strange beliefs of various cultures and she considered it an "inoculation" against taking up a specific belief. 
 
 
 

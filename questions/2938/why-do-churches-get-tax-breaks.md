@@ -44,10 +44,9 @@ In the United States, the IRS (our tax collection agency) allows churches to fil
 - posted by: [ObdurateDemand](https://stackexchange.com/users/-1/524-obduratedemand) on 2011-03-01
 - score: 0
 
-<p>Saying that the religious exemption from taxation is a function of the mores of the time is an incomplete answer I believe.  The exemption is a response to unequal taxation and fees levied on old european religions/cults by the powers that be.  The notion of religious freedom from interference by the government also included a freedom from the possibility of being penalized for the crime of being catholic or protestant.</p>
+Saying that the religious exemption from taxation is a function of the mores of the time is an incomplete answer I believe.  The exemption is a response to unequal taxation and fees levied on old european religions/cults by the powers that be.  The notion of religious freedom from interference by the government also included a freedom from the possibility of being penalized for the crime of being catholic or protestant.
 
-<p>Churches are granted that status so that the state cannot penalize you for being the wrong faith or drive your church's con-game out of existence.</p>
-
+Churches are granted that status so that the state cannot penalize you for being the wrong faith or drive your church's con-game out of existence.
 
 
 

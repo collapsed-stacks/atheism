@@ -48,14 +48,13 @@ One is informed faith, one is blind faith, but does this make science the religi
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2011-01-14
 - score: 2
 
-<p>Faith is "belief without proof." It's unfalsifiable.</p>
+Faith is "belief without proof." It's unfalsifiable.
 
-<p>Once you get verifiable evidence, something which can be repeated and tested, you're no longer talking about faith. You're talking about accepting facts. </p>
+Once you get verifiable evidence, something which can be repeated and tested, you're no longer talking about faith. You're talking about accepting facts. 
 
-<p>Religion is a codification of faith &mdash; what you have to trust in <i>without</i> being able to prove it. That rules out science. Science is all about proving and disproving. </p>
+Religion is a codification of faith &mdash; what you have to trust in <i>without</i> being able to prove it. That rules out science. Science is all about proving and disproving. 
 
-<p>Science is not a religion. It's a method for examining the world. </p>
-
+Science is not a religion. It's a method for examining the world. 
 
 
 ## Answer 2185
@@ -82,8 +81,7 @@ One is informed faith, one is blind faith, but does this make science the religi
 - posted by: [Cerberus](https://stackexchange.com/users/-1/623-cerberus) on 2011-01-14
 - score: 1
 
-<p>Everyone having an opinion in any domain whatsoever must assume certain things are true that he cannot prove himself. At the moment, I am assuming that the post by Borror I just read comes from the same human being who gave me excellent links in chat yesterday—but can I prove that myself? Not at all: there might be someone messing with the Stackexchange servers, who knows. So the assumption of things unproven is by no means typical of science or religion.</p>
-
+Everyone having an opinion in any domain whatsoever must assume certain things are true that he cannot prove himself. At the moment, I am assuming that the post by Borror I just read comes from the same human being who gave me excellent links in chat yesterday—but can I prove that myself? Not at all: there might be someone messing with the Stackexchange servers, who knows. So the assumption of things unproven is by no means typical of science or religion.
 
 
 

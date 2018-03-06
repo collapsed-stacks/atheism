@@ -26,10 +26,9 @@ What further research is out there that looks more in depth at these statistics?
 - posted by: [Satanicpuppy](https://stackexchange.com/users/-1/169-satanicpuppy) on 2011-03-14
 - score: 3
 
-<p>Bah. I hate to say it, but the standard fact is, <a href="http://en.wikipedia.org/wiki/Religiosity_and_intelligence#Studies_comparing_religious_belief_and_I.Q" rel="nofollow">atheism is strongly correlated with intelligence</a>. And <a href="http://www.timesonline.co.uk/tol/life_and_style/health/features/article996719.ece" rel="nofollow">high intelligence is <em>strongly</em> correlated to suicide.</a></p>
+Bah. I hate to say it, but the standard fact is, <a href="http://en.wikipedia.org/wiki/Religiosity_and_intelligence#Studies_comparing_religious_belief_and_I.Q">atheism is strongly correlated with intelligence</a>. And <a href="http://www.timesonline.co.uk/tol/life_and_style/health/features/article996719.ece">high intelligence is *strongly* correlated to suicide.</a>
 
-<p>So you can do a study and show that atheists are more likely to kill themselves, but the correlation is more pronounced if you say that <em>intellectuals</em> are more likely to kill themselves.</p>
-
+So you can do a study and show that atheists are more likely to kill themselves, but the correlation is more pronounced if you say that *intellectuals* are more likely to kill themselves.
 
 
 ## Answer 3142
@@ -37,19 +36,18 @@ What further research is out there that looks more in depth at these statistics?
 - posted by: [Jimbo](https://stackexchange.com/users/-1/1258-jimbo) on 2011-03-14
 - score: 1
 
-<p>I'd like to see more data too.</p>
+I'd like to see more data too.
 
-<p>Consider this though.</p>
+Consider this though.
 
-<p>Suicide is the ending of life.</p>
+Suicide is the ending of life.
 
-<p>Many religions teach that your life continues after death.</p>
+Many religions teach that your life continues after death.
 
-<p>So for an atheist and a person who believes in life after death, suicide can have a very different meaning.</p>
+So for an atheist and a person who believes in life after death, suicide can have a very different meaning.
 
-<p>For an atheist suicide is the ending of your life forever.
-For a person who believes in life after death, it is the ending of this life and the problems of this life.</p>
-
+For an atheist suicide is the ending of your life forever.
+For a person who believes in life after death, it is the ending of this life and the problems of this life.
 
 
 

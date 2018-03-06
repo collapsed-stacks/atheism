@@ -23,10 +23,9 @@ I’m not just making this up out of thin air, John Shelby Spong explores these 
 - posted by: [ObdurateDemand](https://stackexchange.com/users/-1/524-obduratedemand) on 2011-02-15
 - score: 2
 
-<p>All mythologies visit certain key themes and questions.  They attempt to address in symbolic fashion the origin and meaning of human life, the reason for death, the source of evil, pain and suffering, and other timeless issues.  I'd no more interpret the Hebraic mythos as psychology than I'd interpret the mythology of the Hopi as psychology.  Conflating the two demeans the value of studying mythology as a phenomenology and places its discourse in an inappropriate venue.</p>
+All mythologies visit certain key themes and questions.  They attempt to address in symbolic fashion the origin and meaning of human life, the reason for death, the source of evil, pain and suffering, and other timeless issues.  I'd no more interpret the Hebraic mythos as psychology than I'd interpret the mythology of the Hopi as psychology.  Conflating the two demeans the value of studying mythology as a phenomenology and places its discourse in an inappropriate venue.
 
-<p>This is what mythology <em>is</em>, and this is what its purpose is.</p>
-
+This is what mythology *is*, and this is what its purpose is.
 
 
 ## Answer 2785
@@ -34,17 +33,16 @@ I’m not just making this up out of thin air, John Shelby Spong explores these 
 - posted by: [Lachlan](https://stackexchange.com/users/-1/1024-lachlan) on 2011-02-15
 - score: 0
 
-<p>I absolutely believe it was an attempt at psychology, amongst other things. While I'm very critical of religion, it definitely attempts to address real and important matters. For a long time religion was a great aid to human progress. But those days are gone, we have developed better approaches (like actual psychology) that don't carry the costs of superstition.</p>
+I absolutely believe it was an attempt at psychology, amongst other things. While I'm very critical of religion, it definitely attempts to address real and important matters. For a long time religion was a great aid to human progress. But those days are gone, we have developed better approaches (like actual psychology) that don't carry the costs of superstition.
 
-<p>However, I personally don't admire anything about the Genesis myth. It inflicted upon us the truly hateful idea of original sin, something which the religious still preach as truth to children today. This provided the explanation for a number of phenomena that we now have much better explanations for, such as:</p>
+However, I personally don't admire anything about the Genesis myth. It inflicted upon us the truly hateful idea of original sin, something which the religious still preach as truth to children today. This provided the explanation for a number of phenomena that we now have much better explanations for, such as:
 
-<ul>
-<li>Why do we sometimes think and do bad things?</li>
-<li>Why is just surviving so freakin' hard?</li>
-<li>Why is child birth so incredibly painful?</li>
-</ul>
+ - Why do we sometimes think and do bad things?
+ - Why is just surviving so freakin' hard?
+ - Why is child birth so incredibly painful?
 
-<p>Ok, the first one is still a work in progress, but I think we can safely rule out "we fell from grace because our ancestors ate a magic apple".</p>
+Ok, the first one is still a work in progress, but I think we can safely rule out "we fell from grace because our ancestors ate a magic apple".
+
 
 
 

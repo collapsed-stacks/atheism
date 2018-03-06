@@ -31,10 +31,9 @@ Please note that the question is not about reducing atheism to the non existence
 - posted by: [ElendilTheTall](https://stackexchange.com/users/-1/769-elendilthetall) on 2011-01-24
 - score: 11
 
-<p>I can't speak for all atheists (no one can), but I would say something exists if it, or an effect it brings about, can be objectively observed and/or measured, and attributed unequivocably to it. In answer to your example of church-building, it doesn't mean god exists, it merely means that the <em>idea</em> of god exists.</p>
+I can't speak for all atheists (no one can), but I would say something exists if it, or an effect it brings about, can be objectively observed and/or measured, and attributed unequivocably to it. In answer to your example of church-building, it doesn't mean god exists, it merely means that the *idea* of god exists.
 
-<p>It is not enough for humans (whether a small group or everyone) to merely agree that something exists. Millions of children 'share a stable image' of Santa Claus, but he doesn't exist in a real physical sense.</p>
-
+It is not enough for humans (whether a small group or everyone) to merely agree that something exists. Millions of children 'share a stable image' of Santa Claus, but he doesn't exist in a real physical sense.
 
 
 ## Answer 2403
@@ -71,8 +70,7 @@ Please note that the question is not about reducing atheism to the non existence
 - posted by: [Community](https://stackexchange.com/users/-1/-1-community) on 2011-01-26
 - score: 0
 
-<p>In my not so humble opinion, a thing exists if it doesn't go away when I stop believing in it.</p>
-
+In my not so humble opinion, a thing exists if it doesn't go away when I stop believing in it.
 
 
 ## Answer 2481
@@ -80,8 +78,8 @@ Please note that the question is not about reducing atheism to the non existence
 - posted by: [kris sinclair](https://stackexchange.com/users/-1/957-kris-sinclair) on 2011-01-28
 - score: 0
 
-<p>thankyou to the one who posted the first response(9). I just had a sudden flash of inspiration while reading it:
-something can only be said to 'exist' if it has an effect. if it has no effect whatsoever, there could be no meaningful talk of its 'existence'. this applies to any subject under consideration.</p>
+thankyou to the one who posted the first response(9). I just had a sudden flash of inspiration while reading it:
+something can only be said to 'exist' if it has an effect. if it has no effect whatsoever, there could be no meaningful talk of its 'existence'. this applies to any subject under consideration.
 
 
 
@@ -90,9 +88,10 @@ something can only be said to 'exist' if it has an effect. if it has no effect w
 - posted by: [noisician](https://stackexchange.com/users/-1/90-noisician) on 2011-01-28
 - score: 0
 
-<p>There no point in the atheist defining either "god" or "exist". That is up to the theist. The skeptic can then decide whether or not to accept the proposition.</p>
+There no point in the atheist defining either "god" or "exist". That is up to the theist. The skeptic can then decide whether or not to accept the proposition.
 
-<p>Otherwise, there are an infinite number of hypothetical "gods" and ways for them to "exist" which an atheist can disbelieve. And unless you let the theist write the definitions, you are likely arguing against a straw man.</p>
+Otherwise, there are an infinite number of hypothetical "gods" and ways for them to "exist" which an atheist can disbelieve. And unless you let the theist write the definitions, you are likely arguing against a straw man.
+
 
 
 
@@ -101,12 +100,11 @@ something can only be said to 'exist' if it has an effect. if it has no effect w
 - posted by: [Joe](https://stackexchange.com/users/-1/1064-joe) on 2011-02-23
 - score: 0
 
-<p>It would simply indicate that the word 'god' (like 'unicorn') refers to an inexistent.</p>
+It would simply indicate that the word 'god' (like 'unicorn') refers to an inexistent.
 
-<p>To be precise, we could perhaps formulate this as: real without being actual.</p>
+To be precise, we could perhaps formulate this as: real without being actual.
 
-<p>So 'God' refers not to a being but to an image or idea, a concept. But the question here is precisely what sort of concept it names, what virtual being it refers to; and most importantly the humiliation of reason required to posit the conception of a benevolent deity in the first place.</p>
-
+So 'God' refers not to a being but to an image or idea, a concept. But the question here is precisely what sort of concept it names, what virtual being it refers to; and most importantly the humiliation of reason required to posit the conception of a benevolent deity in the first place.
 
 
 ## Answer 2878
@@ -114,20 +112,19 @@ something can only be said to 'exist' if it has an effect. if it has no effect w
 - posted by: [user unknown](https://stackexchange.com/users/-1/992-user-unknown) on 2011-02-23
 - score: 0
 
-<p>It is, as so often, a question of language. We use the term 'exists' in multiple ways, which are close enough to be confused, but not close enough to build a sharp definition. </p>
+It is, as so often, a question of language. We use the term 'exists' in multiple ways, which are close enough to be confused, but not close enough to build a sharp definition. 
 
-<p>L. Wittgenstein made an example with games. You have games like chess and bridge on the one side, and sport games like football and olympic games on the other side. You have children, playing the game of 'mum and dad' and so on. </p>
+L. Wittgenstein made an example with games. You have games like chess and bridge on the one side, and sport games like football and olympic games on the other side. You have children, playing the game of 'mum and dad' and so on. 
 
-<p>If you focus on a subset it seems, as if a sharp definition is possible, but if you try to get everything below a common subset, it's not possible. They are related here and there but don't build an intersection, which is the core of 'game'. </p>
+If you focus on a subset it seems, as if a sharp definition is possible, but if you try to get everything below a common subset, it's not possible. They are related here and there but don't build an intersection, which is the core of 'game'. 
 
-<p>And so the word 'existence'. For some things to exists we would ask for evidence in a physical sense, for measurements (is there some poison in the food?). But what about the fore-mentioned terms 'love', 'nothing', 'the number 5', 'Brazil (the country)' or 'the value of 5 $'?  Does Brazil exist? Can you prove it? If people stop to believe in Brazil - will it still exist? With no taxpayers, no army, no diplomatic exchange it will collapse. So it is a shared fantasy - but isn't it more real than god? </p>
+And so the word 'existence'. For some things to exists we would ask for evidence in a physical sense, for measurements (is there some poison in the food?). But what about the fore-mentioned terms 'love', 'nothing', 'the number 5', 'Brazil (the country)' or 'the value of 5 $'?  Does Brazil exist? Can you prove it? If people stop to believe in Brazil - will it still exist? With no taxpayers, no army, no diplomatic exchange it will collapse. So it is a shared fantasy - but isn't it more real than god? 
 
-<p>I would say so, because it is more robust against doubt. If millions and millions of people would agree, that Brazil is just a convention, and that it doesn't exist without people believing in it, people could still practice the cult of Brazil, raise it's flag, sing the hymn, form a national football team. </p>
+I would say so, because it is more robust against doubt. If millions and millions of people would agree, that Brazil is just a convention, and that it doesn't exist without people believing in it, people could still practice the cult of Brazil, raise it's flag, sing the hymn, form a national football team. 
 
-<p>In contrast religious people believe that god exists beyond their belief. Some believe they are thrown into hell if they don't believe. </p>
+In contrast religious people believe that god exists beyond their belief. Some believe they are thrown into hell if they don't believe. 
 
-<p>Back to the topic: The problem here is to expect, that there is a sharp definition of the word 'exist' which means the same in every case. If you can loosen that expectation the problem smoothly vanishes at the horizon, which doesn't exist. :) </p>
-
+Back to the topic: The problem here is to expect, that there is a sharp definition of the word 'exist' which means the same in every case. If you can loosen that expectation the problem smoothly vanishes at the horizon, which doesn't exist. :) 
 
 
 

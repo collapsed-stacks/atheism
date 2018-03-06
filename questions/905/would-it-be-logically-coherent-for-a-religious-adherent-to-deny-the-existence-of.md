@@ -38,8 +38,7 @@ When one looks into just the second and third (when the first, ie God's existenc
 - posted by: [Digitus Impudicus](https://stackexchange.com/users/-1/99-digitus-impudicus) on 2010-12-17
 - score: 3
 
-<p>I suppose one could belong to a social Christian group. Some liberal Quakers (I think) do not necessarily believe in the literal existence of God, and they are still considered Christians.</p>
-
+I suppose one could belong to a social Christian group. Some liberal Quakers (I think) do not necessarily believe in the literal existence of God, and they are still considered Christians.
 
 
 ## Answer 2118
@@ -47,16 +46,15 @@ When one looks into just the second and third (when the first, ie God's existenc
 - posted by: [Ilari Kajaste](https://stackexchange.com/users/-1/726-ilari-kajaste) on 2011-01-12
 - score: 3
 
-<p>For me, the <strong>question is are we talking about religion or theism.</strong> A theist believes in at least one god - that a deity, a supreme being of some sort, exists. Thus, <strong>a theist couldn't logically deny the existence of all gods.</strong></p>
+For me, the **question is are we talking about religion or theism.** A theist believes in at least one god - that a deity, a supreme being of some sort, exists. Thus, **a theist couldn't logically deny the existence of all gods.**
 
-<p>However, what is included in this "supremacy" of the deity varies, and it is a slippery slope of sorts. Basically theism seems to come down to the inherent quality of the being, a <em>deity</em> would be something clearly distinct of us, something distinctly better in a way that cannot be broken down to individual godlike traits. In that way, becoming god (as I understand was possible in some ancient variants of theism) would not the same as achieving the exact same powers via for example technology.</p>
+However, what is included in this "supremacy" of the deity varies, and it is a slippery slope of sorts. Basically theism seems to come down to the inherent quality of the being, a *deity* would be something clearly distinct of us, something distinctly better in a way that cannot be broken down to individual godlike traits. In that way, becoming god (as I understand was possible in some ancient variants of theism) would not the same as achieving the exact same powers via for example technology.
 
-<p>But your question was about <em>religious</em> adherents, and that of course comes down to <strong>what is the definition of religion.</strong> Of course, if you define religion as being a theistic view of the world, then in that case an adherent could not deny existence of a god.</p>
+But your question was about *religious* adherents, and that of course comes down to **what is the definition of religion.** Of course, if you define religion as being a theistic view of the world, then in that case an adherent could not deny existence of a god.
 
-<p>Thing is, I wouldn't define it as such. <strong>I don't think assumption of a deity is necessary for a religion.</strong> A religion could also be based on, e.g. assumptions of supernatural laws that govern the world. What I think is inherent in religiosity is the adherence to faith and/or tradition - accepting certain assumptions, or at least a significant part of the set of common assumptions, without evidence. This way, <strong>there could be a non-theistic religion, who's adherents could deny the existence of god</strong> and remain logically coherent. (I might even go as far as to say that some of the modern day UFO belief could quite well be considered such a non-theistic religion -though they seem to be at least trivially evidence based.)</p>
+Thing is, I wouldn't define it as such. **I don't think assumption of a deity is necessary for a religion.** A religion could also be based on, e.g. assumptions of supernatural laws that govern the world. What I think is inherent in religiosity is the adherence to faith and/or tradition - accepting certain assumptions, or at least a significant part of the set of common assumptions, without evidence. This way, **there could be a non-theistic religion, who's adherents could deny the existence of god** and remain logically coherent. (I might even go as far as to say that some of the modern day UFO belief could quite well be considered such a non-theistic religion -though they seem to be at least trivially evidence based.)
 
-<p>Of course, as a question of semantics, <strong>there can be never be any "correct" definition of neither <em>religion</em> nor <em>theism,</em></strong> only ones that are agreed upon in communication. So this was my contribution to that.</p>
-
+Of course, as a question of semantics, **there can be never be any "correct" definition of neither *religion* nor *theism,*** only ones that are agreed upon in communication. So this was my contribution to that.
 
 
 ## Answer 1026
@@ -64,10 +62,9 @@ When one looks into just the second and third (when the first, ie God's existenc
 - posted by: [Nomæd](https://stackexchange.com/users/-1/27-nom-d) on 2010-12-19
 - score: 2
 
-<p>If a christian (relevant for any other religion as well) does not believe in god, he is not a religious christian. You can say that he is culturally christian, but an atheist or agnostic.</p>
+If a christian (relevant for any other religion as well) does not believe in god, he is not a religious christian. You can say that he is culturally christian, but an atheist or agnostic.
 
-<p>I am very familiar with this issue among many Jews, who don't really believe in God (atheists/agnostics), or in the literal truth of the bible (deists), but keep following the Jewish traditions like celebrating holidays and etc., mostly for social purposes, or a feel of belonging.</p>
-
+I am very familiar with this issue among many Jews, who don't really believe in God (atheists/agnostics), or in the literal truth of the bible (deists), but keep following the Jewish traditions like celebrating holidays and etc., mostly for social purposes, or a feel of belonging.
 
 
 ## Answer 2063
@@ -88,8 +85,7 @@ When one looks into just the second and third (when the first, ie God's existenc
 - posted by: [Pulkit Sinha](https://stackexchange.com/users/-1/23-pulkit-sinha) on 2011-01-11
 - score: 2
 
-<p>Mostly no if you are talking about the Abrahamic religions (Judaism seems a little vague on it to me - <a href="http://en.wikipedia.org/wiki/Jewish_atheism" rel="nofollow">http://en.wikipedia.org/wiki/Jewish_atheism</a>), yes if you dealing with eastern religions. Take for example Hinduism. It is possible to be both atheist and Hindu - <a href="http://en.wikipedia.org/wiki/Atheism_in_Hinduism" rel="nofollow">http://en.wikipedia.org/wiki/Atheism_in_Hinduism</a> . I believe the case with Buddhism and Jainism is similar.</p>
-
+Mostly no if you are talking about the Abrahamic religions (Judaism seems a little vague on it to me - http://en.wikipedia.org/wiki/Jewish_atheism), yes if you dealing with eastern religions. Take for example Hinduism. It is possible to be both atheist and Hindu - http://en.wikipedia.org/wiki/Atheism_in_Hinduism . I believe the case with Buddhism and Jainism is similar.
 
 
 ## Answer 909
@@ -97,11 +93,12 @@ When one looks into just the second and third (when the first, ie God's existenc
 - posted by: [Satanicpuppy](https://stackexchange.com/users/-1/169-satanicpuppy) on 2010-12-17
 - score: 1
 
-<p>Not really.</p>
+Not really.
 
-<p>One of the core tenets of Christianity is a statement of beliefs called the <a href="http://en.wikipedia.org/wiki/Nicene_Creed" rel="nofollow">Nicene Creed</a> which lays out the things you're supposed to believe. Churches that don't use that, tend to use the <A href="http://en.wikipedia.org/wiki/Apostles%27_Creed" rel="nofollow">Apostles Creed</a>.</p>
+One of the core tenets of Christianity is a statement of beliefs called the <a href="http://en.wikipedia.org/wiki/Nicene_Creed">Nicene Creed</a> which lays out the things you're supposed to believe. Churches that don't use that, tend to use the <A href="http://en.wikipedia.org/wiki/Apostles%27_Creed">Apostles Creed</a>.
 
-<p>Both lay out belief in God, bodily resurrection, forgiveness of sins, etc, etc. If you don't buy it, you're really not a Christian. You could <em>call</em> yourself one, but that doesn't make it factually true.</p>
+Both lay out belief in God, bodily resurrection, forgiveness of sins, etc, etc. If you don't buy it, you're really not a Christian. You could *call* yourself one, but that doesn't make it factually true.
+
 
 
 
@@ -138,12 +135,11 @@ To add a finer point on this, the UMC is very aware of the philosophy of this ch
 - posted by: [Little Bobby Tables](https://stackexchange.com/users/-1/765-little-bobby-tables) on 2011-01-11
 - score: 1
 
-<p>This question is somewhat western-biased.  An interesting counter-example is Buddhism, and particularly, Zen-Buddhism.  A good deal of the Buddha's original teaching was <strong>not</strong> a religion, but a response, even a criticism, to an existing religion (Hinduism).  It appears mythical nowadays, because it was written in a religious context - Not too many atheists lived in 500 B.C India! However, basic Buddhism does not enforce a believe in a deity (although it was commonly mixed with existing religions, such as Tibetan Bon or Chinese Daoism).  It also <strong>denied</strong> the existence of a pre-defined destiny (Karma).  The Buddha himself never claimed to be a deity, and made it perfectly clear that he will <strong>not</strong> return after his death.  Zen-Buddhism took this state-of-mind to extreme, and Zen monks use to laugh and taunt at ceremonial religious activities.</p>
+This question is somewhat western-biased.  An interesting counter-example is Buddhism, and particularly, Zen-Buddhism.  A good deal of the Buddha's original teaching was **not** a religion, but a response, even a criticism, to an existing religion (Hinduism).  It appears mythical nowadays, because it was written in a religious context - Not too many atheists lived in 500 B.C India! However, basic Buddhism does not enforce a believe in a deity (although it was commonly mixed with existing religions, such as Tibetan Bon or Chinese Daoism).  It also **denied** the existence of a pre-defined destiny (Karma).  The Buddha himself never claimed to be a deity, and made it perfectly clear that he will **not** return after his death.  Zen-Buddhism took this state-of-mind to extreme, and Zen monks use to laugh and taunt at ceremonial religious activities.
 
-<p>To summarize: Most religions in the world do focus on worshiping deities, and therefore denying the existing of a God makes the person a "social believer" rather than a follower.  However, a mythically-rooted philosophy (namely, Buddhism) might be classified as a religion, without enforcing the belief in deities as an essential part of it.</p>
+To summarize: Most religions in the world do focus on worshiping deities, and therefore denying the existing of a God makes the person a "social believer" rather than a follower.  However, a mythically-rooted philosophy (namely, Buddhism) might be classified as a religion, without enforcing the belief in deities as an essential part of it.
 
-<p>(Btw - "Dharma" means "truth" and it is more of a set of guidelines than a divine force.)</p>
-
+(Btw - "Dharma" means "truth" and it is more of a set of guidelines than a divine force.)
 
 
 ## Answer 2199
@@ -151,14 +147,13 @@ To add a finer point on this, the UMC is very aware of the philosophy of this ch
 - posted by: [ThisIstheId](https://stackexchange.com/users/-1/404-thisistheid) on 2011-01-14
 - score: 1
 
-<p>So the way this question is worded is by assuming the truth of a definition of religion that is not necessarily accurate. Also, this seems to be a more general question than one that can be addressed by considering only the various strands of Christianity, so I will not make that assumption below.</p>
+So the way this question is worded is by assuming the truth of a definition of religion that is not necessarily accurate. Also, this seems to be a more general question than one that can be addressed by considering only the various strands of Christianity, so I will not make that assumption below.
 
-<p>Still, you need not reject the first tenet to be able to find a consistent story to be told about the atheistic religious. If, say, your religion includes metaphysical/theological assumptions such as the non-existence of something like god(i.e. Gnostic Atheism), that still fulfills the first tenet. It just does so unconventionally.</p>
+Still, you need not reject the first tenet to be able to find a consistent story to be told about the atheistic religious. If, say, your religion includes metaphysical/theological assumptions such as the non-existence of something like god(i.e. Gnostic Atheism), that still fulfills the first tenet. It just does so unconventionally.
 
-<p>It has been raised elsewhere on this site that some strains of Buddhism can be thought of as atheistic, and presumably they would still be considered a religion. </p>
+It has been raised elsewhere on this site that some strains of Buddhism can be thought of as atheistic, and presumably they would still be considered a religion. 
 
-<p>While the atheists on this site agree that atheism is best not considered a religion as a necessary feature, that does not mean that atheism is necessarily not a religion. If it had other features of religion, there is no reason why certain types of atheism when practiced in certain ways could not be considered religious. </p>
-
+While the atheists on this site agree that atheism is best not considered a religion as a necessary feature, that does not mean that atheism is necessarily not a religion. If it had other features of religion, there is no reason why certain types of atheism when practiced in certain ways could not be considered religious. 
 
 
 ## Answer 1013
@@ -166,10 +161,9 @@ To add a finer point on this, the UMC is very aware of the philosophy of this ch
 - posted by: [Dave Gilbert](https://stackexchange.com/users/-1/238-dave-gilbert) on 2010-12-18
 - score: 0
 
-<p>Many religions appear to have members that lack belief but go along with the traditions and the culture.<br>
-Richard Dawkins talks about the former UK Astronomer Royal, Martin Rees who enjoyed the anglican community and culture but had no believe in the dogma.<br>
-Furthermore, there is the oft quoted joke, 'what do you call a Jewish Atheist?...A Jew'.</p>
-
+Many religions appear to have members that lack belief but go along with the traditions and the culture.  
+Richard Dawkins talks about the former UK Astronomer Royal, Martin Rees who enjoyed the anglican community and culture but had no believe in the dogma.  
+Furthermore, there is the oft quoted joke, 'what do you call a Jewish Atheist?...A Jew'.
 
 
 

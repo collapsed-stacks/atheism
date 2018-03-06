@@ -56,9 +56,8 @@ EDIT: Sorry, as was brought to my attention by the Chat, I misspelled PZ Myers' 
 - posted by: [Peter](https://stackexchange.com/users/-1/168-peter) on 2010-12-25
 - score: 2
 
-<p>Religion has been around for thousands of years and no evidence has ever been found to support any flavor of it. I have to take the view that there is no evidence and likely never will be. Any time a religion makes a testable claim it turns out to be false.
-If something appeared to be evidence in favor of a religion I would suspect it to be a hoax of some kind. Perhaps some technology unknown to me is being used to give the appearance of the supernatural. It would take some spectacular and testable evidence to convince me it was real.</p>
-
+Religion has been around for thousands of years and no evidence has ever been found to support any flavor of it. I have to take the view that there is no evidence and likely never will be. Any time a religion makes a testable claim it turns out to be false.
+If something appeared to be evidence in favor of a religion I would suspect it to be a hoax of some kind. Perhaps some technology unknown to me is being used to give the appearance of the supernatural. It would take some spectacular and testable evidence to convince me it was real.
 
 
 ## Answer 1437
@@ -92,10 +91,9 @@ If something appeared to be evidence in favor of a religion I would suspect it t
 - posted by: [Rex M](https://stackexchange.com/users/-1/324-rex-m) on 2010-12-25
 - score: 1
 
-<p>It depends on the nature of the "reveal". If some bearded guy came down from the sky and said "yes, I am God as described in Christianity" and performed miracles and such, I <em>might</em> be more open to accepting it. But honestly, it's still a hard sell, because the whole story is just absurd. It'd be like Gandalf stepping out of a <em>Lord of the Rings</em> book and going "hi, I'm actually real." My first inclination would be to think "OK, something else weird is going on here. Let's figure out what <em>that</em> is."</p>
+It depends on the nature of the "reveal". If some bearded guy came down from the sky and said "yes, I am God as described in Christianity" and performed miracles and such, I *might* be more open to accepting it. But honestly, it's still a hard sell, because the whole story is just absurd. It'd be like Gandalf stepping out of a *Lord of the Rings* book and going "hi, I'm actually real." My first inclination would be to think "OK, something else weird is going on here. Let's figure out what *that* is."
 
-<p>Now if something previously incomprehensible suddenly appeared, with answers to many of mankind's questions about the universe - and those answers align with what we already understand about the universe, <em>not</em> that they align with fairy tales - and also claimed to be the reason for existence or something like that, I'd be open to that.</p>
-
+Now if something previously incomprehensible suddenly appeared, with answers to many of mankind's questions about the universe - and those answers align with what we already understand about the universe, *not* that they align with fairy tales - and also claimed to be the reason for existence or something like that, I'd be open to that.
 
 
 ## Answer 1421
@@ -103,20 +101,21 @@ If something appeared to be evidence in favor of a religion I would suspect it t
 - posted by: [Michael](https://stackexchange.com/users/-1/377-michael) on 2010-12-25
 - score: 1
 
-<p>At the very minimum God would need to supply conclusive proofs for the Millennium Prize Problems of the Clay Mathematics Institute:</p>
+At the very minimum God would need to supply conclusive proofs for the Millennium Prize Problems of the Clay Mathematics Institute:
 
-<pre><code>* Birch and Swinnerton-Dyer Conjecture
-* Hodge Conjecture
-* Navier-Stokes Equations
-* P vs NP
-* Poincaré Conjecture
-* Riemann Hypothesis
-* Yang-Mills Theory
-</code></pre>
+    * Birch and Swinnerton-Dyer Conjecture
+    * Hodge Conjecture
+    * Navier-Stokes Equations
+    * P vs NP
+    * Poincaré Conjecture
+    * Riemann Hypothesis
+    * Yang-Mills Theory
 
-<p>It would be worth the effort because the prize is $1m per problem - and as Carlin once observed, "God always needs money."</p>
+It would be worth the effort because the prize is $1m per problem - and as Carlin once observed, "God always needs money."
 
-<p>Just for the record, even if it was conclusively proved that God did exist, then I would be a "believer", but I still wouldn't be a "follower". I'd argue with him every time he tried to interfere in my life.</p>
+
+Just for the record, even if it was conclusively proved that God did exist, then I would be a "believer", but I still wouldn't be a "follower". I'd argue with him every time he tried to interfere in my life.
+
 
 
 
@@ -125,10 +124,9 @@ If something appeared to be evidence in favor of a religion I would suspect it t
 - posted by: [noisician](https://stackexchange.com/users/-1/90-noisician) on 2010-12-25
 - score: 1
 
-<p>The God hypothesis would have been more convincing if the God actually interacted with the world in some supernatural manner. This would mean that the world wouldn't behave predictably, so there would be no reliable link between cause and effect, so 2+2 would not always equal 4. </p>
+The God hypothesis would have been more convincing if the God actually interacted with the world in some supernatural manner. This would mean that the world wouldn't behave predictably, so there would be no reliable link between cause and effect, so 2+2 would not always equal 4. 
 
-<p>But when everything gets explained (eventually) by mundane causes, that means that the alleged God is not having an effect on anything! If God is not detectable and does not interact with the world, it's indistinguishable from nothing.</p>
-
+But when everything gets explained (eventually) by mundane causes, that means that the alleged God is not having an effect on anything! If God is not detectable and does not interact with the world, it's indistinguishable from nothing.
 
 
 ## Answer 1432
@@ -136,17 +134,17 @@ If something appeared to be evidence in favor of a religion I would suspect it t
 - posted by: [Rob Schneider](https://stackexchange.com/users/-1/149-rob-schneider) on 2010-12-25
 - score: 1
 
-<p><strong>NONE vs. This is a flawed question</strong></p>
+**NONE vs. This is a flawed question**
 
-<p>First I started answering "none."  Any event occurring outside of expected physical behaviors would cause me to say, "Wow, that was unexpected. I wonder what explains it?"</p>
+First I started answering "none."  Any event occurring outside of expected physical behaviors would cause me to say, "Wow, that was unexpected. I wonder what explains it?"
 
-<p>This led me to a reformulation of the question:  What experience could I have that would ever cause me to make the untenable leap from "I don't know how X occurred" to "I don't know, therefore "God" ?  </p>
+This led me to a reformulation of the question:  What experience could I have that would ever cause me to make the untenable leap from "I don't know how X occurred" to "I don't know, therefore "God" ?  
 
-<p><strong>Ultimately I conclude "This is a flawed question."</strong></p>
+**Ultimately I conclude "This is a flawed question."**
 
-<p>Asking for evidence that supports the God hypothesis implies that the hypothesis is anything more than a totally unsubstantiated fabrication... i.e. that it could be falsified or tested.  It can't be.  It is an empty assertion of some "thing" existing; some thing that is beyond every concept one can imagine.  Trying to come up with evidence to support that idea seems like time wasted.  </p>
+Asking for evidence that supports the God hypothesis implies that the hypothesis is anything more than a totally unsubstantiated fabrication... i.e. that it could be falsified or tested.  It can't be.  It is an empty assertion of some "thing" existing; some thing that is beyond every concept one can imagine.  Trying to come up with evidence to support that idea seems like time wasted.  
 
-<p>What changes can you, the theist make to your assertion of a "god" so that it is falsifiable, testable, meaningful and not equivocal?   As the question stands now, it smacks of a used-car salesman:  "What's it gonna take for me to get you into a car today?"</p>
+What changes can you, the theist make to your assertion of a "god" so that it is falsifiable, testable, meaningful and not equivocal?   As the question stands now, it smacks of a used-car salesman:  "What's it gonna take for me to get you into a car today?"
 
 
 
@@ -172,7 +170,9 @@ If something appeared to be evidence in favor of a religion I would suspect it t
 - posted by: [ObdurateDemand](https://stackexchange.com/users/-1/524-obduratedemand) on 2010-12-27
 - score: 0
 
-<p>Given the suffering, torment, disease, and overall crap that exists in this universe, any divine entity would have to exhibit <em>benevolence</em> in order to be regarded as a potential deity.  The demonstration of that benevolence would have to affect <em>all</em> of humanity in order to actually be benevolent.  So, I personally would regard the elimination of all physical human suffering, death, and torment in an instant to be evidence of an entity that <em>might</em> meet the criteria of 'God'.  Conversely, any entity that does not eliminate human suffering is not worthy of being called 'God'.</p>
+
+Given the suffering, torment, disease, and overall crap that exists in this universe, any divine entity would have to exhibit *benevolence* in order to be regarded as a potential deity.  The demonstration of that benevolence would have to affect *all* of humanity in order to actually be benevolent.  So, I personally would regard the elimination of all physical human suffering, death, and torment in an instant to be evidence of an entity that *might* meet the criteria of 'God'.  Conversely, any entity that does not eliminate human suffering is not worthy of being called 'God'.
+
 
 
 
@@ -181,11 +181,10 @@ If something appeared to be evidence in favor of a religion I would suspect it t
 - posted by: [Escoffier](https://stackexchange.com/users/-1/527-escoffier) on 2010-12-27
 - score: 0
 
-<p>This is really a tough question.  One is tempted to respond that miracles would convince one
-of the existence of God.  However, if there are miracles transpiring, that gives one to wonder if the miracles are not just a manifestation of some previously unsuspected natural or universal law or organizing principle.  I know that my personal reaction to some entity claiming to be GOD would be to laugh or run, depending on  my judgment as to the degree of danger posed by the entity.  This has been my habit for some time.<br>
+This is really a tough question.  One is tempted to respond that miracles would convince one
+of the existence of God.  However, if there are miracles transpiring, that gives one to wonder if the miracles are not just a manifestation of some previously unsuspected natural or universal law or organizing principle.  I know that my personal reaction to some entity claiming to be GOD would be to laugh or run, depending on  my judgment as to the degree of danger posed by the entity.  This has been my habit for some time.  
 As to what would constitute proof of the existence of GOD I would believe if several things happened.  First, some entity would need to make itself manifest in some way and announce itself as GOD.  Second, it would need to be able to influence me enough so that I was not able to run.(See above) Third, the entity would need to be able to meet the following challenge.  "If you can cause the sun to come up in the west tomorrow, and to revert to the normal progression(rising in the east) again the day after tomorrow, then you are, indeed, GOD."
-I think that the scenario outlined above would satisfy most fair minded atheists that they had been mistaken.  </p>
-
+I think that the scenario outlined above would satisfy most fair minded atheists that they had been mistaken.  
 
 
 ## Answer 1502
@@ -193,10 +192,9 @@ I think that the scenario outlined above would satisfy most fair minded atheists
 - posted by: [John Bode](https://stackexchange.com/users/-1/117-john-bode) on 2010-12-27
 - score: 0
 
-<p>For me, it would have to be something unambiguously God-like; showing up as a giant colossus (beard, robe, the whole nut) smiting lawyers and TV executives would be a start.  And I'm not being (completely) snarky; garden-variety "miracles" wouldn't do it, because that's only proof of the miracle itself, not God.  No, I'd have to see an actual physical manifestation of God Himself.  </p>
+For me, it would have to be something unambiguously God-like; showing up as a giant colossus (beard, robe, the whole nut) smiting lawyers and TV executives would be a start.  And I'm not being (completely) snarky; garden-variety "miracles" wouldn't do it, because that's only proof of the miracle itself, not God.  No, I'd have to see an actual physical manifestation of God Himself.  
 
-<p>Note, however, this this would not necessarily compel me to <em>worship</em> said God.  I would acknowledge His existence, but that's it.</p>
-
+Note, however, this this would not necessarily compel me to *worship* said God.  I would acknowledge His existence, but that's it.
 
 
 ## Answer 1515
@@ -204,12 +202,11 @@ I think that the scenario outlined above would satisfy most fair minded atheists
 - posted by: [Roman Zenka](https://stackexchange.com/users/-1/420-roman-zenka) on 2010-12-27
 - score: 0
 
-<p>People do not believe or disbelieve in God to explain away evidence, but because they feel a need that the belief satisfies. I do not think evidence would create such a need in me, so I would conclude that no amount of evidence would make me believe. </p>
+People do not believe or disbelieve in God to explain away evidence, but because they feel a need that the belief satisfies. I do not think evidence would create such a need in me, so I would conclude that no amount of evidence would make me believe. 
 
-<p>It would be more like some kind of spiritual awakening, when I realize I could unlock my true potential and live much more happily if I accept the idea of God's existence... and even then I would not really believe, I would just utilize the power of the idea.</p>
+It would be more like some kind of spiritual awakening, when I realize I could unlock my true potential and live much more happily if I accept the idea of God's existence... and even then I would not really believe, I would just utilize the power of the idea.
 
-<p>I realized some time ago that I can make myself believe pretty much anything, if I really focus on it, and that kind of ruined the whole belief thing for me. Belief is just something I do with my organs, to my profit or to my detriment, something I chose or that the circumstances force upon me. There is exactly the same amount of God in it as in everything else. This amount is called either zero, or one, or infinity, depending whom you ask, but it all means the exact same thing, as there is just one world around us and all these people are referring to the same thing.</p>
-
+I realized some time ago that I can make myself believe pretty much anything, if I really focus on it, and that kind of ruined the whole belief thing for me. Belief is just something I do with my organs, to my profit or to my detriment, something I chose or that the circumstances force upon me. There is exactly the same amount of God in it as in everything else. This amount is called either zero, or one, or infinity, depending whom you ask, but it all means the exact same thing, as there is just one world around us and all these people are referring to the same thing.
 
 
 ## Answer 1549
@@ -217,13 +214,16 @@ I think that the scenario outlined above would satisfy most fair minded atheists
 - posted by: [edelwater](https://stackexchange.com/users/-1/562-edelwater) on 2010-12-28
 - score: 0
 
-<p>This is a non question by the way it is stated. "believe in God".</p>
+This is a non question by the way it is stated. "believe in God".
 
-<p>For 5.000 years people believed in multiple Gods like Osiris, Isis, Horus and so on. They were based on representations of the natural phenomena. I think this question is very much influenced by being in a culture believing in a Judaic God (f.y.i.: invented in the same Egypt, original 5 books about it written in the same egypt) (but long after papyrus created philosophy which created the sciences).</p>
+For 5.000 years people believed in multiple Gods like Osiris, Isis, Horus and so on. They were based on representations of the natural phenomena. I think this question is very much influenced by being in a culture believing in a Judaic God (f.y.i.: invented in the same Egypt, original 5 books about it written in the same egypt) (but long after papyrus created philosophy which created the sciences).
 
-<p>A better phrase would be "what would it take to believe in Osiris" or "what would it take to believe in Santa Claus".</p>
+A better phrase would be "what would it take to believe in Osiris" or "what would it take to believe in Santa Claus".
 
-<p>Well.. probably lobotomy or total crazyness</p>
+Well.. probably lobotomy or total crazyness
+
+
+
 
 
 
@@ -232,11 +232,11 @@ I think that the scenario outlined above would satisfy most fair minded atheists
 - posted by: [Lausten](https://stackexchange.com/users/-1/584-lausten) on 2011-01-25
 - score: 0
 
-<p>If everyone who claimed to know or be in touch with a deity actually lived out the higher ideals that are listed in scriptures, I think I could accept there is a god. By “higher ideals” I mean the ones relating to compassion and love. I realize there was punishment and killing by those deities in the scriptures but it was almost always initiated, authorized or directly done by the deities, so if everyone who claimed to follow those gods would leave the punishing and killing up to the gods, I would be okay with it. Dealing with tsunamis, drought, and evil dictators is more than enough to keep all the relief organizations busy. I would gladly say, “Thank you God for giving me something to keep me busy.” </p>
+If everyone who claimed to know or be in touch with a deity actually lived out the higher ideals that are listed in scriptures, I think I could accept there is a god. By “higher ideals” I mean the ones relating to compassion and love. I realize there was punishment and killing by those deities in the scriptures but it was almost always initiated, authorized or directly done by the deities, so if everyone who claimed to follow those gods would leave the punishing and killing up to the gods, I would be okay with it. Dealing with tsunamis, drought, and evil dictators is more than enough to keep all the relief organizations busy. I would gladly say, “Thank you God for giving me something to keep me busy.” 
 
-<p>I would also need the converting of others to be left to the gods. Christianity includes accepting that everyone is not perfect, and some people are further along on the path to righteousness than others.  Those who are further along should treat others with compassion and accept them as they are. Islam has more about conquering in its culture, but there is also something about waiting for others to be ready to believe. If all religions allowed for others to exist, including non-belief, I would accept that their gods existed. </p>
+I would also need the converting of others to be left to the gods. Christianity includes accepting that everyone is not perfect, and some people are further along on the path to righteousness than others.  Those who are further along should treat others with compassion and accept them as they are. Islam has more about conquering in its culture, but there is also something about waiting for others to be ready to believe. If all religions allowed for others to exist, including non-belief, I would accept that their gods existed. 
 
-<p>If there could possibly be that much compassion, love and acceptance, I would think that there was a divine presence in the world. I would probably imagine it as light or warmth, but that’s just me. For the icing on the cake, everyone, believers and non-believers would also be working together to continue to discover creation and it’s origins and if you wanted to called it “reality” that would be fine and if you wanted to call it “god” that would be fine too. </p>
+If there could possibly be that much compassion, love and acceptance, I would think that there was a divine presence in the world. I would probably imagine it as light or warmth, but that’s just me. For the icing on the cake, everyone, believers and non-believers would also be working together to continue to discover creation and it’s origins and if you wanted to called it “reality” that would be fine and if you wanted to call it “god” that would be fine too. 
 
 
 

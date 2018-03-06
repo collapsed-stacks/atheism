@@ -12,7 +12,9 @@ Certainly, in antiquitiy when Hinduism and Budism were spreading they had "debat
 - posted by: [Digitus Impudicus](https://stackexchange.com/users/-1/99-digitus-impudicus) on 2010-12-14
 - score: 2
 
-Certainly, in antiquitiy when Hinduism and Budism were spreading they had "debate-points" and preferred methods of conversion. Why are their arguments never heard at all any more? Are there any good books on how to sell Buddism to an Animist? Or, how to sell Hinduism to a Druid? I'm wanting to know more about ancient apoligetics - I want to know what they have in common with Christian apolagetics which I understand quite well. Presumably, the punchlines between Ray Comfort and a fervent believer in Apep were vastly different.
+The only reference I can find to Buddhist apologetics is "Milinda Panha". Perhaps you can find it somewhere.
+Wikipedia has an article that might be useful:
+http://en.wikipedia.org/wiki/Apologetics
 
 
 

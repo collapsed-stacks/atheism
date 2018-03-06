@@ -14,9 +14,8 @@ I am in Brazil and I am looking for like-minded people.
 - posted by: [Collin Estes](https://stackexchange.com/users/-1/767-collin-estes) on 2011-01-11
 - score: 3
 
-Is there a resource which might help atheists find like-minded groups or meetings in their area?
+<p>I've found groups in my local area on <a href="http://www.meetup.com/" rel="nofollow">http://www.meetup.com/</a>.  Not sure if it extends to Germany but take a look and see.  </p>
 
-I am in Brazil and I am looking for like-minded people.
 
 
 ## Answer 2140
@@ -24,9 +23,7 @@ I am in Brazil and I am looking for like-minded people.
 - posted by: [CesarGon](https://stackexchange.com/users/-1/80-cesargon) on 2011-01-12
 - score: 0
 
-Is there a resource which might help atheists find like-minded groups or meetings in their area?
-
-I am in Brazil and I am looking for like-minded people.
+Ask the <a href="http://www.the-brights.net/">Brights</a>. The "Community" area on the web site contains some interesting links and references. In particular, there is an email contact <a href="http://www.the-brights.net/community/blc/list.html">here</a> for the Brazilian Brights Community Cluster.
 
 
 

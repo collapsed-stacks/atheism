@@ -16,11 +16,7 @@ Not that I want to be, but am wondering how accurate such a label would be in ca
 - posted by: [Peter](https://stackexchange.com/users/-1/168-peter) on 2011-03-01
 - score: 3
 
-I know "belief in anything `god` or `God` disqualifies antheism", but assuming I don't worship / acknowledge any of those, but then revere the self, do I get labeled an `atheist`?
-
-Not that I want to be, but am wondering how accurate such a label would be in case someone used it to classify me.
-
-(forgive any ambiguities, am not good with words)
+Atheists don't believe in god or gods of any kind. If you believe you *are* god then you are not an atheist but probably are in need of psychiatric care.
 
 
 ## Answer 2953
@@ -28,11 +24,7 @@ Not that I want to be, but am wondering how accurate such a label would be in ca
 - posted by: [philip guy muir](https://stackexchange.com/users/-1/182-philip-guy-muir) on 2011-03-01
 - score: 0
 
-I know "belief in anything `god` or `God` disqualifies antheism", but assuming I don't worship / acknowledge any of those, but then revere the self, do I get labeled an `atheist`?
-
-Not that I want to be, but am wondering how accurate such a label would be in case someone used it to classify me.
-
-(forgive any ambiguities, am not good with words)
+Can you break the natural laws? Can you bring back the dead? No. You are not a God but if you believe you are then you are not an Atheist.
 
 
 

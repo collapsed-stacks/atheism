@@ -19,8 +19,7 @@ Can you help define this word for me?  Thanks!
 - posted by: [Satanicpuppy](https://stackexchange.com/users/-1/169-satanicpuppy) on 2010-12-30
 - score: 7
 
-<p>It's a <a href="http://en.wikipedia.org/wiki/Portmanteau" rel="nofollow">portmanteau</a> of "<a href="http://en.wikipedia.org/wiki/Evangelicalism" rel="nofollow">Evangelical</a>" and "<a href="http://en.wikipedia.org/wiki/Fundamentalism" rel="nofollow">Fundamentalist</a>"</p>
-
+It's a <a href="http://en.wikipedia.org/wiki/Portmanteau">portmanteau</a> of "<a href="http://en.wikipedia.org/wiki/Evangelicalism">Evangelical</a>" and "<a href="http://en.wikipedia.org/wiki/Fundamentalism">Fundamentalist</a>"
 
 
 

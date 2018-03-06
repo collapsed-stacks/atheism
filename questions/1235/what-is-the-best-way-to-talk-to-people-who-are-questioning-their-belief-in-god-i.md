@@ -58,8 +58,7 @@ What If I am the only person in my life capable of discerning "God's Will" for m
 - posted by: [Tr1234](https://stackexchange.com/users/-1/269-tr1234) on 2010-12-23
 - score: 2
 
-<p>Tell them to read the bible cover to cover. Then send them off to read the Koran, and have them wrap it up with the Bhagvad Gita. Hopefully they'll come away from the experience a richer person.</p>
-
+Tell them to read the bible cover to cover. Then send them off to read the Koran, and have them wrap it up with the Bhagvad Gita. Hopefully they'll come away from the experience a richer person.
 
 
 ## Answer 1241
@@ -67,8 +66,7 @@ What If I am the only person in my life capable of discerning "God's Will" for m
 - posted by: [philip guy muir](https://stackexchange.com/users/-1/182-philip-guy-muir) on 2010-12-23
 - score: 2
 
-<p>Be nice, dont judge and answer with honesty. Easy.</p>
-
+Be nice, dont judge and answer with honesty. Easy.
 
 
 ## Answer 1239
@@ -76,16 +74,15 @@ What If I am the only person in my life capable of discerning "God's Will" for m
 - posted by: [Rob Guimaraes](https://stackexchange.com/users/-1/361-rob-guimaraes) on 2010-12-23
 - score: 1
 
-<p>Hopefully this doesn't slide away from the context you've presented, but I'd avoid stepping  into the "goal to influence them to become an atheist"entirely.</p>
+Hopefully this doesn't slide away from the context you've presented, but I'd avoid stepping  into the "goal to influence them to become an atheist"entirely.
 
-<p>My primary focus would be to ascertain what personal value system they have; essentially figuring out what makes them happy and what they genuinely resonate with. Some people may not be 'shove it down your throat' theists...heck, they may not even be 'I KNOW I'm right' theists, but may still feel more personally comfortable with some concept of spirituality or metaphysical fluffiness.</p>
+My primary focus would be to ascertain what personal value system they have; essentially figuring out what makes them happy and what they genuinely resonate with. Some people may not be 'shove it down your throat' theists...heck, they may not even be 'I KNOW I'm right' theists, but may still feel more personally comfortable with some concept of spirituality or metaphysical fluffiness.
 
-<p>I think being able to assist them in being introspective and discovering where they actually lie on that philosophical spectrum would be most important.</p>
+I think being able to assist them in being introspective and discovering where they actually lie on that philosophical spectrum would be most important.
 
-<p>I'd probably couple that with a discussion about the divide between the scientific method (as a system of incorporating information we can be as sure as possible is factual in our tangible reality) and imaginative thought processes, because I have met some theistic/spiritual people who are honest about admitting that there is no genuine solid evidence to support what they believe, but that it's still a gut feeling they have that they feel shouldn't be squelched (for whatever personal reasons).</p>
+I'd probably couple that with a discussion about the divide between the scientific method (as a system of incorporating information we can be as sure as possible is factual in our tangible reality) and imaginative thought processes, because I have met some theistic/spiritual people who are honest about admitting that there is no genuine solid evidence to support what they believe, but that it's still a gut feeling they have that they feel shouldn't be squelched (for whatever personal reasons).
 
-<p>I think that helps turn people towards a mindset that prevents any metaphysical notions from turning to judgmental dogma, particularly to where it would infringe on the imaginative freedoms of others.</p>
-
+I think that helps turn people towards a mindset that prevents any metaphysical notions from turning to judgmental dogma, particularly to where it would infringe on the imaginative freedoms of others.
 
 
 ## Answer 1284
@@ -93,16 +90,16 @@ What If I am the only person in my life capable of discerning "God's Will" for m
 - posted by: [Increedable](https://stackexchange.com/users/-1/112-increedable) on 2010-12-23
 - score: 1
 
-<p>I take some pride in having, to a degree, influenced some highly religious people to become non-believers.  In my experience, this is no easy task given the defense mechanisms that religion embeds upon it's adherents, often starting from a very early age.  It's important to recognize that you're unlikely to make highly religious people give up their beliefs, identities and rituals so your goals should be modest.  Sure, helping a theist become an atheist would be wonderful but just empowering a believer with stronger critical thinking skills is what ought to matter most.  </p>
+I take some pride in having, to a degree, influenced some highly religious people to become non-believers.  In my experience, this is no easy task given the defense mechanisms that religion embeds upon it's adherents, often starting from a very early age.  It's important to recognize that you're unlikely to make highly religious people give up their beliefs, identities and rituals so your goals should be modest.  Sure, helping a theist become an atheist would be wonderful but just empowering a believer with stronger critical thinking skills is what ought to matter most.  
 
-<p>To do so, you should be mindful of who you choose to influence.  I think this is even more important than the methods employed.  There are some who are incredibly stubborn, unreflective and deficient when it comes to objective thinking.  In my experience, the people worth influencing need to be fairly intelligent and it helps if they're educated.  Those with a liberal arts education have a background that provides a basis in critical analysis while those with a science education should have a firm grasp of objectivity and the scientific method.  People need to learn the value of truth, seeing diverse perspectives, as well as the merits of logic and the basic fallacies.  Of course, these kinds of backgrounds aren't essential but they do provide a good leg up.</p>
+To do so, you should be mindful of who you choose to influence.  I think this is even more important than the methods employed.  There are some who are incredibly stubborn, unreflective and deficient when it comes to objective thinking.  In my experience, the people worth influencing need to be fairly intelligent and it helps if they're educated.  Those with a liberal arts education have a background that provides a basis in critical analysis while those with a science education should have a firm grasp of objectivity and the scientific method.  People need to learn the value of truth, seeing diverse perspectives, as well as the merits of logic and the basic fallacies.  Of course, these kinds of backgrounds aren't essential but they do provide a good leg up.
 
-<p>Critical thinking skills can be discussed without getting into religion.  While there are some who are willing to debate and/or listen to arguments and prescriptions for skepticism, most theists avoid such challenges.  I know several who despised the likes of Dawkins and Harris and would immediately tune out of anything they had to say.  Over time, you can eventually lure them back into the debate but it takes some philosophical building blocks and subtle chipping away at the defenses to do so.  </p>
+Critical thinking skills can be discussed without getting into religion.  While there are some who are willing to debate and/or listen to arguments and prescriptions for skepticism, most theists avoid such challenges.  I know several who despised the likes of Dawkins and Harris and would immediately tune out of anything they had to say.  Over time, you can eventually lure them back into the debate but it takes some philosophical building blocks and subtle chipping away at the defenses to do so.  
 
-<p>It's uncomfortable for someone to hear ideological advice from a peer. Fortunately, there is plenty of media that can challenge a believer's defenses without ruining a relationship.  The media spectrum ranges from gentle messages to in-your-face confrontation.  Movies, books, television, blogs and music can illustrate the diversity of ideology, sympathy for different viewpoints, as well as the immorality of dogma and prejudice.  For those who have a sense of humour, one of the best chisels is comedy.  Atheist comedians, such as George Carlin, Ricky Gervais and Bill Maher, may be blunt but the hilarity of absurdity is hard for even strong theists to resist.  Exposure to the right types of media can plant seeds of doubt in the minds of believers and shape tolerance for different ideas.</p>
+It's uncomfortable for someone to hear ideological advice from a peer. Fortunately, there is plenty of media that can challenge a believer's defenses without ruining a relationship.  The media spectrum ranges from gentle messages to in-your-face confrontation.  Movies, books, television, blogs and music can illustrate the diversity of ideology, sympathy for different viewpoints, as well as the immorality of dogma and prejudice.  For those who have a sense of humour, one of the best chisels is comedy.  Atheist comedians, such as George Carlin, Ricky Gervais and Bill Maher, may be blunt but the hilarity of absurdity is hard for even strong theists to resist.  Exposure to the right types of media can plant seeds of doubt in the minds of believers and shape tolerance for different ideas.
 
-<p>I expect that a typical theist won't lose his/her religion on account of such media but he/she will likely face cognitive dissonance on some level.  That is key to bringing the theist into a reality where he/she is able to question beliefs.  Once a believer is willing to accept internal challenges, doors are open for conversation or even argumentation that can alter his/her preconceptions.</p>
-
+I expect that a typical theist won't lose his/her religion on account of such media but he/she will likely face cognitive dissonance on some level.  That is key to bringing the theist into a reality where he/she is able to question beliefs.  Once a believer is willing to accept internal challenges, doors are open for conversation or even argumentation that can alter his/her preconceptions.
+  
 
 
 ## Answer 1269
@@ -110,8 +107,7 @@ What If I am the only person in my life capable of discerning "God's Will" for m
 - posted by: [Seth](https://stackexchange.com/users/-1/303-seth) on 2010-12-23
 - score: 0
 
-<p>I wouldn't try to 'convert' anyone at all.  At most I would enjoy finding another person who isn't shocked by my own lack of neurotic absorption in metaphysical theology and can converse without habitual recourse to verbal tics like 'God told me to do such and such'.  My pleasure in such conversation isn't conditional on someone else's abstract commitment to positive assertions to the effect that "there is no God".  Atheism has no creed, hence no need to convert anyone.  It's just an indifference to spurious magical doctrines.  Talking frankly about this indifference expands others' freedom to distance themselves (even temporarily) from god-talk if they are becoming uncomfortable with it.  That's as much 'conversion' as I find meaningful.   </p>
-
+I wouldn't try to 'convert' anyone at all.  At most I would enjoy finding another person who isn't shocked by my own lack of neurotic absorption in metaphysical theology and can converse without habitual recourse to verbal tics like 'God told me to do such and such'.  My pleasure in such conversation isn't conditional on someone else's abstract commitment to positive assertions to the effect that "there is no God".  Atheism has no creed, hence no need to convert anyone.  It's just an indifference to spurious magical doctrines.  Talking frankly about this indifference expands others' freedom to distance themselves (even temporarily) from god-talk if they are becoming uncomfortable with it.  That's as much 'conversion' as I find meaningful.   
 
 
 ## Answer 1289
@@ -119,12 +115,11 @@ What If I am the only person in my life capable of discerning "God's Will" for m
 - posted by: [Colin Mackay](https://stackexchange.com/users/-1/30-colin-mackay) on 2010-12-23
 - score: 0
 
-<p>Influence, coercion, goals. Sounds like authoritarian personalities trying to convert the people. As an atheist, I wouldn't try to convert anyone. The knowledge is there and freely available to anyone if they wish to learn. The path to atheism is critical thinking.</p>
+Influence, coercion, goals. Sounds like authoritarian personalities trying to convert the people. As an atheist, I wouldn't try to convert anyone. The knowledge is there and freely available to anyone if they wish to learn. The path to atheism is critical thinking.
 
-<p>De-conversion is, I imagine a very traumatic time for anyone. Having an untrained authoritarian messing with your psyche at any time could never be considered as helpful, little own ethical proposition. However, by presenting the freethought community as an open and accepting one, where your friend's questions may be answered in a contextually sensitive way, is not a bad idea. There are many xxians in the community who, I am sure, are willing to share their thoughts and feelings on these matters.</p>
+De-conversion is, I imagine a very traumatic time for anyone. Having an untrained authoritarian messing with your psyche at any time could never be considered as helpful, little own ethical proposition. However, by presenting the freethought community as an open and accepting one, where your friend's questions may be answered in a contextually sensitive way, is not a bad idea. There are many xxians in the community who, I am sure, are willing to share their thoughts and feelings on these matters.
 
-<p>It is unfortunate that some seem predisposed, with equal fervour to the local priest, to take on the role of authoritarian leader at such vulnerable times.</p>
-
+It is unfortunate that some seem predisposed, with equal fervour to the local priest, to take on the role of authoritarian leader at such vulnerable times.
 
 
 ## Answer 1659
@@ -132,17 +127,16 @@ What If I am the only person in my life capable of discerning "God's Will" for m
 - posted by: [Mudak](https://stackexchange.com/users/-1/205-mudak) on 2010-12-29
 - score: 0
 
-<p>I'd like to chime in and agree with others that coercion isn't the way to go.  But it is important to understand why they are going through the crisis of their faith.  Something bad happening to them, or a close friend or family member, for example, isn't the same as being upset or turned off by the injustice committed by a particular faith's doctrines.  I'm sure there's no shortage of Christian denominations waiting for the catholic who doesn't like his church's handling of the pedophilia scandal. </p>
+I'd like to chime in and agree with others that coercion isn't the way to go.  But it is important to understand why they are going through the crisis of their faith.  Something bad happening to them, or a close friend or family member, for example, isn't the same as being upset or turned off by the injustice committed by a particular faith's doctrines.  I'm sure there's no shortage of Christian denominations waiting for the catholic who doesn't like his church's handling of the pedophilia scandal. 
 
-<p>So once you know why they're questioning it in the first place, you can get a better sense of where to go, conversationally. And it is important to listen.  Your friend will appreciate it, too. </p>
+So once you know why they're questioning it in the first place, you can get a better sense of where to go, conversationally. And it is important to listen.  Your friend will appreciate it, too. 
 
-<p>There's an interesting website out there, the Iron Chariots Wiki.<br>
-<a href="http://wiki.ironchariots.org/index.php" rel="nofollow">http://wiki.ironchariots.org/index.php</a></p>
+There's an interesting website out there, the Iron Chariots Wiki.  
+http://wiki.ironchariots.org/index.php
 
-<p>Unlike RationalWiki, which can get snarky, Iron Chariots is a good one for laying out common arguments both for and against the existence of god, with common sense responses to those arguments.  It's one of the more fascinating websites out there on the overall topics of apologetics and will definitely help anyone gain a more balanced approach to theistic and nontheistic dialogue. </p>
+Unlike RationalWiki, which can get snarky, Iron Chariots is a good one for laying out common arguments both for and against the existence of god, with common sense responses to those arguments.  It's one of the more fascinating websites out there on the overall topics of apologetics and will definitely help anyone gain a more balanced approach to theistic and nontheistic dialogue. 
 
-<p>If you don't "get" the reason why it's called Iron Chariots in the first place, it's because in Judges 1:19 god couldn't repel Judah's enemies because their chariots were made of iron.  </p>
-
+If you don't "get" the reason why it's called Iron Chariots in the first place, it's because in Judges 1:19 god couldn't repel Judah's enemies because their chariots were made of iron.  
 
 
 

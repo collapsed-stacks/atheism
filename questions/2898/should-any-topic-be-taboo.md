@@ -37,10 +37,9 @@ Please note that I do not intend to make this a discussion about the points just
 - posted by: [Omega Centauri](https://stackexchange.com/users/-1/432-omega-centauri) on 2011-02-25
 - score: 0
 
-<p>I suspect Taboos like this change with the times. Knocking someone for their religion is semi-taboo in the US today. Proposing any sort of non-cultural cause for gender differences in professional outcomes is almost taboo in present day academia, i.e. it can be career damaging or career ending. And as you mentioned race.</p>
+  I suspect Taboos like this change with the times. Knocking someone for their religion is semi-taboo in the US today. Proposing any sort of non-cultural cause for gender differences in professional outcomes is almost taboo in present day academia, i.e. it can be career damaging or career ending. And as you mentioned race.
 
-<p>I think this is related to recent cultural struggles, that are either incomplete , ongoing or very recent, and that have created extreme sensitivities among some parts of the population [psycholigcal scarring even] (but only subpopulations we have some sympathy for count). A hundred years ago, interracial marraige could have been classified as taboo (heck I remember growing during the 60's civil rights era, and the notion was massivley shocking! [And this was the liberal pro rights northeast]), but now is taken for granted. Pedophilia was taken for granted during Roman times, but is absolutely taboo today.</p>
-
+  I think this is related to recent cultural struggles, that are either incomplete , ongoing or very recent, and that have created extreme sensitivities among some parts of the population [psycholigcal scarring even] (but only subpopulations we have some sympathy for count). A hundred years ago, interracial marraige could have been classified as taboo (heck I remember growing during the 60's civil rights era, and the notion was massivley shocking! [And this was the liberal pro rights northeast]), but now is taken for granted. Pedophilia was taken for granted during Roman times, but is absolutely taboo today.
 
 
 ## Answer 2904
@@ -48,23 +47,22 @@ Please note that I do not intend to make this a discussion about the points just
 - posted by: [kzen](https://stackexchange.com/users/-1/808-kzen) on 2011-02-25
 - score: 0
 
-<p>I am a big track and field fan and I cannot remember when was the last time I've seen an athlete who was not black in the finals of the olympic games, world championship or major meetings 100m dash race. Over the last 20 years I watched at least 50 of these finals and the finalists were almost exclusively black. 
-Using inductive reasoning I conclude that when it comes to running speed, black athletes are superior to athletes of other races.</p>
+I am a big track and field fan and I cannot remember when was the last time I've seen an athlete who was not black in the finals of the olympic games, world championship or major meetings 100m dash race. Over the last 20 years I watched at least 50 of these finals and the finalists were almost exclusively black. 
+Using inductive reasoning I conclude that when it comes to running speed, black athletes are superior to athletes of other races.
 
-<p>Further more, when I look at other professional sports like NBA and NFL where pure athleticism is of high importance I also notice that black athletes heavily dominate these sports and conclude that black athletes are just physically superior to athletes of other races even though I do realize that this is not a scientific study but a simple observation.</p>
+Further more, when I look at other professional sports like NBA and NFL where pure athleticism is of high importance I also notice that black athletes heavily dominate these sports and conclude that black athletes are just physically superior to athletes of other races even though I do realize that this is not a scientific study but a simple observation.
 
-<p>Does this simple observation make me racist? Does it make me scum?</p>
+Does this simple observation make me racist? Does it make me scum?
 
-<p>I don't think so, and I don't think that any topic should be off the table or a taboo.</p>
+I don't think so, and I don't think that any topic should be off the table or a taboo.
 
-<p>If I was stranded in a fire, unable to move, and a fire fighter had to come and rescue me I would certainly hope that this fire fighter would be able to lift 220 pounds and there are very few elite female athletes in the world who could accomplish this while most male fire fighters who spend time in the gym would not have a problem with this weight. Therefore I would hope that the fire fighter coming to my rescue would be a male fire fighter.</p>
+If I was stranded in a fire, unable to move, and a fire fighter had to come and rescue me I would certainly hope that this fire fighter would be able to lift 220 pounds and there are very few elite female athletes in the world who could accomplish this while most male fire fighters who spend time in the gym would not have a problem with this weight. Therefore I would hope that the fire fighter coming to my rescue would be a male fire fighter.
 
-<p>Does this make me sexist?</p>
+Does this make me sexist?
 
-<p>I don't think so as it is quite obviouse to any observer that is not extremely politically correct that on the average a male human being is physically stronger than a female human being. Does this mean that men are superiror to women? Absolutely, when it comes to strength there is no doubt in my mind that men are superior to women. Obviously, there are other human qualities where woman would be superior to men and there is nothing wrong with that, men and women are just different no matter how much our politically correct society tries to convince us the opposite.</p>
+I don't think so as it is quite obviouse to any observer that is not extremely politically correct that on the average a male human being is physically stronger than a female human being. Does this mean that men are superiror to women? Absolutely, when it comes to strength there is no doubt in my mind that men are superior to women. Obviously, there are other human qualities where woman would be superior to men and there is nothing wrong with that, men and women are just different no matter how much our politically correct society tries to convince us the opposite.
 
-<p>When it comes to intelligence however, it is not possible to rely on simple observations and a series of very serious scientific studies would be required to establish if there is any varicance of average IQ by race. I see no reason such studies should not be conducted, and I'm pretty sure that even if any variance was established it would not be significant enough to label any race as less intelligent but to oppose any such a study or studies or label it as racist is just plain stupid. There should be no taboo areas for scientific research as long as it is ethical and causes no physicall or psychological damage.</p>
-
+When it comes to intelligence however, it is not possible to rely on simple observations and a series of very serious scientific studies would be required to establish if there is any varicance of average IQ by race. I see no reason such studies should not be conducted, and I'm pretty sure that even if any variance was established it would not be significant enough to label any race as less intelligent but to oppose any such a study or studies or label it as racist is just plain stupid. There should be no taboo areas for scientific research as long as it is ethical and causes no physicall or psychological damage.
 
 
 

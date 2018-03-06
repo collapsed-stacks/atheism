@@ -15,12 +15,11 @@ I just asked [a question][1] about english language and I used God in my example
 - posted by: [Peter](https://stackexchange.com/users/-1/168-peter) on 2011-01-31
 - score: 2
 
-<p>Christians might make the excuse that anything their god does it automatically good. The bible says otherwise where god claims to have created evil.</p>
+Christians might make the excuse that anything their god does it automatically good. The bible says otherwise where god claims to have created evil.
 
-<p>Isaiah 45:7</p>
+Isaiah 45:7
 
-<p>I form the light, and create darkness: I make peace, and create evil: I the LORD do all these things.</p>
-
+I form the light, and create darkness: I make peace, and create evil: I the LORD do all these things.
 
 
 

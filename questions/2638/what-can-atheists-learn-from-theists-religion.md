@@ -24,41 +24,42 @@ As background and food for thought, this question arose in response to a few pos
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2011-02-05
 - score: 6
 
-<p>Your question presumes atheists can learn something from theists <i>which we can't learn from atheists</i>.</p>
+Your question presumes atheists can learn something from theists <i>which we can't learn from atheists</i>.
 
-<p>With that in mind, I suggest we might learn:</p>
+With that in mind, I suggest we might learn:
 
-<ul>
-<li><p>What drives people to "holy war"
-&mdash; that is, the justification behind
-wanting to attack, destroy, and/or
-kill some other group of people just
-because they have a different
-invisible friend, or a different set
-of rules which they think their invisible friend
-handed down</p></li>
-<li><p>What drives people to religiously-motivated suicide
-bombings and the like</p></li>
-<li><p>How people feel justified in
-discriminating against someone else's
-gender, race, or sexual orientation,
-because they think their
-invisible friend wants it that way</p></li>
-<li><p>How people feel justified in
-controlling or trying to control
-other people not of their family, or
-even their country, because they
-think their invisible friend wants it
-that way</p></li>
-<li><p>How people can feel obliged to alter
-their diets, dress, speech, and/or
-behavior on a certain day of the
-week, because they    think their
-invisible friend wants it    that way</p></li>
-</ul>
+ - What drives people to "holy war"
+   &mdash; that is, the justification behind
+   wanting to attack, destroy, and/or
+   kill some other group of people just
+   because they have a different
+   invisible friend, or a different set
+   of rules which they think their invisible friend
+   handed down
 
-<p>That's all I can think of at the moment. These are all issues with have to do with a religious mindset, which atheists don't hold. The positive things which theists do don't originate in theism and are also practiced by atheists, and there are plenty of nasty behaviors which both theists and atheists wallow in.</p>
+ - What drives people to religiously-motivated suicide
+   bombings and the like
 
+ - How people feel justified in
+   discriminating against someone else's
+   gender, race, or sexual orientation,
+   because they think their
+   invisible friend wants it that way
+
+ - How people feel justified in
+   controlling or trying to control
+   other people not of their family, or
+   even their country, because they
+   think their invisible friend wants it
+   that way
+
+ - How people can feel obliged to alter
+   their diets, dress, speech, and/or
+   behavior on a certain day of the
+   week, because they    think their
+   invisible friend wants it    that way
+
+That's all I can think of at the moment. These are all issues with have to do with a religious mindset, which atheists don't hold. The positive things which theists do don't originate in theism and are also practiced by atheists, and there are plenty of nasty behaviors which both theists and atheists wallow in.
 
 
 ## Answer 2640
@@ -66,11 +67,12 @@ invisible friend wants it    that way</p></li>
 - posted by: [user unknown](https://stackexchange.com/users/-1/992-user-unknown) on 2011-02-05
 - score: 3
 
-<p>What curious question is that? Of course you can learn nearly anything from religious people, except how to be an atheist, like how to cook, how to drive, mathematics, languages and so on, but all that is of course not significant for religious people - you can lern that as well from unreligious people.</p>
+What curious question is that? Of course you can learn nearly anything from religious people, except how to be an atheist, like how to cook, how to drive, mathematics, languages and so on, but all that is of course not significant for religious people - you can lern that as well from unreligious people.
 
-<p>You could learn how to believe in gods and how to do prayers and such religious stuff, which, of course as an atheist, you aren't interested in. </p>
+You could learn how to believe in gods and how to do prayers and such religious stuff, which, of course as an atheist, you aren't interested in. 
 
-<p>I don't see the point of the question. </p>
+I don't see the point of the question. 
+
 
 
 
@@ -79,10 +81,9 @@ invisible friend wants it    that way</p></li>
 - posted by: [Omega Centauri](https://stackexchange.com/users/-1/432-omega-centauri) on 2011-02-06
 - score: 3
 
-<p>To go beyond philip guy: how to form and support a community. How to motivate diverse people towards the completion of some common goal. Often, having compassion for how a certain indivdual is relting to the world. These are usually, but not always positive things. And of course there is the "how does the current" human society I'm embedded in function? What should I do (or avoid doing) to avoid causing unintended offense?</p>
+  To go beyond philip guy: how to form and support a community. How to motivate diverse people towards the completion of some common goal. Often, having compassion for how a certain indivdual is relting to the world. These are usually, but not always positive things. And of course there is the "how does the current" human society I'm embedded in function? What should I do (or avoid doing) to avoid causing unintended offense?
 
-<p>Also for any religion/community that has been around for a while. We know, by reason of its historic survival, that the whole cultural package is stable, i.e. the trajectory of society X isn't likely to go flying off some tangent. The inverse, applies to use, like it or not: Whereas, any brand new religion, including not having one, has been relatively untested by history. We can't know with any precision, how the social norms of such a group will evolve over time or under stress. Without individuals worrying about some big bad skydaddy who likes to punish misdeeds, can a significant enough proportion (probably 99plus %) of the population be sufficiently motivated to follow whatever moral codes are needed to keep the system functioning?</p>
-
+   Also for any religion/community that has been around for a while. We know, by reason of its historic survival, that the whole cultural package is stable, i.e. the trajectory of society X isn't likely to go flying off some tangent. The inverse, applies to use, like it or not: Whereas, any brand new religion, including not having one, has been relatively untested by history. We can't know with any precision, how the social norms of such a group will evolve over time or under stress. Without individuals worrying about some big bad skydaddy who likes to punish misdeeds, can a significant enough proportion (probably 99plus %) of the population be sufficiently motivated to follow whatever moral codes are needed to keep the system functioning?
 
 
 ## Answer 2639
@@ -90,11 +91,10 @@ invisible friend wants it    that way</p></li>
 - posted by: [philip guy muir](https://stackexchange.com/users/-1/182-philip-guy-muir) on 2011-02-05
 - score: 1
 
-<p>Me, Ive learned how to become part of a community. It is such an important aspect of human life. 
-I have learned to care about what I think of the world and how important that is to me.</p>
+Me, Ive learned how to become part of a community. It is such an important aspect of human life. 
+I have learned to care about what I think of the world and how important that is to me.
 
-<p>Not a world shaking answer but thats if for now, I will think on it tonight.</p>
-
+Not a world shaking answer but thats if for now, I will think on it tonight.
 
 
 ## Answer 2656
@@ -102,12 +102,11 @@ I have learned to care about what I think of the world and how important that is
 - posted by: [Lachlan](https://stackexchange.com/users/-1/1024-lachlan) on 2011-02-07
 - score: 1
 
-<p>Regarding what we can learn from theists, we can gain understanding of how the majority of humanity thinks. The difference between a scientific, materialist atheists and theists is not that we think different things are true, but that we think differently, period. Not completely differently, of course, but enough to make understanding the other point of view something most people need to work at (I know I do).</p>
+Regarding what we can learn from theists, we can gain understanding of how the majority of humanity thinks. The difference between a scientific, materialist atheists and theists is not that we think different things are true, but that we think differently, period. Not completely differently, of course, but enough to make understanding the other point of view something most people need to work at (I know I do).
 
-<p>By studying religions, we can learn a great deal about history, culture and language. I suppose you could learn some basic philosophy and ethics from religious traditions, but there are much better sources.</p>
+By studying religions, we can learn a great deal about history, culture and language. I suppose you could learn some basic philosophy and ethics from religious traditions, but there are much better sources.
 
-<p>However, as all religions are man-made, they are all in a sense "content-free". If all of today's religions had died early and been replaced by different religions, then the knowlege available to us would be not be changed. There is no secret knowledge hiding in scripture.</p>
-
+However, as all religions are man-made, they are all in a sense "content-free". If all of today's religions had died early and been replaced by different religions, then the knowlege available to us would be not be changed. There is no secret knowledge hiding in scripture.
 
 
 ## Answer 2660
@@ -115,10 +114,9 @@ I have learned to care about what I think of the world and how important that is
 - posted by: [JYelton](https://stackexchange.com/users/-1/585-jyelton) on 2011-02-07
 - score: 1
 
-<p>In history, we look at our predecessors and examine their beliefs, culture, and society. With "20/20 hindsight," as they say, we can see how said predecessors succeeded and failed. We can see the role that religion played in the Roman Empire, in Egyptian Civilization, and in more recent times.</p>
+In history, we look at our predecessors and examine their beliefs, culture, and society. With "20/20 hindsight," as they say, we can see how said predecessors succeeded and failed. We can see the role that religion played in the Roman Empire, in Egyptian Civilization, and in more recent times.
 
-<p>We stand to learn from theists and religion how our civilization is doing. Like it or not, theists are a majority and they are largely responsible for where things end up. If we study theism/religion we may find there is much in common with historical civilizations, and that may foreshadow prosperous times to come... or doom.</p>
-
+We stand to learn from theists and religion how our civilization is doing. Like it or not, theists are a majority and they are largely responsible for where things end up. If we study theism/religion we may find there is much in common with historical civilizations, and that may foreshadow prosperous times to come... or doom.
 
 
 ## Answer 2662
@@ -126,18 +124,17 @@ I have learned to care about what I think of the world and how important that is
 - posted by: [Lausten](https://stackexchange.com/users/-1/584-lausten) on 2011-02-07
 - score: 1
 
-<p>This may just be a comment on Omega Centauri's (which I upvoted), but the comment section is too limited. </p>
+This may just be a comment on Omega Centauri's (which I upvoted), but the comment section is too limited. 
 
-<p>Religion has traditionally taken the role of answering questions without having all the facts. This was more useful when we didn't know why it rained too much or too little, and helped keep society together, for example planting and harvesting on a schedule. Unfortunately, when facts are discovered, religion has a lot of trouble with them, it either doesn't incorporate them, or it actively fights them. With so many new facts that have come to light in the last few centuries, the community binding role of religion seems pretty useless. And maybe it is, different question.</p>
+Religion has traditionally taken the role of answering questions without having all the facts. This was more useful when we didn't know why it rained too much or too little, and helped keep society together, for example planting and harvesting on a schedule. Unfortunately, when facts are discovered, religion has a lot of trouble with them, it either doesn't incorporate them, or it actively fights them. With so many new facts that have come to light in the last few centuries, the community binding role of religion seems pretty useless. And maybe it is, different question.
 
-<p>I would like to see more engagement in the question that Neitzsche asked after he said, "God is dead". Basically he asked, "now what do we do?" "How do we decide proper behavior?" If I saw scientific methods being applied to capitalism, psychology and the reforming of criminals, I wouldn't be worrying about it. But I see just as much zealotry and justification based on personal feelings in these areas as I do with religion. </p>
+I would like to see more engagement in the question that Neitzsche asked after he said, "God is dead". Basically he asked, "now what do we do?" "How do we decide proper behavior?" If I saw scientific methods being applied to capitalism, psychology and the reforming of criminals, I wouldn't be worrying about it. But I see just as much zealotry and justification based on personal feelings in these areas as I do with religion. 
 
-<p>I think we can learn from some of the ways that religions have developed to deal with questions that we know do not have all the data we should have, to really decide. There are many problems we face today that can't wait to be scientifically proven one way or another before we take action. Global warming, the end of oil, water resources, population, to name a few. </p>
+I think we can learn from some of the ways that religions have developed to deal with questions that we know do not have all the data we should have, to really decide. There are many problems we face today that can't wait to be scientifically proven one way or another before we take action. Global warming, the end of oil, water resources, population, to name a few. 
 
-<p>It should go without saying that praying to Jesus is not one of the ways I am suggesting. Also, I have tried working with their power structure to apply these ideas, and I don't recommend it, I am suggesting more of an "observe and take away" strategy. </p>
+It should go without saying that praying to Jesus is not one of the ways I am suggesting. Also, I have tried working with their power structure to apply these ideas, and I don't recommend it, I am suggesting more of an "observe and take away" strategy. 
 
-<p>Some examples: a discussion about what an ancestor might have done is viable as a way to get us thinking. Meditation has some scientific data showing its value. The rich listening to the poor, and the disposessed listening to the tax collectors is also a good idea (I realize an atheist could have thought of that, but do they generally?)</p>
-
+Some examples: a discussion about what an ancestor might have done is viable as a way to get us thinking. Meditation has some scientific data showing its value. The rich listening to the poor, and the disposessed listening to the tax collectors is also a good idea (I realize an atheist could have thought of that, but do they generally?)
 
 
 ## Answer 2670
@@ -145,9 +142,9 @@ I have learned to care about what I think of the world and how important that is
 - posted by: [Rob Schneider](https://stackexchange.com/users/-1/149-rob-schneider) on 2011-02-07
 - score: 1
 
-<p>One of the most powerful things we could learn from religion/theists is how to develop a sort of "mental martial arts" that deflects opposition, limits apostasy and ensures loyalty.  Another analogy, we might learn how to develop an immune system for atheism, much as the indoctrinations of successful faiths serve (for the most part) as immune systems against reason.  </p>
+One of the most powerful things we could learn from religion/theists is how to develop a sort of "mental martial arts" that deflects opposition, limits apostasy and ensures loyalty.  Another analogy, we might learn how to develop an immune system for atheism, much as the indoctrinations of successful faiths serve (for the most part) as immune systems against reason.  
 
-<p>Religions that have survived and grown are evolutionarily sound meme structures.  Imagine the thousands of faiths that have died because they suggested stuff like, "Stay celibate." or "Kill yourself to board the mothership behind the comet."  The ones that remain are here because they have become effective parasites on the mental structures of the human mind.  Learning how to either mimic that for atheism OR to find an "inoculation" meme by analyzing the pathogen, would be a valuable thing atheists could learn from religion.</p>
+Religions that have survived and grown are evolutionarily sound meme structures.  Imagine the thousands of faiths that have died because they suggested stuff like, "Stay celibate." or "Kill yourself to board the mothership behind the comet."  The ones that remain are here because they have become effective parasites on the mental structures of the human mind.  Learning how to either mimic that for atheism OR to find an "inoculation" meme by analyzing the pathogen, would be a valuable thing atheists could learn from religion.
 
 
 

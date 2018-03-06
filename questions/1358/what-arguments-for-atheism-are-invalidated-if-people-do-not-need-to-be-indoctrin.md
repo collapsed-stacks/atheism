@@ -47,10 +47,9 @@ I don't like arguments from "naturalness" and I even more dislike arguments that
 - posted by: [Nomæd](https://stackexchange.com/users/-1/27-nom-d) on 2010-12-29
 - score: 0
 
-<p>The origin of religion is a very interesting subject, and it is an evolutionary by-product (see <a href="http://atheism.stackexchange.com/questions/1358/what-arguments-for-atheism-are-invalidated-if-people-do-not-need-to-be-indoctrina/1363#1363">King Isaac's answer</a> 1st paragraph). So there is a "good" reason for religion to arise, but nevertheless, it is completely irrelevant for atheistic claims against it.</p>
+The origin of religion is a very interesting subject, and it is an evolutionary by-product (see [King Isaac's answer](http://atheism.stackexchange.com/questions/1358/what-arguments-for-atheism-are-invalidated-if-people-do-not-need-to-be-indoctrina/1363#1363) 1st paragraph). So there is a "good" reason for religion to arise, but nevertheless, it is completely irrelevant for atheistic claims against it.
 
-<p>The fact that religion is "natural" in humans, does not make it true in the claims it makes. Religion is the earliest attempt of humans to explain the world, without having much scientific knowledge or methodology.</p>
-
+The fact that religion is "natural" in humans, does not make it true in the claims it makes. Religion is the earliest attempt of humans to explain the world, without having much scientific knowledge or methodology.
 
 
 

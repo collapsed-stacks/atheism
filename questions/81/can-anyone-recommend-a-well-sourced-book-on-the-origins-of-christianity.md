@@ -14,8 +14,7 @@ I am interested in books addressing the issue from an atheistic/scientific/histo
 - posted by: [King Isaac](https://stackexchange.com/users/-1/31-king-isaac) on 2010-12-14
 - score: 6
 
-<p>I would recommend anything by Bart Ehrman. Start with <em>Misquoting Jesus</em>. </p>
-
+I would recommend anything by Bart Ehrman. Start with *Misquoting Jesus*. 
 
 
 ## Answer 118
@@ -23,9 +22,8 @@ I am interested in books addressing the issue from an atheistic/scientific/histo
 - posted by: [Rich Wilson](https://stackexchange.com/users/-1/123-rich-wilson) on 2010-12-14
 - score: 3
 
-<p>Not a book, but there is a great lecture series from Stanford called "Historical Jesus"
-available for free on iTunes <a href="http://itunes.apple.com/us/itunes-u/historical-jesus/id384233911" rel="nofollow">http://itunes.apple.com/us/itunes-u/historical-jesus/id384233911</a></p>
-
+Not a book, but there is a great lecture series from Stanford called "Historical Jesus"
+available for free on iTunes http://itunes.apple.com/us/itunes-u/historical-jesus/id384233911
 
 
 ## Answer 217
@@ -33,10 +31,9 @@ available for free on iTunes <a href="http://itunes.apple.com/us/itunes-u/histor
 - posted by: [Aksunai](https://stackexchange.com/users/-1/165-aksunai) on 2010-12-14
 - score: 2
 
-<p>Karen Armstrong's <em>A History of God</em> is a great resource for the origins of Christianity, as well as Judaism and Islam, the three Abrahamic religions.  It is a fascinating read.</p>
+Karen Armstrong's *A History of God* is a great resource for the origins of Christianity, as well as Judaism and Islam, the three Abrahamic religions.  It is a fascinating read.
 
-<p><a href="http://rads.stackoverflow.com/amzn/click/0345384563" rel="nofollow">http://www.amazon.com/History-God-000-Year-Judaism-Christianity/dp/0345384563/ref=sr_1_1?ie=UTF8&amp;qid=1292365691&amp;sr=8-1</a></p>
-
+http://www.amazon.com/History-God-000-Year-Judaism-Christianity/dp/0345384563/ref=sr_1_1?ie=UTF8&qid=1292365691&sr=8-1
 
 
 ## Answer 902
@@ -57,11 +54,12 @@ available for free on iTunes <a href="http://itunes.apple.com/us/itunes-u/histor
 - posted by: [philip guy muir](https://stackexchange.com/users/-1/182-philip-guy-muir) on 2010-12-17
 - score: 1
 
-<p>I really enjoyed this book.
-Jesus: The Cold Case by Bryan Bruce - ISBN: 9781869791971</p>
+I really enjoyed this book.
+Jesus: The Cold Case by Bryan Bruce - ISBN: 9781869791971
 
-<p>Anyone else read this and what did you think?</p>
-
+Anyone else read this and what did you think?
+ 
+ 
 
 
 ## Answer 906
@@ -69,10 +67,9 @@ Jesus: The Cold Case by Bryan Bruce - ISBN: 9781869791971</p>
 - posted by: [Colin Mackay](https://stackexchange.com/users/-1/30-colin-mackay) on 2010-12-17
 - score: 0
 
-<p>Not a book, but five minutes of your time to give religion context:</p>
+Not a book, but five minutes of your time to give religion context:
 
-<p><a href="http://www.youtube.com/watch?v=N0Ii_D3uDDY" rel="nofollow">http://www.youtube.com/watch?v=N0Ii_D3uDDY</a></p>
-
+http://www.youtube.com/watch?v=N0Ii_D3uDDY
 
 
 ## Answer 1287
@@ -80,12 +77,11 @@ Jesus: The Cold Case by Bryan Bruce - ISBN: 9781869791971</p>
 - posted by: [Michael](https://stackexchange.com/users/-1/377-michael) on 2010-12-23
 - score: 0
 
-<p>The Origins of Christianity by Archibald Robertson is available online here:</p>
+The Origins of Christianity by Archibald Robertson is available online here:
 
-<p><a href="http://www.ditext.com/robertson/christianity.html" rel="nofollow">http://www.ditext.com/robertson/christianity.html</a></p>
+http://www.ditext.com/robertson/christianity.html
 
-<p>[I haven't got around to reading it yet - but it might be worth checking out]</p>
-
+[I haven't got around to reading it yet - but it might be worth checking out]
 
 
 

@@ -30,14 +30,13 @@ There is variation in all populations. There may also be variation between popul
 - posted by: [Satanicpuppy](https://stackexchange.com/users/-1/169-satanicpuppy) on 2010-12-29
 - score: 4
 
-<p>My evidence is all anecdotal. I've never seen a specific study on it, and I'm not sure how one would ever happen, given the respective biases of science and religion.</p>
+My evidence is all anecdotal. I've never seen a specific study on it, and I'm not sure how one would ever happen, given the respective biases of science and religion.
 
-<p>Depends on the Church. Many churches require a certain amount of education to be a priest, and so the person you're dealing with will be informed and reasonably secure in his beliefs. He'll have had to debate them, and listen to other sides, etc, etc. Some of the best discussions of atheism I've had, I've had with priests. They understand the arguments, and tend not to be emotionally vested in the answer. It's academic to (some of) them, so they can discuss it rationally.</p>
+Depends on the Church. Many churches require a certain amount of education to be a priest, and so the person you're dealing with will be informed and reasonably secure in his beliefs. He'll have had to debate them, and listen to other sides, etc, etc. Some of the best discussions of atheism I've had, I've had with priests. They understand the arguments, and tend not to be emotionally vested in the answer. It's academic to (some of) them, so they can discuss it rationally.
 
-<p>On the other hand, you get crazy redneck southern baptist street preachers who don't know nuthin but the good book! And they're batshit crazy, and you won't get anything rational out of them. Often though, they're completely uneducated. Baptists roll that way. </p>
+On the other hand, you get crazy redneck southern baptist street preachers who don't know nuthin but the good book! And they're batshit crazy, and you won't get anything rational out of them. Often though, they're completely uneducated. Baptists roll that way. 
 
-<p>So sure, I'd say it relates to education. Catholics are very conservative, and yet, as far a science goes, very liberal. It's because catholic priests have very high education requirements: they have the respect for knowledge that a lot of education instills.</p>
-
+So sure, I'd say it relates to education. Catholics are very conservative, and yet, as far a science goes, very liberal. It's because catholic priests have very high education requirements: they have the respect for knowledge that a lot of education instills.
 
 
 ## Answer 1677
@@ -45,11 +44,11 @@ There is variation in all populations. There may also be variation between popul
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2010-12-29
 - score: 1
 
-<p>Too broad of a question. Different denominations have differing degrees of orthodoxy, fundamentalism, or fanaticism. </p>
+Too broad of a question. Different denominations have differing degrees of orthodoxy, fundamentalism, or fanaticism. 
 
-<p>In the U.S. alone, you might find a perfectly reasonable Lutheran parishoner in Pennsylvania, and a completely fanatic Baptist preacher in Georgia. Or an open-minded Unitarian reverend in Massachusetts and a fire-and-brimstone churchgoer in Texas. </p>
+In the U.S. alone, you might find a perfectly reasonable Lutheran parishoner in Pennsylvania, and a completely fanatic Baptist preacher in Georgia. Or an open-minded Unitarian reverend in Massachusetts and a fire-and-brimstone churchgoer in Texas. 
 
-<p>I don't even think you can link academic degrees to reasonableness, because it's not all that hard to get a "divinity degree" which is the equivalent of a professional echo chamber for theist teachings. </p>
+I don't even think you can link academic degrees to reasonableness, because it's not all that hard to get a "divinity degree" which is the equivalent of a professional echo chamber for theist teachings. 
 
 
 
@@ -58,8 +57,7 @@ There is variation in all populations. There may also be variation between popul
 - posted by: [Leif Andersen](https://stackexchange.com/users/-1/495-leif-andersen) on 2010-12-29
 - score: 0
 
-<p>I don't have any actual evidence to put forth, so this is entirely anecdotal.  I would have to say no.  I have experienced both laity, and clergy who are open/closed to religious discussion.  However, this may be caused because I come from a mainly LDS/Mormon area (utah), and the clergy are picked out from the laity without any special training (at least not until they are selected, and the training mainly consists off how to operate what they've been assigned to).  Well, there are a few exceptions of clergy who have to go through training before they are selected, but this is rare.</p>
-
+I don't have any actual evidence to put forth, so this is entirely anecdotal.  I would have to say no.  I have experienced both laity, and clergy who are open/closed to religious discussion.  However, this may be caused because I come from a mainly LDS/Mormon area (utah), and the clergy are picked out from the laity without any special training (at least not until they are selected, and the training mainly consists off how to operate what they've been assigned to).  Well, there are a few exceptions of clergy who have to go through training before they are selected, but this is rare.
 
 
 ## Answer 1689
@@ -67,8 +65,7 @@ There is variation in all populations. There may also be variation between popul
 - posted by: [Roman Zenka](https://stackexchange.com/users/-1/420-roman-zenka) on 2010-12-29
 - score: 0
 
-<p>I don't know of research, but it matches my experience. The more you know (even if it pertains to religion), the more enjoyable it is for me to talk to you.</p>
-
+I don't know of research, but it matches my experience. The more you know (even if it pertains to religion), the more enjoyable it is for me to talk to you.
 
 
 

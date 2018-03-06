@@ -26,8 +26,7 @@ Alternative phrasings from Wikipedia cast it either as "Lunatic, Liar, or Lord",
 - posted by: [DampeS8N](https://stackexchange.com/users/-1/587-dampes8n) on 2010-12-30
 - score: 20
 
-<p>There is a 4th option. Jesus never existed (as such) in the first place. There is evidence for this. Such as the similarities between his story and Siddartha. And Zoroaster. And a dead-sea priest from 300 years prior.</p>
-
+There is a 4th option. Jesus never existed (as such) in the first place. There is evidence for this. Such as the similarities between his story and Siddartha. And Zoroaster. And a dead-sea priest from 300 years prior.
 
 
 ## Answer 1785
@@ -35,33 +34,30 @@ Alternative phrasings from Wikipedia cast it either as "Lunatic, Liar, or Lord",
 - posted by: [dlongley](https://stackexchange.com/users/-1/335-dlongley) on 2010-12-30
 - score: 11
 
-<p>I think it is important to point out that the trilemma is false, as others have stated here. But I would not do so by only pointing out a single example. I especially would not choose, as that example, "Jesus did not exist."</p>
+I think it is important to point out that the trilemma is false, as others have stated here. But I would not do so by only pointing out a single example. I especially would not choose, as that example, "Jesus did not exist."
 
-<p>I have found that those that are asking these sorts of questions are often looking for distractions where they can give an exposition on all of the knowledge they have acquired in the defense of their faith. The actual point of contention is secondary. Sorry for being so cynical. :)</p>
+I have found that those that are asking these sorts of questions are often looking for distractions where they can give an exposition on all of the knowledge they have acquired in the defense of their faith. The actual point of contention is secondary. Sorry for being so cynical. :)
 
-<p>They might be more than happy to go off and list the names of census takers who mentioned Jesus in their time, etc. Thus demonstrating that "obviously" Jesus existed, all the while ignoring the point: the trilemma is false. And, not to mention, that the example wasn't that some carpenter named Jesus on a census didn't exist, but that there was no deity who performed actual miracles on the streets of Israel ~2000 years ago.</p>
+They might be more than happy to go off and list the names of census takers who mentioned Jesus in their time, etc. Thus demonstrating that "obviously" Jesus existed, all the while ignoring the point: the trilemma is false. And, not to mention, that the example wasn't that some carpenter named Jesus on a census didn't exist, but that there was no deity who performed actual miracles on the streets of Israel ~2000 years ago.
 
-<p>In any event, there are many more possibilities than the false trilemma offered. Some of these have been listed by others here. I would make the point that the trilemma is too simplistic and offer other examples (plural). You might even ask them to think of their own. However, even if your point is made, I would then be prepared to have the conversation simply redirected back to the trilemma on the grounds that the other possibilities can be ignored for the basis of your current conversation. If so, I would be sure to point out that they have admitted that it isn't so easy to simply choose "Jesus is Lord" by process of elimination.</p>
+In any event, there are many more possibilities than the false trilemma offered. Some of these have been listed by others here. I would make the point that the trilemma is too simplistic and offer other examples (plural). You might even ask them to think of their own. However, even if your point is made, I would then be prepared to have the conversation simply redirected back to the trilemma on the grounds that the other possibilities can be ignored for the basis of your current conversation. If so, I would be sure to point out that they have admitted that it isn't so easy to simply choose "Jesus is Lord" by process of elimination.
 
-<p>Anyway, at the end of the day, I would prepare to end up refuting arguments like "Jesus' followers died for their beliefs, therefore, their beliefs are true" rather than that the trilemma is false. If so, and they consider it inconsequential to accept the latter point, then they have missed the entire (but false) strength of Lewis' trilemma argument. Whether you decide to try and point that out or go elsewhere is your call, but I would recommend saving your energy. In fact, you might point out that Lewis' trilemma is used as an "energy-saving tactic": I've been told "there's no reason to exhaust yourself thinking of all of the possiblities, there is only Lord, Liar, or Lunatic." Kindly pointing out some other possibilities and having them admit that they exist saves everyone the energy of exploring the rest of the fallacious argument.</p>
+Anyway, at the end of the day, I would prepare to end up refuting arguments like "Jesus' followers died for their beliefs, therefore, their beliefs are true" rather than that the trilemma is false. If so, and they consider it inconsequential to accept the latter point, then they have missed the entire (but false) strength of Lewis' trilemma argument. Whether you decide to try and point that out or go elsewhere is your call, but I would recommend saving your energy. In fact, you might point out that Lewis' trilemma is used as an "energy-saving tactic": I've been told "there's no reason to exhaust yourself thinking of all of the possiblities, there is only Lord, Liar, or Lunatic." Kindly pointing out some other possibilities and having them admit that they exist saves everyone the energy of exploring the rest of the fallacious argument.
 
-<p>Some other possibilities (some previously mentioned here by others):</p>
+Some other possibilities (some previously mentioned here by others):
 
-<ol>
-<li>Jesus was misquoted by the writers of the bible.</li>
-<li>Jesus was misunderstood by the writers of the bible.</li>
-<li>Jesus was a "guru" of sorts, he believed everything was divine in one way or another.</li>
-<li>Jesus had friend(s) who embellished his stories and passed them on.</li>
-<li>Jesus was both a liar and a lunatic.</li>
-<li>Jesus was neither a liar or a lunatic, but a good teacher, at least at the time. Unfortunately, he got a few things wrong.</li>
-<li>Jesus, the deity and miracle worker, never existed.</li>
-<li>Jesus wasn't a liar, but a showman. Some of his followers or the actual writers of the bible didn't realize that.</li>
-<li>The story of Jesus was invented or embellished to cause infighting amongst the people of Israel (and/or elsewhere).</li>
-<li>Jesus was a satirist.</li>
-</ol>
+1. Jesus was misquoted by the writers of the bible.
+2. Jesus was misunderstood by the writers of the bible.
+3. Jesus was a "guru" of sorts, he believed everything was divine in one way or another.
+4. Jesus had friend(s) who embellished his stories and passed them on.
+5. Jesus was both a liar and a lunatic.
+6. Jesus was neither a liar or a lunatic, but a good teacher, at least at the time. Unfortunately, he got a few things wrong.
+7. Jesus, the deity and miracle worker, never existed.
+8. Jesus wasn't a liar, but a showman. Some of his followers or the actual writers of the bible didn't realize that.
+9. The story of Jesus was invented or embellished to cause infighting amongst the people of Israel (and/or elsewhere).
+10. Jesus was a satirist.
 
-<p>And there are more than just 10. A lack of imagination is not a good argument.</p>
-
+And there are more than just 10. A lack of imagination is not a good argument.
 
 
 ## Answer 1749
@@ -113,10 +109,9 @@ Alternative phrasings from Wikipedia cast it either as "Lunatic, Liar, or Lord",
 - posted by: [Satanicpuppy](https://stackexchange.com/users/-1/169-satanicpuppy) on 2010-12-30
 - score: 5
 
-<p>...Why would we need to? Depending on your feelings toward Jesus, you'd say "Lunatic" or "Liar".</p>
+...Why would we need to? Depending on your feelings toward Jesus, you'd say "Lunatic" or "Liar".
 
-<p>It's not a dilemma if there are options that you agree with. Its like "Eat some delicious pie, or we'll kill this puppy!" It's only a dilemma if you really really don't want pie.</p>
-
+It's not a dilemma if there are options that you agree with. Its like "Eat some delicious pie, or we'll kill this puppy!" It's only a dilemma if you really really don't want pie.
 
 
 ## Answer 1753
@@ -124,12 +119,11 @@ Alternative phrasings from Wikipedia cast it either as "Lunatic, Liar, or Lord",
 - posted by: [Borror0](https://stackexchange.com/users/-1/484-borror0) on 2010-12-30
 - score: 1
 
-<p>The easy way for an atheist would be to say he's a lunatic or a liar but it's a false trilemma: it's also possible that Jesus never claimed to be God, that the tale simply was deformed with time. </p>
+The easy way for an atheist would be to say he's a lunatic or a liar but it's a false trilemma: it's also possible that Jesus never claimed to be God, that the tale simply was deformed with time. 
 
-<p>It's not like there's nothing supporting that theory. For one, the New Testament was written at least two decades after the death of Christ and then were severely altered afterwards. Secondly, only in the Gospel of John does Jesus claims to be God and the Gospel of John was written much later (80-95 CE) by someone who is unlikely to have met Jesus.</p>
+It's not like there's nothing supporting that theory. For one, the New Testament was written at least two decades after the death of Christ and then were severely altered afterwards. Secondly, only in the Gospel of John does Jesus claims to be God and the Gospel of John was written much later (80-95 CE) by someone who is unlikely to have met Jesus.
 
-<p>All that is only if you grant that Jesus ever existent. As non-Christians, atheists can simply deny that Jesus ever existed. </p>
-
+All that is only if you grant that Jesus ever existent. As non-Christians, atheists can simply deny that Jesus ever existed. 
 
 
 ## Answer 1771
@@ -137,17 +131,14 @@ Alternative phrasings from Wikipedia cast it either as "Lunatic, Liar, or Lord",
 - posted by: [Scott Mitchell](https://stackexchange.com/users/-1/336-scott-mitchell) on 2010-12-30
 - score: 1
 
-<p>If we are to take the Bible's account of Jesus's life as true - minus the supernatural stuff, of course - then I think you'd have to reason he was a lunatic. A liar would not have handed himself over to be crucified. He would have either:</p>
+If we are to take the Bible's account of Jesus's life as true - minus the supernatural stuff, of course - then I think you'd have to reason he was a lunatic. A liar would not have handed himself over to be crucified. He would have either:
 
-<ul>
-<li>Not come to Jerusalem </li>
-<li>Not cause such a ruckus once there</li>
-<li>Gotten out of Dodge before he had been apprehended</li>
-<li>Fought a little harder at securing his freedom after his apprehension</li>
-</ul>
+ - Not come to Jerusalem 
+ - Not cause such a ruckus once there
+ - Gotten out of Dodge before he had been apprehended
+ - Fought a little harder at securing his freedom after his apprehension
 
-<p>A person who is willing to die for their beliefs isn't a liar, at least not to themselves.</p>
-
+A person who is willing to die for their beliefs isn't a liar, at least not to themselves.
 
 
 ## Answer 1911
@@ -155,21 +146,18 @@ Alternative phrasings from Wikipedia cast it either as "Lunatic, Liar, or Lord",
 - posted by: [Sklivvz](https://stackexchange.com/users/-1/675-sklivvz) on 2011-01-03
 - score: 1
 
-<p>Sorry, what's the challenge here? Lewis was clearly wrong.</p>
+Sorry, what's the challenge here? Lewis was clearly wrong.
 
-<p>Obviously the reality is one of these scenarios: </p>
+Obviously the reality is one of these scenarios: 
 
-<ul>
-<li>Jesus never existed; </li>
-<li>Jesus existed but the events in his life are not correctly recorded in the New Testament;</li>
-<li>Jesus was a liar with regards to his divinity/miracles;</li>
-<li>Jesus was a lunatic and was not coherent. </li>
-</ul>
+- Jesus never existed; 
+- Jesus existed but the events in his life are not correctly recorded in the New Testament;
+- Jesus was a liar with regards to his divinity/miracles;
+- Jesus was a lunatic and was not coherent. 
 
-<p>All of these hypotheses are way more realistic and probable than saying that Jesus was God, which is simply outlandish and deluded. You might as well assert he was a little green man with superpowers coming from the Andromeda galaxy. Actually, that would be more realistic - at least we can observe the Andromeda galaxy.</p>
+All of these hypotheses are way more realistic and probable than saying that Jesus was God, which is simply outlandish and deluded. You might as well assert he was a little green man with superpowers coming from the Andromeda galaxy. Actually, that would be more realistic - at least we can observe the Andromeda galaxy.
 
-<p><em>Even a broken clock is right twice a day, even Jesus.</em></p>
-
+*Even a broken clock is right twice a day, even Jesus.*
 
 
 ## Answer 1969
@@ -177,20 +165,19 @@ Alternative phrasings from Wikipedia cast it either as "Lunatic, Liar, or Lord",
 - posted by: [DampeS8N](https://stackexchange.com/users/-1/587-dampes8n) on 2011-01-04
 - score: 1
 
-<p>Should Lewis have approached me with this, after I made the blunder of admitting that Jesus actually existed and that he was a great man.</p>
+Should Lewis have approached me with this, after I made the blunder of admitting that Jesus actually existed and that he was a great man.
 
-<p>"I am trying here to prevent anyone saying the really foolish thing that people often say about Him: I’m ready to accept Jesus as a great moral teacher, but I don’t accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic — on the level with the man who says he is a poached egg — or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronising nonsense about his being a great human teacher. He has not left that open to us. He did not intend to. ... Now it seems to me obvious that He was neither a lunatic nor a fiend: and consequently, however strange or terrifying or unlikely it may seem, I have to accept the view that He was and is God."</p>
+"I am trying here to prevent anyone saying the really foolish thing that people often say about Him: I’m ready to accept Jesus as a great moral teacher, but I don’t accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic — on the level with the man who says he is a poached egg — or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronising nonsense about his being a great human teacher. He has not left that open to us. He did not intend to. ... Now it seems to me obvious that He was neither a lunatic nor a fiend: and consequently, however strange or terrifying or unlikely it may seem, I have to accept the view that He was and is God."
 
-<p>I would reply:</p>
+I would reply:
 
-<p>I stand corrected sir. As you say, part of what makes a man great are his intentions, and if he were an evil liar, his intentions must have been ill. Some of these ill effects could have been holy wars in his name, or the burning of witches. Clearly these things have never happened.</p>
+I stand corrected sir. As you say, part of what makes a man great are his intentions, and if he were an evil liar, his intentions must have been ill. Some of these ill effects could have been holy wars in his name, or the burning of witches. Clearly these things have never happened.
 
-<p>Or, as you say, if he were a lunatic, his words could not make such wonderful sense. Nothing is so clear and lucid as the concepts of trinity, and the assertion that one must eat of his literal body and blood to commune with him.</p>
+Or, as you say, if he were a lunatic, his words could not make such wonderful sense. Nothing is so clear and lucid as the concepts of trinity, and the assertion that one must eat of his literal body and blood to commune with him.
 
-<p>The only possible option that is left is that his assertion that he was the son of God himself must be a fact. Because he certainly didn't mean he was a son of God, which was the common parlance of the day. Nor was his mother merely a young woman, that was clearly not what the Bible meant by using a word that means either a virgin or a young woman.</p>
+The only possible option that is left is that his assertion that he was the son of God himself must be a fact. Because he certainly didn't mean he was a son of God, which was the common parlance of the day. Nor was his mother merely a young woman, that was clearly not what the Bible meant by using a word that means either a virgin or a young woman.
 
-<p>No, of these three options, only the last makes any sense. Clearly. Don't you agree?</p>
-
+No, of these three options, only the last makes any sense. Clearly. Don't you agree?
 
 
 ## Answer 1970
@@ -213,10 +200,9 @@ He must, therefore, really have been beamed ideas through a pink light. He must 
 - posted by: [ThisIstheId](https://stackexchange.com/users/-1/404-thisistheid) on 2010-12-30
 - score: 0
 
-<p>I'm assuming you want an answer that doesn't just consist of him either being the lunatic or the liar, but accepting the trilemma,  if you deny that Lord is a possibility, then those would be the only two possible solutions.</p>
+I'm assuming you want an answer that doesn't just consist of him either being the lunatic or the liar, but accepting the trilemma,  if you deny that Lord is a possibility, then those would be the only two possible solutions.
 
-<p>I suppose one other alternative is to doubt the validity of the claims in the new testament regarding the things Jesus supposedly did and said. So, doubt the word of the bible seems a valid alternative, one that atheists, I expect, would not be reluctant to embrace.</p>
-
+I suppose one other alternative is to doubt the validity of the claims in the new testament regarding the things Jesus supposedly did and said. So, doubt the word of the bible seems a valid alternative, one that atheists, I expect, would not be reluctant to embrace.
 
 
 ## Answer 1750
@@ -224,10 +210,9 @@ He must, therefore, really have been beamed ideas through a pink light. He must 
 - posted by: [mfg](https://stackexchange.com/users/-1/135-mfg) on 2010-12-30
 - score: 0
 
-<p>I like the conspiracy option, or radical adherent suicide/martyr club fixated on some guy and embellished everything he did. But yeah, this is not a true trilemma. </p>
+I like the conspiracy option, or radical adherent suicide/martyr club fixated on some guy and embellished everything he did. But yeah, this is not a true trilemma. 
 
-<p>Whenever someone wants to pose a (di-, tri-)lemma, question the grounds by which they constrain the conflict. You will inevitably find (not just a fourth option) but a flaw in the logic of their framing of the argument. Once you do that, anything goes. Remember, the only actual tautologies that are true are of the form [X] or [~X]. But those forms are nonsensical in the real world because there is no such thing as a sense-data confirmed, real case of ~X.</p>
-
+Whenever someone wants to pose a (di-, tri-)lemma, question the grounds by which they constrain the conflict. You will inevitably find (not just a fourth option) but a flaw in the logic of their framing of the argument. Once you do that, anything goes. Remember, the only actual tautologies that are true are of the form [X] or [~X]. But those forms are nonsensical in the real world because there is no such thing as a sense-data confirmed, real case of ~X.
 
 
 ## Answer 2974
@@ -235,12 +220,11 @@ He must, therefore, really have been beamed ideas through a pink light. He must 
 - posted by: [Joe](https://stackexchange.com/users/-1/1064-joe) on 2011-03-03
 - score: 0
 
-<p>Given the options available I'm going with an even split between lunatic and liar. We have to remember the cultural context. </p>
+Given the options available I'm going with an even split between lunatic and liar. We have to remember the cultural context. 
 
-<p>The madhouses of Jerusalem were at that time filled to the brim with abortive saints who had gone wandering in the wilderness seeking divine visions, and who had come back raving after having fasted and exhausted themselves into anything from terrifying hallucinations to total insanity.</p>
+The madhouses of Jerusalem were at that time filled to the brim with abortive saints who had gone wandering in the wilderness seeking divine visions, and who had come back raving after having fasted and exhausted themselves into anything from terrifying hallucinations to total insanity.
 
-<p>So either he was one of these charming 'visionaries' or a charlatan. I'll grant him the grain of salt and submit he was likely merely insane.</p>
-
+So either he was one of these charming 'visionaries' or a charlatan. I'll grant him the grain of salt and submit he was likely merely insane.
 
 
 ## Answer 2977
@@ -248,30 +232,30 @@ He must, therefore, really have been beamed ideas through a pink light. He must 
 - posted by: [noisician](https://stackexchange.com/users/-1/90-noisician) on 2011-03-03
 - score: 0
 
-<p>Re: "Lunatic/Liar/Lord"</p>
+Re: "Lunatic/Liar/Lord"
 
-<p>Personally, I am fine with either lunatic or liar.
+Personally, I am fine with either lunatic or liar.
 Or both - a little from column A, a little from column B.
 There's plenty of precedence amongst self-proclaimed messiahs.
-And oddly, no precedence for actual Lords!</p>
+And oddly, no precedence for actual Lords!
 
-<p>But, another option is: "mistaken".
-You don't need to be crazy or lying to just be wrong.</p>
+But, another option is: "mistaken".
+You don't need to be crazy or lying to just be wrong.
 
-<p>Another option is: "misunderstood".
-Maybe he himself didn't actually claim to be god.</p>
+Another option is: "misunderstood".
+Maybe he himself didn't actually claim to be god.
 
-<hr>
+----
 
-<p>Here is another approach to try:</p>
+Here is another approach to try:
 
-<ul>
-<li>Say "Jesus is not a god, and there are no gods."</li>
-<li>Does that mean you are a lunatic, a liar, or correct?</li>
-<li>No. Your theist friend will immediately see that the "trilemma" is false.</li>
-<li>He accepts that you are not crazy or lying.</li>
-<li>But he clearly believes you are just WRONG.</li>
-</ul>
+ - Say "Jesus is not a god, and there are no gods."
+ - Does that mean you are a lunatic, a liar, or correct?
+ - No. Your theist friend will immediately see that the "trilemma" is false.
+ - He accepts that you are not crazy or lying.
+ - But he clearly believes you are just WRONG.
+
+
 
 
 
@@ -280,10 +264,9 @@ Maybe he himself didn't actually claim to be god.</p>
 - posted by: [ObdurateDemand](https://stackexchange.com/users/-1/524-obduratedemand) on 2011-03-03
 - score: 0
 
-<p>"Clark Kent either deceived mankind by conscious fraud, or He was Himself deluded and self-deceived, or He was Superman. There is no getting out of this trilemma. It is inexorable."</p>
+"Clark Kent either deceived mankind by conscious fraud, or He was Himself deluded and self-deceived, or He was Superman. There is no getting out of this trilemma. It is inexorable."
 
-<p>No it's not.  I've just shown you why.</p>
-
+No it's not.  I've just shown you why.
 
 
 ## Answer 3000
@@ -291,10 +274,9 @@ Maybe he himself didn't actually claim to be god.</p>
 - posted by: [Kaz Dragon](https://stackexchange.com/users/-1/1195-kaz-dragon) on 2011-03-04
 - score: 0
 
-<p>By rephrasing it as a tetralemma:</p>
+By rephrasing it as a tetralemma:
 
-<p>Lunatic, liar, lord, or <em>legend</em>.</p>
-
+Lunatic, liar, lord, or _legend_.
 
 
 ## Answer 3140
@@ -302,14 +284,13 @@ Maybe he himself didn't actually claim to be god.</p>
 - posted by: [David Thornley](https://stackexchange.com/users/-1/516-david-thornley) on 2011-03-13
 - score: 0
 
-<p>Okay, suppose somebody you know, and have found to be honest and apparently sane, tells you, "I am God."  You don't want to impugn his honesty, or his sanity, so you can accept that he really believes he is God and has some reason for saying what he does.</p>
+Okay, suppose somebody you know, and have found to be honest and apparently sane, tells you, "I am God."  You don't want to impugn his honesty, or his sanity, so you can accept that he really believes he is God and has some reason for saying what he does.
 
-<p>The next question is what he means by that.  Different religions have different ideas of God, and it seems odd to just accept one religion's claim (actually, part of one religion's claim, as most religions have a lot of differing beliefs within them) and interpret it by that.  If somebody did that to me, I'd start asking questions about what the claim really meant, what the person meant by "God".</p>
+The next question is what he means by that.  Different religions have different ideas of God, and it seems odd to just accept one religion's claim (actually, part of one religion's claim, as most religions have a lot of differing beliefs within them) and interpret it by that.  If somebody did that to me, I'd start asking questions about what the claim really meant, what the person meant by "God".
 
-<p>There's also the possibility of being mistaken.  I have intelligent, sane, honest friends who will tell me that Jesus is God if I ask the question.  I also know a guy who sure seems sane, intelligent, and honest, who will doubtless tell me there is no deity but God and Mohammed is His prophet, if I ask.  These are also extraordinary claims, and I don't necessarily agree with any of them.  </p>
+There's also the possibility of being mistaken.  I have intelligent, sane, honest friends who will tell me that Jesus is God if I ask the question.  I also know a guy who sure seems sane, intelligent, and honest, who will doubtless tell me there is no deity but God and Mohammed is His prophet, if I ask.  These are also extraordinary claims, and I don't necessarily agree with any of them.  
 
-<p>It is quite possible to be honestly mistaken on religious beliefs, and a consultation of the World Almanac will demonstrate that over half the world's population is definitely wrong on significant religious beliefs (although you can't go from that to say which majority).  Some very good, honest, sane, and religious people are clearly wrong.</p>
-
+It is quite possible to be honestly mistaken on religious beliefs, and a consultation of the World Almanac will demonstrate that over half the world's population is definitely wrong on significant religious beliefs (although you can't go from that to say which majority).  Some very good, honest, sane, and religious people are clearly wrong.
 
 
 

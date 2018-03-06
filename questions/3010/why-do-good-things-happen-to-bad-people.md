@@ -14,9 +14,7 @@ A standard question deals with the bad things things that happen to people and o
 - posted by: [alban](https://stackexchange.com/users/-1/1200-alban) on 2011-03-05
 - score: 2
 
-A standard question deals with the bad things things that happen to people and often this leads to a conversation on the justification for a belief in God, but I wonder about the good. There are many reasons for bad things to happen, but what about the good? To tie-in to the standard question, how does this inform one's (dis)belief in God?
-
-
+Because there isn't some supernatural being out there watching everything we do and changing our fate.
 
 
 

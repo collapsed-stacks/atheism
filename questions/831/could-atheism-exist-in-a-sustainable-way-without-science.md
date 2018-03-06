@@ -18,13 +18,9 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [Denis Robert](https://stackexchange.com/users/-1/122-denis-robert) on 2010-12-16
 - score: 7
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
+If you mean by Science the current incarnation of the Scientific Method, then yes, of course Atheism can exist without Science. Epicurus was an atheist who certainly did not have access to the current method.
 
-We then stumbled upon religion and that spread to the entire species.
-
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
-
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
+But if you mean by Science the honest search for knowledge driven by evidence, and open to falsification, then no, I don't think so.
 
 
 ## Answer 848
@@ -32,13 +28,13 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [Rob Schneider](https://stackexchange.com/users/-1/149-rob-schneider) on 2010-12-17
 - score: 7
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
+It's a great question, but your first paragraph is a fairly non-standard view of evolution, religion, and the evolution of religion.  I highly recommend Daniel Dennett's *"Breaking the Spell"* for some really good discussion of how we evolved religion.
 
-We then stumbled upon religion and that spread to the entire species.
+Essentially, we started attributing cause to things because we detected "agency" in them.  We recognized ourselves as "agents"... i.e. things that cause other things to happen.  So when our ancestors observed things moving (stars in the sky, wind in the trees, animals in the bush) they began to attribute "agency" to them, too.  Couple that with a weak understanding of statistics and coincidence (correlation is not causation) and voila, Gods were born.  They were everywhere.
 
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
+Somewhere, somehow, we evolved the capacity for critical observation, comparison, and thought.  As someone else mentioned, this means that a lot of "science" was done before the scientific method was codified.   A whole lot MORE science was done once the methodology was fully recognized and outlined.
 
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
+So, I would argue that established religious superstition on any given subject holds sway until "scientific" thinking and observation on a topic cause the reality to be accepted, and this process has greatly accelerated since the advent of the scientific method. Atheism could exist without science as we know it, but it is greatly aided by our critical thinking methods.
 
 
 ## Answer 838
@@ -46,13 +42,7 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [Kevin Jones](https://stackexchange.com/users/-1/186-kevin-jones) on 2010-12-17
 - score: 5
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
-
-We then stumbled upon religion and that spread to the entire species.
-
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
-
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
+It's possible to not believe in God without having any competing theory.  However, I'd say that Atheism as an openly embraced philosophy wouldn't be possible on any significant scale in a pre-scientific society because such a society would never tolerate it.  Our current highly secular society would be impossible without the health, wealth, and safety generated by our understanding of the world.  In a non-scientific culture, you'd basically be stuck in hunter-gatherer mode- constantly starving, life expectancy in the twenties or thirties, massive infant mortality, constantly at war with other groups, where any divination from the group mythology would be seen as a challenge to the leadership and as such would quickly get you killed or exiled.  So no, atheism couldn't really exist without science.  But then, neither could almost all of the nice things we take for granted.  
 
 
 ## Answer 833
@@ -60,13 +50,7 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [Josiah](https://stackexchange.com/users/-1/88-josiah) on 2010-12-16
 - score: 3
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
-
-We then stumbled upon religion and that spread to the entire species.
-
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
-
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
+God was used to explain nature. Science is the study of nature. Without the study of nature, no, we wouldn't be on the path back to atheism.
 
 
 ## Answer 836
@@ -74,13 +58,15 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [Raskolnikov](https://stackexchange.com/users/-1/144-raskolnikov) on 2010-12-16
 - score: 3
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
+Science certainly has a liberating impact in two ways.
 
-We then stumbled upon religion and that spread to the entire species.
+First, by providing answers were before there were only question marks, it quenches our thirst for knowledge up to some point and by doing so undermines the basis for all kinds of pseudo-answers, among which religious ones.
 
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
+Second, its methodology enriches our philosophies and has allowed to sharpen our understanding of old philisophical problems, allowing us to tackle them and often even make them completely amenable to science.
 
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
+But, cause there is a but, while science certainly eases the path towards atheism, atheism is not strictly dependent on science. Many philosophers before Darwin were atheists and rightly so, because not having an explanation for the origin of species doesn't validate an origins myth.
+
+I also want to add that science is accessible only to a minority of people. By this, I mean that while the technology resulting from science is pervading our societies, few people have a profound understanding of the science behind it. I would surmise that the number of atheists is much larger than the number of scientists and people with a degree in science. Therefore, I do not think science is playing a very direct role ib the "return" of atheism.
 
 
 ## Answer 894
@@ -88,13 +74,7 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [mfg](https://stackexchange.com/users/-1/135-mfg) on 2010-12-17
 - score: 1
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
-
-We then stumbled upon religion and that spread to the entire species.
-
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
-
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
+Attribute not to science what can be explained by simple thought. Doubt is rather self-sustaining. 
 
 
 ## Answer 1564
@@ -102,13 +82,10 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [ja72](https://stackexchange.com/users/-1/567-ja72) on 2010-12-28
 - score: 1
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
+<p>Great question. I think someone should write a book on secular philosophy that is not directly supported by science.</p>
 
-We then stumbled upon religion and that spread to the entire species.
+<p>Historically you can argue there were groups of people in ancient times that rejected theism, yet science was not used as a tool (the <a href="http://en.wikipedia.org/wiki/Ionian_School_%28philosophy%29" rel="nofollow">Ionians</a> in Greece). So it is possible to take this position, and possibly very desirable to do so, but I am unable to come up with a modern manifestation of non-scientifically supported non-theism.</p>
 
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
-
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
 
 
 ## Answer 962
@@ -116,13 +93,9 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [Mudak](https://stackexchange.com/users/-1/205-mudak) on 2010-12-18
 - score: 0
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
+I think without science, you could still be a weak atheist.  Take the Bible or the Qu'ran.  Even without scientific knowledge, it's not that hard to recognize that they're completely made-up and have as much in common with the truth, as a porno movie has in common with A Charlie Brown Christmas.  
 
-We then stumbled upon religion and that spread to the entire species.
-
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
-
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
+To be a strong atheist, you need to know more than just the fact that some holy book is false.  You need to know what the truth is. And that's where science is needed.
 
 
 ## Answer 2048
@@ -130,13 +103,10 @@ Is there something else that could have sparked the transformation from the only
 - posted by: [ja72](https://stackexchange.com/users/-1/567-ja72) on 2011-01-09
 - score: 0
 
-At one point in the evolutionary history of our species, we were all atheists. I think that this is fairly self-evident. If _homo sapiens_ has always been religious (as seems to be the case), then go back to _homo erectus_. If _homo erectus_ was religious (as might have been the case), go back to the species before that. At some point, all of our ancestors were atheists. 
+<p>I just saw an interview with Dave Mathiews (from the synonymous Band), that makes great case for how sill the notion of God is, without really basing in science, more with acute observations of reality.</p>
 
-We then stumbled upon religion and that spread to the entire species.
+<p><a href="http://www.youtube.com/watch?v=fZbseUM1T_A&amp;feature=player_embedded" rel="nofollow">YouTube Link</a></p>
 
-At some point though, we discovered a rational interpretation of the universe that is able to work with a minimum of assumptions: science. This freed large portions of the population from the need (?) for religious explanations. As we all no doubt know, the profession with the largest percentage of atheists is science and within science biology. It seems pretty unambiguous that it's science that freed us from our bondage.
-
-Is there something else that could have sparked the transformation from the only (?) religious species back to the default (natural?) state of atheism that our species is currently going through or is science the one ticket out?
 
 
 

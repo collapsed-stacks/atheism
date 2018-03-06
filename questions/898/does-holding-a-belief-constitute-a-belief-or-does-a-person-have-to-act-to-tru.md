@@ -22,12 +22,11 @@ Somewhere in between something "hinky" happens to the word belief, and we move f
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-17
 - score: 3
 
-<p>I would err on the side "holding the belief." It is not always possible to "act" on the belief to begin with. A good example of this would be freedom in regards to jumping off the Empire State Building: are you free because you believe you <em>can</em> do it, even if you <em>never</em> do it; or, is no one truly free unless they've <em>done</em> it?</p>
+I would err on the side "holding the belief." It is not always possible to "act" on the belief to begin with. A good example of this would be freedom in regards to jumping off the Empire State Building: are you free because you believe you *can* do it, even if you *never* do it; or, is no one truly free unless they've *done* it?
 
-<p>You can probably argue that neither proposition is more <em>true</em>, but the latter is certainly on its face absurd.</p>
+You can probably argue that neither proposition is more *true*, but the latter is certainly on its face absurd.
 
-<p>Simple "holding the belief" constitutes "belief". You should require no experiential evidence.</p>
-
+Simple "holding the belief" constitutes "belief". You should require no experiential evidence.
 
 
 ## Answer 899
@@ -76,10 +75,9 @@ Somewhere in between something "hinky" happens to the word belief, and we move f
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2010-12-17
 - score: 2
 
-<p>No, I think you can believe something without having to do it. </p>
+No, I think you can believe something without having to do it. 
 
-<p>For example: I believe that consenting adults are allowed to do pretty much whatever they like in the bedroom. I believe that if two people in a relationship (married or not) want to invite a third person into their sex lives, they are allowed to do so. I personally would never allow a third person into my relationship, but I firmly believe that if two people want to, they have the right to do so.</p>
-
+For example: I believe that consenting adults are allowed to do pretty much whatever they like in the bedroom. I believe that if two people in a relationship (married or not) want to invite a third person into their sex lives, they are allowed to do so. I personally would never allow a third person into my relationship, but I firmly believe that if two people want to, they have the right to do so.
 
 
 

@@ -18,8 +18,7 @@ Is religion to blame for [honor killing][1], or would it occur even if there was
 - posted by: [Dave Gilbert](https://stackexchange.com/users/-1/238-dave-gilbert) on 2010-12-17
 - score: 6
 
-<p>So long as cultures believe they have the authority given to them by their god(s) and their earth bound religious leaders to commit such acts of inhumanity, then yes.  Religion is to blame and belief systems should be challenged.  We are after all living in the 21st Century. </p>
-
+So long as cultures believe they have the authority given to them by their god(s) and their earth bound religious leaders to commit such acts of inhumanity, then yes.  Religion is to blame and belief systems should be challenged.  We are after all living in the 21st Century. 
 
 
 ## Answer 939
@@ -27,8 +26,7 @@ Is religion to blame for [honor killing][1], or would it occur even if there was
 - posted by: [Josiah](https://stackexchange.com/users/-1/88-josiah) on 2010-12-17
 - score: 5
 
-<p>It's to blame for making modesty such a huge 'moral' issue to conservative minded people, if not how they express their disagreement (by stoning little girls).</p>
-
+It's to blame for making modesty such a huge 'moral' issue to conservative minded people, if not how they express their disagreement (by stoning little girls).
 
 
 ## Answer 1582
@@ -78,18 +76,17 @@ Is religion to blame for [honor killing][1], or would it occur even if there was
 - posted by: [Renshank](https://stackexchange.com/users/-1/162-renshank) on 2010-12-17
 - score: 1
 
-<p>I think this is a really interesting question, though it might end up being closed due to causing argumentation (I hope not).</p>
+I think this is a really interesting question, though it might end up being closed due to causing argumentation (I hope not).
 
-<p>I think the way to answer this question is to talk about whether the Koran/Qur'an enables/fosters honor killing as an approach to dealing with the behavior in question. Additionally, one might want to consider the Haddith and other Islamic religious texts.</p>
+I think the way to answer this question is to talk about whether the Koran/Qur'an enables/fosters honor killing as an approach to dealing with the behavior in question. Additionally, one might want to consider the Haddith and other Islamic religious texts.
 
-<p>Here is something I found from the Koran:</p>
+Here is something I found from the Koran:
 
-<p>[4.15] And as for those who are guilty of an indecency from among your women, call to witnesses against them four (witnesses) from among you; then if they bear witness confine them to the houses until death takes them away or Allah opens some way for them.</p>
+[4.15] And as for those who are guilty of an indecency from among your women, call to witnesses against them four (witnesses) from among you; then if they bear witness confine them to the houses until death takes them away or Allah opens some way for them.
 
-<p>Most of the injunctions to actually kill people seem to come from the Hadith, however. There are a lot of these, most involving pre-marital sex.</p>
+Most of the injunctions to actually kill people seem to come from the Hadith, however. There are a lot of these, most involving pre-marital sex.
 
-<p>Given that there are explicit declarations to kill people who commit adultery in the religion, it is therefore the religion's fault that honor killings persist today in places like Europe and the developed Islamic nations in which they are found.</p>
-
+Given that there are explicit declarations to kill people who commit adultery in the religion, it is therefore the religion's fault that honor killings persist today in places like Europe and the developed Islamic nations in which they are found.
 
 
 ## Answer 981
@@ -97,7 +94,7 @@ Is religion to blame for [honor killing][1], or would it occur even if there was
 - posted by: [Yossi Farjoun](https://stackexchange.com/users/-1/233-yossi-farjoun) on 2010-12-18
 - score: 0
 
-<p>In Israel, ultra religious (Jewish) families will excommunicate family member for various misdeeds. While this isn't active killing, as far as the family and friends are concerned the person is dead. They are no longer part of the family, they cannot get a job in the community and without the more liberal-minded non-ultra religious, they would in-fact be dead. </p>
+In Israel, ultra religious (Jewish) families will excommunicate family member for various misdeeds. While this isn't active killing, as far as the family and friends are concerned the person is dead. They are no longer part of the family, they cannot get a job in the community and without the more liberal-minded non-ultra religious, they would in-fact be dead. 
 
 
 
@@ -106,10 +103,9 @@ Is religion to blame for [honor killing][1], or would it occur even if there was
 - posted by: [Gusdor](https://stackexchange.com/users/-1/393-gusdor) on 2010-12-23
 - score: 0
 
-<p>I may be wrong but I consider that honour is ascribed to a person as a measure of observation of tradition / faith. It is a metric used to evaluate if an individually is worthy to take part in a society. Fail and the punishment in this instance is fatal.</p>
+I may be wrong but I consider that honour is ascribed to a person as a measure of observation of tradition / faith. It is a metric used to evaluate if an individually is worthy to take part in a society. Fail and the punishment in this instance is fatal.
 
-<p>Remember that some western societies who don't practice capital punishment only gave it up recently. Some states in the USA still do but the qualification for that punishment is not directly tied to religious defiance. Does that prove honour killing is nothing to do with religion? No! Does it prove that it can be separate? I like to think so.</p>
-
+Remember that some western societies who don't practice capital punishment only gave it up recently. Some states in the USA still do but the qualification for that punishment is not directly tied to religious defiance. Does that prove honour killing is nothing to do with religion? No! Does it prove that it can be separate? I like to think so.
 
 
 ## Answer 3072
@@ -117,10 +113,9 @@ Is religion to blame for [honor killing][1], or would it occur even if there was
 - posted by: [tooshel](https://stackexchange.com/users/-1/817-tooshel) on 2011-03-09
 - score: 0
 
-<p>Blaming religion is akin to blaming video games or movies. Yes, religion has the power to change behavior but I don't think it extends to killing another human. </p>
+Blaming religion is akin to blaming video games or movies. Yes, religion has the power to change behavior but I don't think it extends to killing another human. 
 
-<p>I often wonder about supposed "laws" that make something like that okay. Is it really lawful to kill another human in some countries for no other reason than honor? Or is it more that the state doesn't want to get involved or doesn't have the resources to stop that sort of thing?</p>
-
+I often wonder about supposed "laws" that make something like that okay. Is it really lawful to kill another human in some countries for no other reason than honor? Or is it more that the state doesn't want to get involved or doesn't have the resources to stop that sort of thing?
 
 
 ## Answer 3099
@@ -128,13 +123,12 @@ Is religion to blame for [honor killing][1], or would it occur even if there was
 - posted by: [Gaurav](https://stackexchange.com/users/-1/1238-gaurav) on 2011-03-10
 - score: 0
 
-<p>Primarily talking in context of India, where I belong, and where in the last few decades the world has seen the most brutal and barbaric cases of Honor killings. Condition has worsened this much that love has changed its entire meaning over here, Now people fearfully ask for religion and caste even before doing friendship.
+Primarily talking in context of India, where I belong, and where in the last few decades the world has seen the most brutal and barbaric cases of Honor killings. Condition has worsened this much that love has changed its entire meaning over here, Now people fearfully ask for religion and caste even before doing friendship.
 Going to roots, caste system was introduced long ago in the name of religion with intentions of gripping most of the powers (say money,land even knowledge) in few hands. It came down centuries and haunting whole society even today.
 People do obey in such illogical discriminations and force their younger generations to follow it. Even education has failed at a great extent to evoke people's logical thinking.
 When it comes to the Question of religion, they choose religion first and human-life thereafter. The so called enlightening-books and the so called Ulema, Pandits (traders of religion) remains always true even if their conscious is against them.
 Such blind-faith is the only reason behind such brutal acts.
-I would say human would have been in much better condition if there had not been any religion. </p>
-
+I would say human would have been in much better condition if there had not been any religion. 
 
 
 ## Answer 1270
@@ -142,10 +136,9 @@ I would say human would have been in much better condition if there had not been
 - posted by: [Ramy](https://stackexchange.com/users/-1/382-ramy) on 2010-12-23
 - score: -3
 
-<p>I think it's interesting that Atheists seem to always blame religion first. there was a widely noted study done in 2005 about this. the book is worth reading (it's in my queue but i haven't read it yet):  </p>
+I think it's interesting that Atheists seem to always blame religion first. there was a widely noted study done in 2005 about this. the book is worth reading (it's in my queue but i haven't read it yet):  
 
-<p><a href="http://rads.stackoverflow.com/amzn/click/0812973380" rel="nofollow">http://www.amazon.com/Dying-Win-Strategic-Suicide-Terrorism/dp/0812973380/ref=sr_1_1?ie=UTF8&amp;qid=1293122592&amp;sr=8-1</a></p>
-
+http://www.amazon.com/Dying-Win-Strategic-Suicide-Terrorism/dp/0812973380/ref=sr_1_1?ie=UTF8&qid=1293122592&sr=8-1
 
 
 

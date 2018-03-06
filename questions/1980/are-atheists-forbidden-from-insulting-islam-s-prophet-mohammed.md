@@ -14,9 +14,9 @@ Are atheists forbidden from insulting Mohammed, or does this restriction apply o
 - posted by: [Nomæd](https://stackexchange.com/users/-1/27-nom-d) on 2011-01-05
 - score: 1
 
-Are atheists forbidden from insulting Mohammed, or does this restriction apply only to Abrahamic theists?
+It applies to everybody, Muslims, other religions and nonbelievers. There are many examples of Muslims being sentenced to death because of blasphemy, for example Salman Rushdie (for his "[The Satanic Verses](http://en.wikipedia.org/wiki/The_Satanic_Verses)" book).
 
-**Background**: I was curious after reading that the Lars Vilks' drawing of Mohammed was given as a reason for the 2010 Stockholm suicide bombing. At the least, I'm pretty sure that he's not a Muslim, so he wouldn't believe that Mohammed is a real prophet. And if someone who doesn't believe Mohammed is "for real" can be regarded as doing something wrong, could someone who doesn't belive in God be regarded as doing something wrong by "insulting" Mohammed?
+More examples: http://en.wikipedia.org/wiki/Freedom_of_speech_versus_blasphemy#Islam
 
 
 

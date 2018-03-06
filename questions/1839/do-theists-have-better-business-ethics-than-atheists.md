@@ -54,24 +54,27 @@ It should go without saying but I'm interested in a thorough explanation of why 
 - posted by: [Bob Murphy](https://stackexchange.com/users/-1/674-bob-murphy) on 2011-01-01
 - score: 4
 
-<p>Don't take that article too seriously. It's packed full of grammatical errors, which puts the "peer-reviewed journal" it's in at the bottom of the professional credibility pile.</p>
+Don't take that article too seriously. It's packed full of grammatical errors, which puts the "peer-reviewed journal" it's in at the bottom of the professional credibility pile.
 
-<p>Their experimental data looks good and their sample size is reasonable, but it's pretty limited in scope.</p>
+Their experimental data looks good and their sample size is reasonable, but it's pretty limited in scope.
 
-<p>They're vague about who they actually tested; I find it odd they describe some of their sample as "undergraduate business students of a private university in Malaysia" but don't name it. It's almost certain that's Universiti Tunku Abdul Rahman based on the authors' affiliation.</p>
+They're vague about who they actually tested; I find it odd they describe some of their sample as "undergraduate business students of a private university in Malaysia" but don't name it. It's almost certain that's Universiti Tunku Abdul Rahman based on the authors' affiliation.
 
-<p>Also, the authors selected the non-student subjects by finding friends and relatives who were willing to take the questionnaires. If you want to get results that can be generalized, you need data from a truly random population sample. Data from self-selected human experimental subjects from a non-random population set cannot credibly be generalized outside that group.</p>
+Also, the authors selected the non-student subjects by finding friends and relatives who were willing to take the questionnaires. If you want to get results that can be generalized, you need data from a truly random population sample. Data from self-selected human experimental subjects from a non-random population set cannot credibly be generalized outside that group.
 
-<p>I think you can only really conclude two things from this paper:</p>
+I think you can only really conclude two things from this paper:
 
-<ol>
-<li>If you went back and administered the same test to a similar group of people within the next few years, you'd probably get similar data.</li>
-<li>The individuals tested are willing to report particular information about their religious beliefs and business ethics.</li>
-</ol>
+ 1. If you went back and administered the same test to a similar group of people within the next few years, you'd probably get similar data.
+ 2. The individuals tested are willing to report particular information about their religious beliefs and business ethics.
 
-<p>This paper may also be useful in a world-wide context as a data point. If somebody analyzed a lot of papers like this from all over the world, and especially if most of them used better methodologies, and the results from this paper were in line with those, then it might have some broader significance.</p>
+This paper may also be useful in a world-wide context as a data point. If somebody analyzed a lot of papers like this from all over the world, and especially if most of them used better methodologies, and the results from this paper were in line with those, then it might have some broader significance.
 
-<p>But from this paper alone, I don't think you can draw any conclusions about how ethical those individuals actually are in real life. And I certainly don't think you can generalize from 269 poorly-selected, probably socially homogeneous subjects in a very small region to make conclusions about correlations between religion and ethics across the entire human race.</p>
+But from this paper alone, I don't think you can draw any conclusions about how ethical those individuals actually are in real life. And I certainly don't think you can generalize from 269 poorly-selected, probably socially homogeneous subjects in a very small region to make conclusions about correlations between religion and ethics across the entire human race.
+
+
+
+
+
 
 
 
@@ -80,9 +83,9 @@ It should go without saying but I'm interested in a thorough explanation of why 
 - posted by: [ObdurateDemand](https://stackexchange.com/users/-1/524-obduratedemand) on 2011-01-02
 - score: 0
 
-<p>Go ahead and mod me down for this answer, or rate it as ranting if you will, but the answer is glaringly obvious to me.  Religion is a pyramid scheme, and churches exist to bilk money out of their parishioners.  Whether the individual worshipers are honest in their intent or not, collecting money for the sky wizard is a scam.  So it's pretty clear to me at least that a large segment of the religious 'community' have very questionable ethics altogether.</p>
+Go ahead and mod me down for this answer, or rate it as ranting if you will, but the answer is glaringly obvious to me.  Religion is a pyramid scheme, and churches exist to bilk money out of their parishioners.  Whether the individual worshipers are honest in their intent or not, collecting money for the sky wizard is a scam.  So it's pretty clear to me at least that a large segment of the religious 'community' have very questionable ethics altogether.
 
-<p>Now, to the studies cited - <em>correlation is not causation</em>.  Some people of high integrity are religious, and some are not.  The studies cited reverse this and rely on self documentation.  A more appropriate study would involve something like giving too much change at a cash register and then interviewing the people that returned the excess for their beliefs.  It'd also have to be spread across multiple socioeconomic zones and a control group would have to be present as well.</p>
+Now, to the studies cited - *correlation is not causation*.  Some people of high integrity are religious, and some are not.  The studies cited reverse this and rely on self documentation.  A more appropriate study would involve something like giving too much change at a cash register and then interviewing the people that returned the excess for their beliefs.  It'd also have to be spread across multiple socioeconomic zones and a control group would have to be present as well.
 
 
 
@@ -91,8 +94,7 @@ It should go without saying but I'm interested in a thorough explanation of why 
 - posted by: [Seti](https://stackexchange.com/users/-1/247-seti) on 2011-01-01
 - score: -1
 
-<p>I suspect this is rubbish. There is no evidence that religious people are more ethical in their private lives, so why would they be in their business lives? Studies among the US prison population indicate that the percentage of atheists is far lower than in the general population (though there are many variables influencing this.) Of course some people are encouraged to behave ethically because of their religion (for example the ethical investment movement was instigated by Quakers) and some may be constrained to behave ethically who would otherwise be out a-robbin' and a-rapin' and a-killin' (to judge from their insistance that religion is essential to prevent that.) But the minute someone tried to wave the religious flag over their business as evidence of their honesty (as I have heard people do) I'd tuck my wallet swiftly back in my pocket, make my excuses and leave. </p>
-
+I suspect this is rubbish. There is no evidence that religious people are more ethical in their private lives, so why would they be in their business lives? Studies among the US prison population indicate that the percentage of atheists is far lower than in the general population (though there are many variables influencing this.) Of course some people are encouraged to behave ethically because of their religion (for example the ethical investment movement was instigated by Quakers) and some may be constrained to behave ethically who would otherwise be out a-robbin' and a-rapin' and a-killin' (to judge from their insistance that religion is essential to prevent that.) But the minute someone tried to wave the religious flag over their business as evidence of their honesty (as I have heard people do) I'd tuck my wallet swiftly back in my pocket, make my excuses and leave. 
 
 
 

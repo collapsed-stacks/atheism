@@ -17,61 +17,59 @@ How many of the original 1984 participants were non-religious or atheist?
 - posted by: [DampeS8N](https://stackexchange.com/users/-1/587-dampes8n) on 2011-01-03
 - score: 20
 
-<p>Yes means I found quotes of them saying they are Atheist or Non-Religious. Maybe means they have said things that lean that way. No/Unclear means I couldn't find anything saying anything about religion. And No means they mentioned being of some faith.</p>
+Yes means I found quotes of them saying they are Atheist or Non-Religious. Maybe means they have said things that lean that way. No/Unclear means I couldn't find anything saying anything about religion. And No means they mentioned being of some faith.
 
-<p>Total: 44<br>
-Yes: 24<br>
-Maybe: 8<br>
-No/Unclear: 9<br>
-No: 2<br>
-Couldn't Find Anything: 1</p>
+Total: 44  
+Yes: 24  
+Maybe: 8  
+No/Unclear: 9  
+No: 2  
+Couldn't Find Anything: 1
 
-<ul>
-<li>Yes * Adam Clayton (U2)</li>
-<li>Yes * Phil Collins (Genesis)</li>
-<li>Yes * Bob Geldof (The Boomtown Rats)</li>
-<li>Yes * Steve Norman (Spandau Ballet)</li>
-<li>No/Unclear * Chris Cross (Ultravox)</li>
-<li>No/Unclear * John Taylor (Duran Duran)</li>
-<li>Yes * Paul Young</li>
-<li>Maybe * Tony Hadley (Spandau Ballet)</li>
-<li>Maybe * Glenn Gregory (Heaven 17)</li>
-<li>Yes * Simon Le Bon (Duran Duran)</li>
-<li>No/Unclear * Simon Crowe (The Boomtown Rats)</li>
-<li>Maybe * Marilyn </li>
-<li>No/Unclear * Keren Woodward (Bananarama)</li>
-<li>Yes * Martin Kemp (Spandau Ballet)</li>
-<li>Yes * Jody Watley (Shalamar)</li>
-<li>Yes * Bono (U2)</li>
-<li>No * Paul Weller (The Style Council)</li>
-<li>Yes * James "J.T." Taylor (Kool &amp; the Gang)</li>
-<li>Yes * George Michael (Wham!)</li>
-<li>Yes * Midge Ure (Ultravox)</li>
-<li>Maybe * Martyn Ware (Heaven 17)</li>
-<li>Yes * John Keeble (Spandau Ballet)</li>
-<li>Yes * Gary Kemp (Spandau Ballet)</li>
-<li>Maybe * Roger Taylor (Duran Duran)</li>
-<li>No/Unclear * Sarah Dallin (Bananarama)</li>
-<li>Yes * Siobhan Fahey (Bananarama)</li>
-<li>No/Unclear * Pete Briquette (The Boomtown Rats)</li>
-<li>Yes * Francis Rossi (Status Quo)</li>
-<li>Yes * Robert 'Kool' Bell (Kool &amp; the Gang)</li>
-<li>No * Dennis J. T. Thomas (Kool &amp; the Gang)</li>
-<li>Yes * Andy Taylor (Duran Duran)</li>
-<li>Yes * Jon Moss (Culture Club)</li>
-<li>Yes * Sting (The Police)</li>
-<li>Maybe * Rick Parfitt (Status Quo)</li>
-<li>Yes * Nick Rhodes (Duran Duran)</li>
-<li>Maybe * Johnny Fingers (The Boomtown Rats)</li>
-<li>Yes * David Bowie</li>
-<li>Maybe * Boy George (Culture Club)</li>
-<li>No/Unclear * Holly Johnson (Frankie Goes to Hollywood)</li>
-<li>Yes * Paul McCartney</li>
-<li>Yes * Stuart Adamson (Big Country)</li>
-<li>No/Unclear * Bruce Watson (Big Country)</li>
-<li>Can't Find * Tony Butler (Big Country)</li>
-<li>No/Unclear * Mark Brzezicki (Big Country)</li>
-</ul>
+ - Yes * Adam Clayton (U2)
+ - Yes * Phil Collins (Genesis)
+ - Yes * Bob Geldof (The Boomtown Rats)
+ - Yes * Steve Norman (Spandau Ballet)
+ - No/Unclear * Chris Cross (Ultravox)
+ - No/Unclear * John Taylor (Duran Duran)
+ - Yes * Paul Young
+ - Maybe * Tony Hadley (Spandau Ballet)
+ - Maybe * Glenn Gregory (Heaven 17)
+ - Yes * Simon Le Bon (Duran Duran)
+ - No/Unclear * Simon Crowe (The Boomtown Rats)
+ - Maybe * Marilyn 
+ - No/Unclear * Keren Woodward (Bananarama)
+ - Yes * Martin Kemp (Spandau Ballet)
+ - Yes * Jody Watley (Shalamar)
+ - Yes * Bono (U2)
+ - No * Paul Weller (The Style Council)
+ - Yes * James "J.T." Taylor (Kool & the Gang)
+ - Yes * George Michael (Wham!)
+ - Yes * Midge Ure (Ultravox)
+ - Maybe * Martyn Ware (Heaven 17)
+ - Yes * John Keeble (Spandau Ballet)
+ - Yes * Gary Kemp (Spandau Ballet)
+ - Maybe * Roger Taylor (Duran Duran)
+ - No/Unclear * Sarah Dallin (Bananarama)
+ - Yes * Siobhan Fahey (Bananarama)
+ - No/Unclear * Pete Briquette (The Boomtown Rats)
+ - Yes * Francis Rossi (Status Quo)
+ - Yes * Robert 'Kool' Bell (Kool & the Gang)
+ - No * Dennis J. T. Thomas (Kool & the Gang)
+ - Yes * Andy Taylor (Duran Duran)
+ - Yes * Jon Moss (Culture Club)
+ - Yes * Sting (The Police)
+ - Maybe * Rick Parfitt (Status Quo)
+ - Yes * Nick Rhodes (Duran Duran)
+ - Maybe * Johnny Fingers (The Boomtown Rats)
+ - Yes * David Bowie
+ - Maybe * Boy George (Culture Club)
+ - No/Unclear * Holly Johnson (Frankie Goes to Hollywood)
+ - Yes * Paul McCartney
+ - Yes * Stuart Adamson (Big Country)
+ - No/Unclear * Bruce Watson (Big Country)
+ - Can't Find * Tony Butler (Big Country)
+ - No/Unclear * Mark Brzezicki (Big Country)
 
 
 

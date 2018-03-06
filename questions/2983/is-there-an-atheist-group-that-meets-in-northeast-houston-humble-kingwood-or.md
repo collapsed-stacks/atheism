@@ -12,7 +12,10 @@ I'm just wondering if there is an atheist group that meets in NE Houston. Somewh
 - posted by: [mfg](https://stackexchange.com/users/-1/135-mfg) on 2011-03-03
 - score: 0
 
-I'm just wondering if there is an atheist group that meets in NE Houston. Somewhere outside of the Beltway-8; areas in the vicinity of Kingwood, Humble, Atascocita, Spring, Porter, or Huffman?
+<p>You can also look on meetup.com. </p>
+
+<p>A quick search there found <a href="http://www.meetup.com/Houston-Atheists/" rel="nofollow">Houston Atheists,</a> a group that meets at different locations around the city. In addition there are similar groups listed on their landing page, groups for skeptics, humanists, secularists, as well as the KHA-Atheists you mentioned.</p>
+
 
 
 

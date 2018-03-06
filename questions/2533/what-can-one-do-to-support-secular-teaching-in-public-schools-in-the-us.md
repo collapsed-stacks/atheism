@@ -17,8 +17,7 @@ What can we do as individuals to support and change our public schools, to keep 
 - posted by: [Ustice](https://stackexchange.com/users/-1/541-ustice) on 2011-01-31
 - score: 6
 
-<p>Keep involved with the meetings of your local school board. You don't need to attend each one, but track what they are meeting about. If the issue comes up, go to meetings, and speak up. Many of these poor decisions are made because of a vocal minority. Get other parents involved, and make them aware of upcoming meetings.</p>
-
+Keep involved with the meetings of your local school board. You don't need to attend each one, but track what they are meeting about. If the issue comes up, go to meetings, and speak up. Many of these poor decisions are made because of a vocal minority. Get other parents involved, and make them aware of upcoming meetings.
 
 
 ## Answer 2536
@@ -26,12 +25,9 @@ What can we do as individuals to support and change our public schools, to keep 
 - posted by: [Proteus](https://stackexchange.com/users/-1/940-proteus) on 2011-01-31
 - score: 4
 
-<ol>
-<li>Support the <a href="http://ncse.org" rel="nofollow">National Center for Science Education</a></li>
-<li>Go to school board meetings, especially where curriculum is being discussed, and be heard</li>
-<li>Write your legislators and/or committee members whenever education standards are being discussed</li>
-</ol>
-
+1. Support the [National Center for Science Education](http://ncse.org)
+2. Go to school board meetings, especially where curriculum is being discussed, and be heard
+3. Write your legislators and/or committee members whenever education standards are being discussed
 
 
 ## Answer 2560

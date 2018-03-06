@@ -12,7 +12,16 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2010-12-22
 - score: 4
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+It's Your Hell... You Burn In It
+
+If you don't pray in my school, I won't think in your church
+
+Hatred is not a family value
+
+Eve was framed
+
+zillions more here: http://www.evolvefish.com/
+
 
 
 ## Answer 1215
@@ -20,7 +29,11 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Mudak](https://stackexchange.com/users/-1/205-mudak) on 2010-12-23
 - score: 2
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+Science flies people to the moon.  Religion flies people into buildings.
+
+Jesus is the Answer.  "Who is a myth?" is the Question.
+
+I found him!  I have Jesus in the trunk!
 
 
 ## Answer 1787
@@ -28,7 +41,11 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-30
 - score: 1
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+I like this one
+
+![TOXIC Atheism Bumper Sticker](http://www.carryabigsticker.com/images/toxic_300.gif)
+
+http://carryabigsticker.com/index_atheism.htm
 
 
 ## Answer 1797
@@ -36,7 +53,9 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-30
 - score: 1
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+![Nothing Fails Like Prayer](http://www.ffrf.org/images/sized/uploads/products/fails_1-250x74.jpg)
+
+http://www.ffrf.org/shop/bumper-stickers/nothing-fails-like-prayer/
 
 
 ## Answer 1180
@@ -44,7 +63,9 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [noisician](https://stackexchange.com/users/-1/90-noisician) on 2010-12-22
 - score: 0
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+I made up this "poe" Christian bumper sticker for atheists:
+
+Torture murder saved my life. Ask me how! (Pair with image of crucifix.)
 
 
 ## Answer 1788
@@ -52,7 +73,9 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-30
 - score: 0
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+![Faith Is Not Wanting To Know What Is True sticker](http://www.evolvefish.com/fish/media/S-FaithIsNotWanting.gif)
+
+http://www.evolvefish.com/fish/stickers-ss2.html
 
 
 ## Answer 1790
@@ -60,7 +83,13 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-30
 - score: 0
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+Slightly more offensive than I'd want with an explicit claim to *insanity*, but
+
+![Guilt, Fear, Mass Insanity... Christianity sticker](http://www.evolvefish.com/fish/media/S-GuiltFearMassInsan.gif)
+
+![Guilt, Fear, Mass Insanity... Islam sticker](http://www.evolvefish.com/fish/media/S-GuiltFearIslamChr.gif)
+
+http://www.evolvefish.com/fish/stickers-ss4.html
 
 
 ## Answer 1791
@@ -68,7 +97,9 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-30
 - score: 0
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+![Keep Your Theology off my Biology sticker](http://www.evolvefish.com/fish/media/S-KeepYourTheology.gif)
+
+http://www.evolvefish.com/fish/stickers-ss5.html
 
 
 ## Answer 1792
@@ -76,7 +107,9 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-30
 - score: 0
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+this one might be a little *too* subtle for my tastes ;)
+
+![May You Have Exactly The God You Deserve sticker](http://www.evolvefish.com/fish/media/S-MayYouHaveGod.gif)
 
 
 ## Answer 1794
@@ -84,7 +117,11 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-30
 - score: 0
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+Aww, this one is all kinds of win. (USA)
+
+![One Nation Under-Educated Sticker](http://www.evolvefish.com/fish/media/S-OneNationUndEdu.jpg)
+
+http://www.evolvefish.com/fish/stickers-ss6.html
 
 
 ## Answer 1795
@@ -92,7 +129,9 @@ Usually atheist bumper stickers are pretty witty and make me chuckle. Have you s
 - posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-30
 - score: 0
 
-Usually atheist bumper stickers are pretty witty and make me chuckle. Have you seen any good ones, or maybe you have one on your car?
+![You Found God? If Nobody Claims Him In 30 Days, He's Your's!](http://www.evolvefish.com/fish/media/S-311.jpg)
+
+http://www.evolvefish.com/fish/stickers-ss8.html
 
 
 

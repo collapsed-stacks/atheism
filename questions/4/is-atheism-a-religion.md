@@ -18,8 +18,7 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [sirrocco](https://stackexchange.com/users/-1/51-sirrocco) on 2010-12-14
 - score: 39
 
-<p>Well the obvious answer is NO. And the most used analogy is : atheism is a religion the same way not collecting stamps is a hobby.</p>
-
+Well the obvious answer is NO. And the most used analogy is : atheism is a religion the same way not collecting stamps is a hobby.
 
 
 ## Answer 46
@@ -27,72 +26,63 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Stefano Palazzo](https://stackexchange.com/users/-1/47-stefano-palazzo) on 2010-12-14
 - score: 39
 
-<p>I suppose the question you're really asking is <em>Do atheists take it on faith, that there is no god</em>.</p>
+I suppose the question you're really asking is *Do atheists take it on faith, that there is no god*.
 
-<p>That depends on whether the question of its or their existence is a <em>scientific</em> hypothesis or not. Atheists take it on evidence that there is no god - or rather lack thereof.</p>
+That depends on whether the question of its or their existence is a *scientific* hypothesis or not. Atheists take it on evidence that there is no god - or rather lack thereof.
 
-<p>Arguments for:</p>
+Arguments for:
 
-<ul>
-<li><p>The evidence claimed by believers can be examined. In which case, you would most probalby find that there isn't nearly enough of it. The hypothesis, for example, that the god of the Torah exists, is backed up by a few bits of evidence, like miracles and so on</p>
+ - The evidence claimed by believers can be examined. In which case, you would most probalby find that there isn't nearly enough of it. The hypothesis, for example, that the god of the Torah exists, is backed up by a few bits of evidence, like miracles and so on
 
-<p>A scientific examination of this evidence will, to all impartial analysis, turn up <strong>no result</strong>. All evidence can be <em>explained away</em> so to speak, until there isn't much left. It is therefore necessary to conclude that no evidence could be found, thus there is no god.</p></li>
-</ul>
+ A scientific examination of this evidence will, to all impartial analysis, turn up **no result**. All evidence can be *explained away* so to speak, until there isn't much left. It is therefore necessary to conclude that no evidence could be found, thus there is no god.
 
-<p>Arguments against:</p>
+Arguments against:
 
-<ul>
-<li><p>Suppose you were believing in Russel's tea pot: Wether the tea pot exists or not is not up to scientific debate, because it doesn't suppose something that is observable, nor something that has any observable effects.</p>
+ - Suppose you were believing in Russel's tea pot: Wether the tea pot exists or not is not up to scientific debate, because it doesn't suppose something that is observable, nor something that has any observable effects.
 
-<p>It is therefore, with all the necessary scientific rigour, an <strong>unanswerable</strong> question. The good practices of science dictate that this question be answered negatively,  until any evidence to the contrary turns up</p></li>
-</ul>
+ It is therefore, with all the necessary scientific rigour, an **unanswerable** question. The good practices of science dictate that this question be answered negatively,  until any evidence to the contrary turns up
 
-<p>This is examining the question of the existence of god, or gods, as a classical scientific hypothesis. Most often, historically, the question has been asked as a philosophical one. Which is a different thing altogether. </p>
+This is examining the question of the existence of god, or gods, as a classical scientific hypothesis. Most often, historically, the question has been asked as a philosophical one. Which is a different thing altogether. 
 
-<p>Philosophy provides many tools to answer this question, only one of which is Logic. It is obviously to be answered negatively using classical logical reasoning. But there are philosophical paths which can legitimately, following all of their rules and standards, answer it positively. </p>
+Philosophy provides many tools to answer this question, only one of which is Logic. It is obviously to be answered negatively using classical logical reasoning. But there are philosophical paths which can legitimately, following all of their rules and standards, answer it positively. 
 
-<p>You will find, for example, that it makes perfect sense from a post modern relativistic point of view to suppose there may well be a god or gods. These discussions must be answered by questioning the validity of the methodology itself, instead of engaging in it's style of discussion, the same goes the other way 'round of course.</p>
+You will find, for example, that it makes perfect sense from a post modern relativistic point of view to suppose there may well be a god or gods. These discussions must be answered by questioning the validity of the methodology itself, instead of engaging in it's style of discussion, the same goes the other way 'round of course.
 
-<ul>
-<li>If we allow every kind of reasoning, we will get every possible answer. If we restrict the applicable methodology to, for example, logic, or the scientific method, we will find the answer is No.</li>
-</ul>
+ - If we allow every kind of reasoning, we will get every possible answer. If we restrict the applicable methodology to, for example, logic, or the scientific method, we will find the answer is No.
 
-<p>This is of course no proof, by definition. From a strict scientific point of view, there is no god until we get more evidence. <strong>This we don't take on faith any more than gravity or evolution</strong>. We judge it by it's observable effects. If there is no effect, there is no agent.</p>
+This is of course no proof, by definition. From a strict scientific point of view, there is no god until we get more evidence. **This we don't take on faith any more than gravity or evolution**. We judge it by it's observable effects. If there is no effect, there is no agent.
 
-<hr>
+---
 
-<p>As you've updated your question, I'll add this little bit:</p>
+As you've updated your question, I'll add this little bit:
 
-<p>If people regard your lack of religiosity as not being based on evidence - or as being based on unsubstantiated evidence, they must provide reasons for it. Otherwise, you needn't take them seriously. You need not, as you may think at first, disprove their assertions.</p>
+If people regard your lack of religiosity as not being based on evidence - or as being based on unsubstantiated evidence, they must provide reasons for it. Otherwise, you needn't take them seriously. You need not, as you may think at first, disprove their assertions.
 
-<p>One must be careful to keep in mind that one is refusing to accept an assertion, rather than making one.</p>
+One must be careful to keep in mind that one is refusing to accept an assertion, rather than making one.
 
-<p><strong>In practice</strong>, arguments that lack of religious belief is based on <em>faith</em> often rely on misconceptions and fallacies about science.</p>
 
-<p><strong>Just one example:</strong></p>
+**In practice**, arguments that lack of religious belief is based on *faith* often rely on misconceptions and fallacies about science.
 
-<p>The scientific principle of falsifiability must apply and if not answered, renders the question unscientific. Here's the fallacy:</p>
+**Just one example:**
 
-<ul>
-<li><p><strong>An unanswerable question is one that you can answer "any way you like"</strong>. </p>
+The scientific principle of falsifiability must apply and if not answered, renders the question unscientific. Here's the fallacy:
 
-<p>An argument employing this fallacy is easily contradicted. And I'll assert that many of the <em>"atheists are believers too"</em>-arguments are employing it. </p></li>
-</ul>
+  - **An unanswerable question is one that you can answer "any way you like"**. 
 
-<p>And here's the logical proof to refute it:</p>
+    An argument employing this fallacy is easily contradicted. And I'll assert that many of the *"atheists are believers too"*-arguments are employing it. 
 
-<ol>
-<li><p>if a question is unanswerable, it can (a) have no knowable answers or (b) have no answers</p>
+And here's the logical proof to refute it:
 
-<ul>
-<li><p>a: There is no way prove any answer, therefore the correctness of no answer can be established, therefore no answer is found to be correct,</p></li>
-<li><p>b: There are no answers, therefore there are no right answers,</p></li>
-</ul></li>
-<li><p>therefore every answer is to be considered wrong.</p></li>
-</ol>
+ 1. if a question is unanswerable, it can (a) have no knowable answers or (b) have no answers
 
-<p>Or to put it in context, if we can't know there is no god (which hasn't been established here remember), we must assume there is no god, until further evidence is provided or the prerequisites to the question change.</p>
+    - a: There is no way prove any answer, therefore the correctness of no answer can be established, therefore no answer is found to be correct,
 
+    - b: There are no answers, therefore there are no right answers,
+
+
+ 2. therefore every answer is to be considered wrong.
+
+Or to put it in context, if we can't know there is no god (which hasn't been established here remember), we must assume there is no god, until further evidence is provided or the prerequisites to the question change.
 
 
 ## Answer 14
@@ -100,8 +90,7 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Ferumbras](https://stackexchange.com/users/-1/36-ferumbras) on 2010-12-14
 - score: 4
 
-<p>Quite simply, no. Does one have a religion around one's non-belief in unicorns? Unlikely. It seems the reason this question keeps cropping up is that atheism is (often) in opposition to religion and so many want to see it as offering a counter-religion in place of established ones.</p>
-
+Quite simply, no. Does one have a religion around one's non-belief in unicorns? Unlikely. It seems the reason this question keeps cropping up is that atheism is (often) in opposition to religion and so many want to see it as offering a counter-religion in place of established ones.
 
 
 ## Answer 26
@@ -109,16 +98,15 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Robert](https://stackexchange.com/users/-1/35-robert) on 2010-12-14
 - score: 2
 
-<p>In general I agree with sirocco. But I think it's more subtle than that.</p>
+In general I agree with sirocco. But I think it's more subtle than that.
 
-<p>I believe very strongly in the world as-is, which is to say that I do my best to transform my mental model of the world to match the world as accurately as possible. When I find an inconsistency, <strong>I'm</strong> wrong, whether it's my understanding or my senses - but I don't allow my understanding to contradict the world. I don't believe in science, but I do understand that it will tend to yield the best answer. </p>
+I believe very strongly in the world as-is, which is to say that I do my best to transform my mental model of the world to match the world as accurately as possible. When I find an inconsistency, **I'm** wrong, whether it's my understanding or my senses - but I don't allow my understanding to contradict the world. I don't believe in science, but I do understand that it will tend to yield the best answer. 
 
-<p>So I feel extremely strongly that the miracle of Life is that intricate complexity could arise from simple determinism, and that simply existing is enough to be proud of. I also feel I should make the best of the time I have, because that's it.</p>
+So I feel extremely strongly that the miracle of Life is that intricate complexity could arise from simple determinism, and that simply existing is enough to be proud of. I also feel I should make the best of the time I have, because that's it.
 
-<p>You could call <strong>that</strong> feeling a religion. But if I was being cynical, I'd say that it's based in observable fact and therefore not a religion.</p>
+You could call **that** feeling a religion. But if I was being cynical, I'd say that it's based in observable fact and therefore not a religion.
 
-<p>But I'll be going to Christmas mass in a few weeks. I'm not "not-Christian", I'm just not religious.</p>
-
+But I'll be going to Christmas mass in a few weeks. I'm not "not-Christian", I'm just not religious.
 
 
 ## Answer 394
@@ -126,20 +114,19 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [bakoyaro](https://stackexchange.com/users/-1/206-bakoyaro) on 2010-12-15
 - score: 2
 
-<p>Yes <strong>and</strong> no. It depends on the practitioner. I consider religion to be a fervent, illogical belief in a system.</p>
+Yes **and** no. It depends on the practitioner. I consider religion to be a fervent, illogical belief in a system.
 
-<p>Argument for <strong>YES</strong></p>
+Argument for **YES**
 
-<p>I would say that some people that take on the label of '<strong><em>atheist</em></strong>' (intentional emphasis on the quotation marks) do so in direct opposition to a belief system that they grew up in, and take their non-belief to the same extremes that believers of the same system would take.</p>
+I would say that some people that take on the label of '***atheist***' (intentional emphasis on the quotation marks) do so in direct opposition to a belief system that they grew up in, and take their non-belief to the same extremes that believers of the same system would take.
 
-<p>Argument for <strong>NO</strong></p>
+Argument for **NO**
 
-<p>Others take on the label of atheist (no quotes) because of a rational outlook on life. They realize the inherent good and bad in humanity and deal with it in a rational way, and not 'pray' it away.</p>
+Others take on the label of atheist (no quotes) because of a rational outlook on life. They realize the inherent good and bad in humanity and deal with it in a rational way, and not 'pray' it away.
 
-<p>I look at it in respect to sanity. I don't think that I'm 'going to hell' because I refused to let my new-born son be mutilated in the name of god (circumcision). I don't believe that I'm going to hell because I cheated on a test when I was in the third grade. I don't think I am assured a place in heaven because I was an altar boy as a child. On the same note, I don't believe I will go to heaven because of the good things I have done in my life. </p>
+I look at it in respect to sanity. I don't think that I'm 'going to hell' because I refused to let my new-born son be mutilated in the name of god (circumcision). I don't believe that I'm going to hell because I cheated on a test when I was in the third grade. I don't think I am assured a place in heaven because I was an altar boy as a child. On the same note, I don't believe I will go to heaven because of the good things I have done in my life. 
 
-<p>I don't believe in hell because it doesn't exist. I don't believe in heaven because it doesn't exist. Heaven and hell are can be manifested just fine in this life. Who can afford to waste time thinking about the afterlife when this life is right in front of them?</p>
-
+I don't believe in hell because it doesn't exist. I don't believe in heaven because it doesn't exist. Heaven and hell are can be manifested just fine in this life. Who can afford to waste time thinking about the afterlife when this life is right in front of them?
 
 
 ## Answer 13
@@ -147,8 +134,7 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [MiffTheFox](https://stackexchange.com/users/-1/67-miffthefox) on 2010-12-14
 - score: 1
 
-<p>In my opinion, atheism is rather a descriptor that describes a religion (or in many cases, a philosophy) then a religion itself, more akin to monotheism or polytheism in general.</p>
-
+In my opinion, atheism is rather a descriptor that describes a religion (or in many cases, a philosophy) then a religion itself, more akin to monotheism or polytheism in general.
 
 
 ## Answer 21
@@ -156,14 +142,14 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Lorenzo](https://stackexchange.com/users/-1/70-lorenzo) on 2010-12-14
 - score: 1
 
-<p>There's no definitive answer.</p>
+There's no definitive answer.
 
-<p>However, there are at least two different macro-groups of atheists:</p>
+However, there are at least two different macro-groups of atheists:
 
-<ul>
-<li><p>activist atheists: people that actually <em>believe</em> that atheism is the right moral/civil/rational choice and actively promote it. In this case, it <em>may</em> sometimes evolve in a pseudo-religion thing</p></li>
-<li><p>unconcerned atheists: people that just don't believe in any kind of God and are uninterested with the question; in this case atheism is absolutely not a kind of religion</p></li>
-</ul>
+- activist atheists: people that actually *believe* that atheism is the right moral/civil/rational choice and actively promote it. In this case, it *may* sometimes evolve in a pseudo-religion thing
+
+- unconcerned atheists: people that just don't believe in any kind of God and are uninterested with the question; in this case atheism is absolutely not a kind of religion
+
 
 
 
@@ -214,12 +200,11 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Rob Schneider](https://stackexchange.com/users/-1/149-rob-schneider) on 2010-12-14
 - score: 1
 
-<p>No.  Atheism is a position held with respect to a proposition that God(s) exist, in which the atheist says, "I do not find evidence in support of your proposition and I will take no action in my life based ON that proposition being true."</p>
+No.  Atheism is a position held with respect to a proposition that God(s) exist, in which the atheist says, "I do not find evidence in support of your proposition and I will take no action in my life based ON that proposition being true."
 
-<p>A religion accepts the proposition AND takes actions based on the proposition being true: worship, sacrifice, prayer, etc.</p>
+A religion accepts the proposition AND takes actions based on the proposition being true: worship, sacrifice, prayer, etc.
 
-<p>Atheism has no "authoritative texts.  Atheism has no required practices, or proscribed activities.  The desire by the religious to tar us with the CLAIM that atheism is a religion... so I guess we're just as bad as they are in having "faith"??... is a gross example of projection. </p>
-
+Atheism has no "authoritative texts.  Atheism has no required practices, or proscribed activities.  The desire by the religious to tar us with the CLAIM that atheism is a religion... so I guess we're just as bad as they are in having "faith"??... is a gross example of projection. 
 
 
 ## Answer 463
@@ -238,8 +223,7 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Spadog](https://stackexchange.com/users/-1/308-spadog) on 2010-12-22
 - score: 1
 
-<p>No, where is the dogma? I'm not sure why we even need a word for it. Do we need a word for not believing in flying pigs?</p>
-
+No, where is the dogma? I'm not sure why we even need a word for it. Do we need a word for not believing in flying pigs?
 
 
 ## Answer 17
@@ -247,8 +231,7 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Renato Rodrigues](https://stackexchange.com/users/-1/49-renato-rodrigues) on 2010-12-14
 - score: 0
 
-<p>My answer is no. In my view, being religious is synonymous to believe in one or more gods.</p>
-
+My answer is no. In my view, being religious is synonymous to believe in one or more gods.
 
 
 ## Answer 327
@@ -256,14 +239,13 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Renshia](https://stackexchange.com/users/-1/184-renshia) on 2010-12-15
 - score: 0
 
-<p>Atheism is simply a word to describe a position of non belief.</p>
+Atheism is simply a word to describe a position of non belief.
 
-<p>If you take a generic definition of religion; "a specific fundamental set of beliefs and practices generally agreed upon by a number of persons or sects" then from that definition as a starting position, it could be developed into a religious belief system.</p>
+If you take a generic definition of religion; "a specific fundamental set of beliefs and practices generally agreed upon by a number of persons or sects" then from that definition as a starting position, it could be developed into a religious belief system.
 
-<p>However if you take on a more specific definition like, "a set of beliefs concerning the cause, nature, and purpose of the universe, esp. when considered as the creation of a superhuman agency or agencies, usually involving devotional and ritual observances, and often containing a moral code governing the conduct of human affairs."</p>
+However if you take on a more specific definition like, "a set of beliefs concerning the cause, nature, and purpose of the universe, esp. when considered as the creation of a superhuman agency or agencies, usually involving devotional and ritual observances, and often containing a moral code governing the conduct of human affairs."
 
-<p>The the very foundations of what a religion is, "the creation of a superhuman agency or agencies" dictates the inability of atheism to be a religion or it's belief systems developing into one. The foundation of which it would need to be created on is the main principle of contention.  </p>
-
+The the very foundations of what a religion is, "the creation of a superhuman agency or agencies" dictates the inability of atheism to be a religion or it's belief systems developing into one. The foundation of which it would need to be created on is the main principle of contention.  
 
 
 ## Answer 486
@@ -271,8 +253,7 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [letronje](https://stackexchange.com/users/-1/213-letronje) on 2010-12-15
 - score: 0
 
-<p>Atheism is a religion if being healthy is a disease.</p>
-
+Atheism is a religion if being healthy is a disease.
 
 
 ## Answer 1273
@@ -280,8 +261,7 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Maxpm](https://stackexchange.com/users/-1/396-maxpm) on 2010-12-23
 - score: 0
 
-<p>No.  Is "unemployed" a profession?  Of course not!</p>
-
+No.  Is "unemployed" a profession?  Of course not!
 
 
 ## Answer 1324
@@ -289,10 +269,9 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Andreas Bonini](https://stackexchange.com/users/-1/421-andreas-bonini) on 2010-12-24
 - score: 0
 
-<p>Do you consider being unemployed a job?</p>
+Do you consider being unemployed a job?
 
-<p>No? Then being atheist is not a religion.</p>
-
+No? Then being atheist is not a religion.
 
 
 ## Answer 222
@@ -300,12 +279,11 @@ To be more precise, I'm looking for answers along the lines of [stefano's answer
 - posted by: [Satanicpuppy](https://stackexchange.com/users/-1/169-satanicpuppy) on 2010-12-14
 - score: -5
 
-<p>I think it's pretty clear that any group that has a concrete belief about the nature of god that is founded in absence of evidence is religious in nature. Indeed, you can even become ordained in the <a href="http://firstchurchofatheism.com/" rel="nofollow">Church of Atheism</a>, go to <a href="http://tdn.com/news/article_cffb5e36-70f4-59c9-af98-87fe871d81a9.html" rel="nofollow">athiest gatherings</a> and affirm your lack of belief in god, sing atheist songs, put <a href="http://www.free2think.org/forum/viewtopic.php?f=5&amp;t=19" rel="nofollow">annoying ads</a> in public places.</p>
+I think it's pretty clear that any group that has a concrete belief about the nature of god that is founded in absence of evidence is religious in nature. Indeed, you can even become ordained in the <a href="http://firstchurchofatheism.com/">Church of Atheism</a>, go to <a href="http://tdn.com/news/article_cffb5e36-70f4-59c9-af98-87fe871d81a9.html">athiest gatherings</a> and affirm your lack of belief in god, sing atheist songs, put <a href="http://www.free2think.org/forum/viewtopic.php?f=5&t=19">annoying ads</a> in public places.
 
-<p>What else would you call it?</p>
+What else would you call it?
 
-<p>I tend to argue both sides (because I enjoy it), and I've found that, for every atypically informed and cogent religious person, there is an equally uninformed and ignorant non-religious person, at which point it just boils down to "my team" vs "your team", and the whole thing becomes tedious. </p>
-
+I tend to argue both sides (because I enjoy it), and I've found that, for every atypically informed and cogent religious person, there is an equally uninformed and ignorant non-religious person, at which point it just boils down to "my team" vs "your team", and the whole thing becomes tedious. 
 
 
 
