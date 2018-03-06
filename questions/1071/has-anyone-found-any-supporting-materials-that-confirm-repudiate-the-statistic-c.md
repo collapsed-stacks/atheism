@@ -1,0 +1,95 @@
+## Has anyone found any supporting materials that confirm/repudiate the statistic claiming "0.21% of Americans in prison are atheists"?
+
+- posted by: [mfg](https://stackexchange.com/users/-1/135-mfg) on 2010-12-20
+- tagged: `debate-points`, `religion`, `demography`
+- score: 8
+
+[Looking for statistics about Atheists][1] I encountered the same statistic over and over, "0.21% of Americans in prison are atheists." [I have found one source that asserts this][2](it is in the form of correspondence between the proprietor of an atheist web-site and a research analyst with the Federal Bureau of Prisons). [It is then repeated][3] [across multiple sites][4] as though the data isn't out of date or from a single point. 
+
+Can anyone substantiate this statistic with non-deprecated information? I am having difficulty tracking down any additional census information ([that might address this more directly][5] and comes from a less biased group) myself, aside from other sites citing this solitary piece from 1997.
+
+Note: The note itself, from this 1997 blog post, appears also to have no supporting correspondence.
+
+
+  [1]: http://atheism.stackexchange.com/questions/814/are-there-any-solid-statistics-that-show-negative-side-effects-of-religion-or-pos
+  [2]: http://www.holysmoke.org/icr-pri.htm
+  [3]: http://www.heavingdeadcats.com/2010/04/21/no-more-aa-for-nonbelievers/
+  [4]: http://freethoughtpedia.com/wiki/Percentage_of_atheists#Atheists_In_Prison
+  [5]: http://www.skepticfiles.org/american/prison.htm
+
+
+## Answer 1079
+
+- posted by: [Evan Carroll](https://stackexchange.com/users/-1/5-evan-carroll) on 2010-12-21
+- score: 7
+
+<p>The 0.2% statistic comes from the <a href="http://www.homeoffice.gov.uk" rel="nofollow">The Home Office in the UK</a>, not the US.</p>
+
+<ul>
+<li><a href="http://www.homeoffice.gov.uk/rds/pdfs/hosb1501.pdf" rel="nofollow">Religion in Prisons 1999 and 2000</a></li>
+</ul>
+
+<p>I found it on <a href="http://thoughtfulfaith.wordpress.com/2010/03/12/atheists-in-prison/" rel="nofollow">thoughtfulfaith.wordpress.com</a>, which claims to debunk this claim and has a good use of internal citations.</p>
+
+<p>(For archival purposes)</p>
+
+<blockquote>
+  <p>"[...] 31.9% of inmates claimed to have “no religion”, of whom 0.2% who specifically answered that they were “atheists” and 0.1% who answered that they were “agnostic”."</p>
+  
+  <p><a href="http://thoughtfulfaith.wordpress.com/2010/03/12/atheists-in-prison/" rel="nofollow"><em>Thoughtful Faith</em></a></p>
+</blockquote>
+
+<p>The blog is indeed true, as sad as it is. I checked the report and verified.</p>
+
+
+
+## Answer 1993
+
+- posted by: [Rodger Cooley](https://stackexchange.com/users/-1/58-rodger-cooley) on 2011-01-05
+- score: 4
+
+<p>This is not yet a complete answer, but I went to the Bureau of Prison's web site <a href="http://www.bop.gov" rel="nofollow">http://www.bop.gov</a> and did some simple, brief searches for any type of inmate religion reports... came up empty.  They have a library resource supposedly here <a href="http://www.bop.gov/foia/reading.jsp" rel="nofollow">http://www.bop.gov/foia/reading.jsp</a>.  Maybe you can find something I missed.</p>
+
+<p>I filed a FOIA request for an inmate religious affiliation report today, but who knows if/when that will be answered.</p>
+
+<p>I'll keep this thread updated if I receive any further news.</p>
+
+<p>Somewhat off topic, I found this paper published in April 2006 titled "An Exploration into Participation in a Faith-Based Prison Program" <a href="http://www.bop.gov/news/research_projects/published_reports/gen_program_eval/volunteer_cpp.pdf" rel="nofollow">http://www.bop.gov/news/research_projects/published_reports/gen_program_eval/volunteer_cpp.pdf</a>
+Some of the stats are interesting, but not directly relevant.</p>
+
+
+
+## Answer 1076
+
+- posted by: [Winawer](https://stackexchange.com/users/-1/281-winawer) on 2010-12-20
+- score: 1
+
+<p>I couldn't find anything from the US, but up here in Canada the Correctional Services people have some data on this.  Look at the charts at the end of this report:</p>
+
+<p><a href="http://www.csc-scc.gc.ca/text/pa/ev-ncepc-394-2-026/pastoral_care_report_e.pdf" rel="nofollow">http://www.csc-scc.gc.ca/text/pa/ev-ncepc-394-2-026/pastoral_care_report_e.pdf</a></p>
+
+<p>and a quick numerical summary is here:</p>
+
+<p><a href="http://www.csc-scc.gc.ca/text/prgrm/chap/rsa/doc-eng.shtml" rel="nofollow">http://www.csc-scc.gc.ca/text/prgrm/chap/rsa/doc-eng.shtml</a></p>
+
+<p>Unfortunately, they're sloppy with their criteria.  It's not entirely clear if "non-religious" means atheist or is a catch-all for "no religion / I don't want to talk about it".  And they have a separate category for "Other", which they say includes atheist and agnostic.  In any case, though, outside of Québec, it seems unlikely that the number of atheists in Canadian prisons is as low as .21%.  It could range, depending on the region, anywhere from ~1% to as much as 20-40%.</p>
+
+
+
+## Answer 1072
+
+- posted by: [Lauren Ipsum](https://stackexchange.com/users/-1/71-lauren-ipsum) on 2010-12-20
+- score: 0
+
+<p>Are either of these useful?</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Demographics_of_atheism#North_America" rel="nofollow">http://en.wikipedia.org/wiki/Demographics_of_atheism#North_America</a></p>
+
+<p><a href="http://www.americanreligionsurvey-aris.org/2009/09/american_nones_the_profile_of_the_no_religion_population.html" rel="nofollow">http://www.americanreligionsurvey-aris.org/2009/09/american_nones_the_profile_of_the_no_religion_population.html</a></p>
+
+
+
+
+---
+
+All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
