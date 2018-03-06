@@ -131,4 +131,4 @@ Today is 4.3233e+17 seconds from the big bang. Totally scientific, albeit diffic
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

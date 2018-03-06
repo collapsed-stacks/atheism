@@ -1,2 +1,11 @@
-title: "Atheism Stack Exchange Archive"
-exclude: ['*.xml', '*.jsonl']
+{
+  "exclude": [
+    "data"
+  ],
+  "stack_site": {
+    "name": "Atheism Stack Exchange",
+    "proposal_id": 2732,
+    "slug": "atheism"
+  },
+  "title": "Atheism Stack Exchange Archive"
+}

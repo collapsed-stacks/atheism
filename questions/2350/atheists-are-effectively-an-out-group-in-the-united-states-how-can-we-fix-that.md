@@ -71,4 +71,4 @@ Seems highly unlikely that we'd ever compromise on our own opinions enough to fo
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

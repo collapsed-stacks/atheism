@@ -100,4 +100,4 @@ I wish I could find a debate where Hitchens clearly rebuts Lane Craig's nonsense
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -41,4 +41,4 @@ And yes, as an atheist I don't think there's a lot of propaganda benefit to be h
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

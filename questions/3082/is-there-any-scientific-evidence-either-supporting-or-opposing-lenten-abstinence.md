@@ -41,4 +41,4 @@ Isn't the whole esoteric movement grounded on experiences with psychedelic drugs
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

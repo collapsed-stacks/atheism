@@ -22,4 +22,4 @@ More examples: http://en.wikipedia.org/wiki/Freedom_of_speech_versus_blasphemy#I
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -92,4 +92,4 @@ While they are certainly linked, I wouldn't say that they are inseperable. Peopl
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

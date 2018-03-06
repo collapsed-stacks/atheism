@@ -115,4 +115,4 @@ It isn't the fault of the blind, that they fall in a hole; it is the fault of th
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

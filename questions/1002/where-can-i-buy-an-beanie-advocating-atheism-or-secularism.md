@@ -58,4 +58,4 @@ Do you mean a baseball-cap-like beanie (with or without bill), or do you mean a 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

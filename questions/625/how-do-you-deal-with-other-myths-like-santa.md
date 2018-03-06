@@ -67,4 +67,4 @@ http://www.torontosun.com/news/canada/2008/12/23/7839591.html
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

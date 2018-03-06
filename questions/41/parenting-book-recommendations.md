@@ -69,4 +69,4 @@ When they get a little older, David James Duncan. "God Laughs and Plays" is a go
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

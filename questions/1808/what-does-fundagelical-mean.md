@@ -25,4 +25,4 @@ It's a <a href="http://en.wikipedia.org/wiki/Portmanteau">portmanteau</a> of "<a
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

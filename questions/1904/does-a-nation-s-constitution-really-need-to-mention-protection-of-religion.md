@@ -87,4 +87,4 @@ The "Bill of Rights" (as the first 10 amendments to the US Constitution are know
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

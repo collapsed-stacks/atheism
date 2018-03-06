@@ -103,4 +103,4 @@ It isn't any sort of supernatural prediction, but just a way of saying "mummifie
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

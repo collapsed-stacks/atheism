@@ -48,4 +48,4 @@ I just had to read The Hitchhiker's Guide to the Galaxy for the first time, at a
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
